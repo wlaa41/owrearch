@@ -67,8 +67,21 @@ const HeroBanner: React.FC = () => {
                       height={62}
                     /> */}
                   <div className="right">
-                    <ElectricianVanSmartHomeImage/>
-                    </div>]
+                  <video
+      className="imgclass"
+      autoPlay
+      loop
+      muted
+      playsInline
+      title={'ow labs with drones and space'}
+
+      style={{ width: "100%", height: "auto" }} // Uncomment if needed
+    >
+      <source src="/videos/Drone_Lab_Innovation_simple_Courses.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+                    {/* <ElectricianVanSmartHomeImage/> */}
+                    </div>
 
                   <div className="banner-image" id="willtest">
 
@@ -79,7 +92,7 @@ const HeroBanner: React.FC = () => {
           </div>
         </div>
 
-        {/* Shape Images */}
+        {/* Shape Images
         <div className="shape1">
           <Image src={shape1} alt="shape" width={202} height={202} />
         </div>
@@ -103,7 +116,7 @@ const HeroBanner: React.FC = () => {
         </div>
         <div className="shape8 rotateme">
           <Image src={shape2} alt="shape" width={22} height={22} />
-        </div>
+        </div> */}
       </div>
     </>
   )
@@ -113,4 +126,115 @@ export default HeroBanner;
 
                
                
-                    
+                    // src\components\ImageOptimizedWithJsonId.tsx
+// import React from 'react';
+// // import { useEffect } from 'react';
+
+// export interface ImageOptimizedWithJsonIdProps {
+//   src: string;
+//   alt: string;
+//   title: string;
+//   author: string;
+//   copyright: string;
+//   credit: string;
+//   dateCreated: string;
+//   usageTerms: string;
+//   description: string;
+//   keywords: string[];
+//   width?: number; // Made optional
+//   height?: number; // Made optional
+//   caption: string;
+//   pageUrl: string;
+//   thumbnailSrc: string;  // Added thumbnail source
+//   thumbnailWidth?: number; // Added thumbnail width
+//   thumbnailHeight?: number; // Added thumbnail height
+//   className?: string;  // Optional className prop
+//   [x: string]: any;    // To pass through additional props
+// }
+
+// const ImageOptimizedWithJsonId: React.FC<ImageOptimizedWithJsonIdProps> = ({
+//   src,
+//   alt,
+//   title,
+//   author,
+//   copyright,
+//   credit,
+//   dateCreated,
+//   usageTerms,
+//   description,
+//   keywords,
+//   width = 800,  // Default width
+//   height = 600,  // Default height
+//   caption,
+//   pageUrl,
+//   thumbnailSrc,  // Destructure thumbnail source
+//   thumbnailWidth = 300,  // Default thumbnail width
+//   thumbnailHeight = 200,  // Default thumbnail height
+//   lazy = true, // Default
+//   className,
+//   ...rest // To capture any additional props
+// }) => {
+//   // useEffect(() => {
+//   //   // Call to server to update sitemap
+//   //   fetch('/api/update-sitemap', {
+//   //     method: 'POST',
+//   //     headers: {
+//   //       'Content-Type': 'application/json',
+//   //     },
+//   //     body: JSON.stringify({
+//   //       pageUrl,
+//   //       src,
+//   //       caption,
+//   //       title,
+//   //       license: usageTerms,
+//   //     }),
+//   //   });
+//   // }, [pageUrl, src, caption, title, usageTerms]);
+
+//   const jsonLd = {
+//     "@context": "https://schema.org",
+//     "@type": "ImageObject",
+//     "contentUrl": src,
+//     "url": src,
+//     "description": description,
+//     "name": title,
+//     "author": {
+//       "@type": "Person",
+//       "name": author,
+//     },
+//     "copyrightHolder": {
+//       "@type": "Person",
+//       "name": copyright,
+//     },
+//     "creditText": credit,
+//     "copyrightYear": new Date(dateCreated).getFullYear(),
+//     "datePublished": dateCreated,
+//     "dateModified": dateCreated,
+//     "license": usageTerms,
+//     "thumbnail": [
+//       {
+//         "@type": "ImageObject",
+//         "contentUrl": thumbnailSrc,
+//         "width": thumbnailWidth.toString(),
+//         "height": thumbnailHeight.toString(),
+//       }
+//     ],
+//     "width": width.toString(),
+//     "height": height.toString(),
+//     "keywords": keywords,
+//   };
+
+//   return (
+//     <>
+//       <JsonLd jsonLd={jsonLd} />
+//       <picture className={className} {...rest}>
+//         <source media="(max-width: 799px)" srcSet={`${src}-799.webp`} />
+//         <source media="(min-width: 800px)" srcSet={`${src}.webp`} />
+        
+        
+//       </picture>
+//     </>
+//   );
+// };
+
+// export default ImageOptimizedWithJsonId;
