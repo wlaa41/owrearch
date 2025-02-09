@@ -31,7 +31,7 @@ const HeroBanner: React.FC = () => {
                       data-aos-delay="100"
                       data-aos-duration="500"
                       data-aos-once="true">
-                      London’s 24/7 Emergency Electrician Services.
+                      Advancing AI, Robotics & Research.
                     </h1>
                     <p
                       data-aos="fade-up"
@@ -40,25 +40,18 @@ const HeroBanner: React.FC = () => {
                       data-aos-once="true"
                       className="fs-6"
                       >
-                      ● No Call-Out Fees
+                      ● Cutting-edge AI & Robotics Research
                       <br />
-                      ● NICEIC Registered
+                      ● Real-to-Sim-to-Real Applications
                       <br />
-                      ● Guaranteed Same-Day Response
+                      ● Advanced DevOps & Cloud Solutions
                       <br />
-                      ● Polite & Professional
+                      ● Published Research & Innovation
                       <br />
-                      ● 5 STAR  Google Reviews
-                      <br />
-                      Call:  {' '}
-                      <a href="tel:+447307567444" itemProp="telephone" aria-label="Call us at 07307 566 444">07307 565 444</a>
-                      {' '} or {' '}
-                      <a href="tel:+447888705118" itemProp="telephone" aria-label="Call us at +447888705118">07888705118</a>
-
-                      <br />
-                      Email: {' '}
-                      <a href="mailto:info@owelectric.co.uk" itemProp="email" aria-label="Email us at info@owelectric.co.uk">info@owelectric.co.uk</a>
+                      Connect: {' '}
+                      <a href="mailto:info@owroquai.com" itemProp="email" aria-label="Email us at info@owroquai.com">info@owroquai.com</a>
                     </p>
+   
    
                       <CallUsNowButton />
 
@@ -75,7 +68,7 @@ const HeroBanner: React.FC = () => {
                     /> */}
                   <div className="right">
                     <ElectricianVanSmartHomeImage/>
-                    </div>
+                    </div>]
 
                   <div className="banner-image" id="willtest">
 

@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from '../components/Layout/Navbar'
 import NavbarTemp from '../components/Layout/NavbarTemp'
 import MainBanner from '../components/ITStartup/MainBanner';
-import MainBannerTemp from '../components/ITStartup/MainBannerTemp';
+// import MainBannerTemp from '../components/ITStartup/MainBannerTemp';
 
 import Features from "../components/ITStartup/Features";
 // import OurFeatures from "../components/ITStartup/OurFeatures";
@@ -30,52 +30,28 @@ import Head from "next/head";
 // import BlogPostSearch from "@/components/BlogPostSearch/BlogPostSearch";
 
 export default function Home() {
-  const offers = [
+  const services = [
     {
       "@type": "Offer",
       "priceCurrency": "GBP",
-      "price": "90",
+      "price": "200",
       "priceValidUntil": "2024-12-31",
       "itemOffered": {
         "@type": "Service",
-        "name": "Scheduled Electrician Appointment for Regular Hours",
-        "description": "Book a pre-scheduled electrician service to ensure timely, efficient, and reliable electrical safety and support across Greater London."
+        "name": "AI & Machine Learning Consulting",
+        "description": "Expert guidance in AI model development, deep learning, and data science applications for businesses and research institutions."
       },
       "availability": "http://schema.org/InStock"
     },
     {
       "@type": "Offer",
       "priceCurrency": "GBP",
-      "price": "130",
+      "price": "250",
       "priceValidUntil": "2024-12-31",
       "itemOffered": {
         "@type": "Service",
-        "name": "Evening Electrical Service - No Extra Charges",
-        "description": "Utilize our no-surcharge evening service from 6 PM to 12 PM for urgent electrical needs with comprehensive inspections and 24/7 customer support."
-      },
-      "availability": "http://schema.org/InStock"
-    },
-    {
-      "@type": "Offer",
-      "priceCurrency": "GBP",
-      "price": "160",
-      "priceValidUntil": "2024-12-31",
-      "itemOffered": {
-        "@type": "Service",
-        "name": "Premium Electrical Services in Central & West London",
-        "description": "Opt for our premium services designed for high-demand zones, featuring advanced smart home solutions and meticulous attention to safety and quality."
-      },
-      "availability": "http://schema.org/InStock"
-    },
-    {
-      "@type": "Offer",
-      "priceCurrency": "GBP",
-      "price": "140",
-      "priceValidUntil": "2024-12-31",
-      "itemOffered": {
-        "@type": "Service",
-        "name": "24/7 Emergency Electrician Services",
-        "description": "Our around-the-clock emergency service ensures rapid response and resolution of electrical emergencies, backed by expert technicians and high-quality materials."
+        "name": "Robotics Development & Simulation",
+        "description": "Custom robotics solutions, simulation environments, and autonomous systems design using ROS and Gazebo."
       },
       "availability": "http://schema.org/InStock"
     },
@@ -86,32 +62,20 @@ export default function Home() {
       "priceValidUntil": "2024-12-31",
       "itemOffered": {
         "@type": "Service",
-        "name": "After-Hours Emergency Electrical Services",
-        "description": "Get instant access to our emergency electrical technicians during late evening hours for critical issue resolution without any additional late-hour charges."
+        "name": "DevOps & Cloud Infrastructure",
+        "description": "Automation, CI/CD pipelines, and cloud infrastructure setup using Kubernetes, Docker, and Terraform."
       },
       "availability": "http://schema.org/InStock"
     },
     {
       "@type": "Offer",
       "priceCurrency": "GBP",
-      "price": "240",
+      "price": "150",
       "priceValidUntil": "2024-12-31",
       "itemOffered": {
         "@type": "Service",
-        "name": "Overnight Emergency Electrical Response Team",
-        "description": "Our dedicated overnight team is ready to address your emergency electrical issues from midnight to early morning, ensuring safe and secure repairs."
-      },
-      "availability": "http://schema.org/InStock"
-    },
-    {
-      "@type": "Offer",
-      "priceCurrency": "GBP",
-      "price": "180",
-      "priceValidUntil": "2024-12-31",
-      "itemOffered": {
-        "@type": "Service",
-        "name": "Weekend Standard Electrical Services",
-        "description": "Leverage our full-service weekend electrical support, providing expert assistance with no additional charges for daytime operations."
+        "name": "AI & Robotics Classes",
+        "description": "Hands-on training in AI, machine learning, and robotics for beginners and advanced learners."
       },
       "availability": "http://schema.org/InStock"
     },
@@ -122,26 +86,25 @@ export default function Home() {
       "priceValidUntil": "2024-12-31",
       "itemOffered": {
         "@type": "Service",
-        "name": "Advanced After-Hours Weekend Electrical Support",
-        "description": "Our after-hours weekend service ensures swift and effective resolution of complex electrical issues, supported by state-of-the-art equipment and experienced technicians."
+        "name": "Research Collaboration & Development",
+        "description": "Partner with us for cutting-edge AI and robotics research and development initiatives."
       },
       "availability": "http://schema.org/InStock"
     }
   ];
-  
-  
+
   
     return (
       <>
-      {/* <Navbar /> */}
-      <NavbarTemp />
+      <Navbar />
+      {/* <NavbarTemp /> */}
 
-      {/* <MainBanner /> */}
-      <MainBannerTemp/>
+      <MainBanner />
+      {/* <MainBannerTemp/> */}
 
       {/* <Feedback /> */}
 
-      {/* <Features /> */}
+      <Features />
 
       {/* <ServicesArea /> */}
 

@@ -4,135 +4,100 @@ import Link from "next/link";
 
 const phoneNumber = "+447307565444";
 
+
 const Features = () => {
   return (
     <>
-      <div className="boxes-are ">
+      <div className="boxes-are">
         <div className="container">
           <div className="row justify-content-center">
-            <div
-              className="col-lg-3 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="100"
-              data-aos-duration="500"
-              data-aos-once="true"
-            >
+            <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="500" data-aos-once="true">
               <div className="single-box">
                 <div className="icon">
-                  <Icon.Home />
+                  <Icon.Cpu />
                 </div>
                 <h3>
-                  <Link href="/services/domestic-electrician-services-london/">
-                    Domestic Electrician
+                  <Link href="/services/ai-research-development/">
+                    AI & Machine Learning Research
                   </Link>
                 </h3>
                 <p>
-                  Our team of fully qualified, approved, and seasoned contractors is ready to deliver exceptional services. Our domestic electricians are available 24/7, always prepared to assist you whenever needed. Contact us at <a href="tel:+447307565444" itemProp="telephone" aria-label="Call us at 07307 565 444">07307 565 444</a> or reach out on WhatsApp <a href={`https://wa.me/${phoneNumber}`} className="whatsapp-fixed" target="_blank" rel="noopener noreferrer" style={{ color: '#25D366' }} aria-label="Contact us on WhatsApp" itemProp="sameAs">here</a>.
+                  We specialize in AI and machine learning research, focusing on cutting-edge innovations such as autonomous systems and advanced deep learning models. Our work in AI applications is reshaping industries and driving new technological frontiers.
                 </p>
               </div>
             </div>
-            <div
-              className="col-lg-3 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="200"
-              data-aos-duration="500"
-              data-aos-once="true"
-            >
+            <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200" data-aos-duration="500" data-aos-once="true">
               <div className="single-box bg-f78acb">
                 <div className="icon">
-                  <Icon.Box />
+                  <Icon.Settings />
                 </div>
                 <h3>
-                  <Link href="/services/commercial-electrician-contractors-london/">
-                    Commercial Electrical Services
+                  <Link href="/services/devops-automation/">
+                    DevOps & Cloud Solutions
                   </Link>
                 </h3>
                 <p>
-                  We offer a wide array of commercial electrical services in London. For more details, visit our Services page. Our 2-hour emergency electrician response is available 24/7, ensuring your business stays operational without delays.
+                  Our expertise in DevOps streamlines CI/CD pipelines, infrastructure as code (IaC), and cloud deployments. We optimize workflows using Docker, Kubernetes, and Terraform, ensuring efficient, scalable, and secure applications.
                 </p>
               </div>
             </div>
-            <div
-              className="col-lg-3 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="300"
-              data-aos-duration="500"
-              data-aos-once="true"
-            >
+            <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300" data-aos-duration="500" data-aos-once="true">
               <div className="single-box bg-c679e3">
                 <div className="icon">
-                  <Icon.Archive />
+                  <Icon.Codesandbox />
                 </div>
                 <h3>
-                  <Link href="/services/industrial-electrician-services-london/">
-                    Industrial Electrical Services
+                  <Link href="/services/robotics-simulation/">
+                    Robotics & Simulation
                   </Link>
                 </h3>
                 <p>
-                  Our team is fully equipped to handle all your industrial electrical needs in London. You can rely on our experienced industrial electricians and London electrical contractors to deliver exceptional service and a seamless experience. For immediate assistance, call <a href="tel:+447307565444" itemProp="telephone" aria-label="Call us at 07307 565 444">07307 565 444</a> or contact us on WhatsApp <a href={`https://wa.me/${phoneNumber}`} className="whatsapp-fixed" target="_blank" rel="noopener noreferrer" style={{ color: '#25D366' }} aria-label="Contact us on WhatsApp" itemProp="sameAs">here</a>.
+                  We develop high-fidelity robotic simulations using Gazebo and ROS. Our work bridges real-world applications with digital twins, improving robot performance, SLAM mapping, and autonomous navigation capabilities.
                 </p>
               </div>
             </div>
-            <div
-              className="col-lg-3 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="400"
-              data-aos-duration="500"
-              data-aos-once="true"
-            >
+            <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400" data-aos-duration="500" data-aos-once="true">
               <div className="single-box bg-eb6b3d">
                 <div className="icon">
-                  <Icon.GitBranch />
+                  <Icon.Database />
                 </div>
                 <h3>
-                  <Link href="/services/pat-testing-electrical-safety-london/">
-                    Electrical Testing Services
+                  <Link href="/services/data-science-analytics/">
+                    Data Science & Analytics
                   </Link>
                 </h3>
                 <p>
-                  We are committed to guiding our customers through the entire PAT testing process. Our certified electricians in London provide a comprehensive package of electrical testing and results to ensure full compliance with all regulations. Our services include electrical inspection and electrical safety certificates in London.
+                  Leveraging AI-driven analytics, we extract insights from large datasets, optimizing decision-making processes in various industries. Our solutions include predictive modeling, image processing, and AI-powered automation.
                 </p>
               </div>
             </div>
-            <div
-              className="col-lg-3 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="500"
-              data-aos-duration="500"
-              data-aos-once="true"
-            >
+            <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="500" data-aos-duration="500" data-aos-once="true">
               <div className="single-box bg-eb6b3d">
                 <div className="icon">
-                  <Icon.Video />
+                  <Icon.Activity />
                 </div>
                 <h3>
-                  <Link href="/services/alarm-installation-systems-london/">
-                    Alarm and CCTV Services
+                  <Link href="/services/system-dynamics/">
+                    System Dynamics & Control
                   </Link>
                 </h3>
                 <p>
-                  We are ready to provide comprehensive alarm services, including new system installations and repairs. Additionally, we offer 24/7 emergency services to ensure your security needs are always met. For top-quality security, look no further than our trusted CCTV installation and alarm services in London.
+                  Our research delves into system dynamics, focusing on control theory, stability analysis, and real-world applications in aerospace and autonomous vehicles. We use MATLAB and Python to model and optimize system behaviors.
                 </p>
               </div>
             </div>
-            <div
-              className="col-lg-3 col-md-6"
-              data-aos="fade-up"
-              data-aos-delay="600"
-              data-aos-duration="500"
-              data-aos-once="true"
-            >
+            <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="600" data-aos-duration="500" data-aos-once="true">
               <div className="single-box bg-eb6b3d">
                 <div className="icon">
                   <Icon.Code />
                 </div>
                 <h3>
-                  <Link href="/services/lighting-installation-electricians-london/">
-                    Lighting Installation Services
+                  <Link href="/services/embedded-systems/">
+                    Embedded Systems & AI Integration
                   </Link>
                 </h3>
                 <p>
-                  We offer top-notch lighting installation services in London. Whether you need emergency lighting or security lighting for your business or home, our certified electricians are ready to help. For all your lighting needs, from LED lighting installation to outdoor security lighting, trust our experienced team. Get in touch at <a href="tel:+447307565444" itemProp="telephone" aria-label="Call us at 07307 565 444">07307 565 444</a> or message us on WhatsApp <a href={`https://wa.me/${phoneNumber}`} className="whatsapp-fixed" target="_blank" rel="noopener noreferrer" style={{ color: '#25D366' }} aria-label="Contact us on WhatsApp" itemProp="sameAs">here</a>.
+                  We develop embedded AI solutions that optimize performance and energy efficiency in industrial applications. Our work includes designing intelligent automation systems and integrating deep learning in edge devices.
                 </p>
               </div>
             </div>

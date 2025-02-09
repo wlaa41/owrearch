@@ -103,16 +103,18 @@ const ImageOptimizedWithJsonId: React.FC<ImageOptimizedWithJsonIdProps> = ({
       <picture className={className} {...rest}>
         <source media="(max-width: 799px)" srcSet={`${src}-799.webp`} />
         <source media="(min-width: 800px)" srcSet={`${src}.webp`} />
-        <img
+        
+      <video autoPlay loop muted playsInline>
+        <source src="/videos/Drone_Lab_Innovation_simple_Courses.mp4" type="video/mp4" />
           className='imgclass'
           src={`${src}.webp`}
-          alt={alt}
+        alt={alt}
           title={title}
           width={width}
           height={height}
           loading={lazy ? 'lazy' : 'eager'}
-          // style={{ width: '100%', height: 'auto' }}
-        />
+          {/* // style={{ width: '100%', height: 'auto' }} */}
+          </video>
       </picture>
     </>
   );

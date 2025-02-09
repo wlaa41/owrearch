@@ -8,8 +8,16 @@
   align-items: stretch !important;
 }
 
+.hero-container .left {
+  padding-right: 120px;
+}
 .hero-container .right {
   position: relative;
+}
+.hero-container .right video {
+  border-radius: 1px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .hero-container .right .imgclass {
   border-radius: 9px;
@@ -40,6 +48,9 @@
   overflow: hidden !important;
   flex-grow: 1;
 }
+.teamVan-image-container video {
+  border-radius: 11px;
+}
 .teamVan-image-container .imgclass {
   border-radius: 5px;
   height: 100%;
@@ -55,23 +66,3 @@
   display: flex;
   flex-grow: 1;
 }/*# sourceMappingURL=mainPage.css.map */
-
-
-
-.video-container {
-  display: flex;
-  justify-content: center;  /* Centers horizontally */
-  align-items: center;      /* Centers vertically (if needed) */
-  gap: 15px;                /* Space between videos */
-  flex-wrap: wrap;          /* Ensures responsiveness */
-  width: 100%;
-  padding: 20px 0;          /* Add spacing above and below */
-  text-align: center;
-}
-
-video {
-  width: 30%;               /* Adjusts size while keeping three videos in a row */
-  max-width: 400px;         /* Prevents overly large videos */
-  border-radius: 8px;       /* Smooth edges */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Soft shadow effect */
-}

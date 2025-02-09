@@ -10,8 +10,18 @@
 }
 
 .hero-container{
+    .left{
+        // border: 4px solid purple;
+        padding-right: 120px;
+    }
     .right{
         position:relative;
+
+        video{
+            border-radius: 1px;
+            object-fit: cover;
+
+        }
 
     .imgclass{
         border-radius: 9px;
@@ -45,6 +55,9 @@
     min-height: 322px;
     overflow: hidden !important;
     flex-grow: 1;
+    video{
+        border-radius: 11px;
+    }
     .imgclass{
         border-radius: 5px;
         height: 100%;

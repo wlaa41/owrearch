@@ -67,6 +67,7 @@ export const metadata: Metadata = {
   icons: "https://www.owelectric.co.uk/manifest.json"
 
 };
+
 {/* <link rel="manifest" href= "https://www.owelectric.co.uk/favicon/site.webmanifest" /> */ }
 const reviews = [
   {

@@ -51,12 +51,12 @@ const CallUsNowButton: React.FC<CallUsNowButtonProps> = ({
           onClick={() => sendGTMEvent({ event: 'buttonClicked', value: 'xyz' })}
           href={`tel:${phoneNumber}`}
           className="btn btn-primary"
-          aria-label="Call us now"
+          aria-label="Contact us"
           rel="nofollow"
         // onClick={handleButtonClick}
         >
           <i className="fi-rr-phone-call" aria-hidden="true"></i>
-          <span itemProp="name">Call Us Now</span>
+          <span itemProp="name">Contact Us</span>
         </a>
       </div>
     </div>
