@@ -21,7 +21,7 @@ const BlogPost = () => {
             <h2>The News from Our Blog</h2>
             <div className="bar"></div>
             <p>
-              Stay updated with the latest news and articles from our experts in electrical engineering and home automation.
+            Stay updated with the latest insights and articles on robotics, AI, programming, autonomous systems, cutting-edge technology, and tech regulations.
             </p>
           </div>
 

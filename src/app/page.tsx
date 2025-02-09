@@ -119,12 +119,11 @@ export default function Home() {
 
       {/* <ReviewList /> */}
       {/* <ParagraphsInGreen />  */}
-      {/* <BlogPost /> */}
+      <BlogPost />
       {/* <AreasCoveredList/> */}
 
-
-        {/* <JoinOurTeam/> */}
-      {/* <Footer /> */}
+      {/* <JoinOurTeam/> */}
+      <Footer />
       {/* <SaveQueryParamsVisitors/> */}
       {/* <ServerSideSaveQueryParamsVisitors/> */}
     </>

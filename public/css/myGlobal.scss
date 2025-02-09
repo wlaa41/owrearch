@@ -117,7 +117,7 @@ background: linear-gradient(166.2deg, rgb(115, 180, 255) 5.77%, rgb(23, 84, 154)
     h1{
         text-align: center;
         color:   #ba8b00;
-        color: rgb(82, 134, 54);
+        color: rgb(54, 78, 134);
     }
 }
 .detail-article-main-container{
@@ -218,7 +218,7 @@ background: linear-gradient(166.2deg, rgb(115, 180, 255) 5.77%, rgb(23, 84, 154)
 .paragraphsIngreen-para{
     padding: 33px;
     .paragraphsIngreen-title{
-        color: #8c6a03;
+        color: #035a8c;
     }
 }
 
@@ -238,3 +238,25 @@ background: linear-gradient(166.2deg, rgb(115, 180, 255) 5.77%, rgb(23, 84, 154)
     max-width: 150px; /* Adjust size as needed */
     height: auto;
   }
+
+
+//   .strip-logo-container  {
+//    border: 2px solid rgb(11, 128, 0);
+//   img {
+//     border: 4px dashed purple;
+//     min-height: 55px;
+//     position: relative;
+
+//     object-fit:cover;
+//     left: 0;
+//   }
+// }
+
+.strip-logo-container img {
+    // border: 4px dashed purple;
+    min-height: 41px;
+    object-fit: cover;
+    object-position: left; /* Ensures the image starts from the left */
+    width: 100%; /* Ensure it stretches properly */
+    height: 100%; /* Adjust as necessary */
+}

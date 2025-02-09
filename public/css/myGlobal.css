@@ -102,7 +102,7 @@
 .intro-blog-mainh1-container h1 {
   text-align: center;
   color: #ba8b00;
-  color: rgb(82, 134, 54);
+  color: rgb(54, 78, 134);
 }
 
 .search-strip {
@@ -188,7 +188,7 @@
   padding: 33px;
 }
 .paragraphsIngreen-para .paragraphsIngreen-title {
-  color: #8c6a03;
+  color: #035a8c;
 }
 
 .min-card-width300 {
@@ -205,4 +205,14 @@
 .logo-container img {
   max-width: 150px; /* Adjust size as needed */
   height: auto;
+}
+
+.strip-logo-container img {
+  min-height: 41px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: left;
+     object-position: left; /* Ensures the image starts from the left */
+  width: 100%; /* Ensure it stretches properly */
+  height: 100%; /* Adjust as necessary */
 }/*# sourceMappingURL=myGlobal.css.map */

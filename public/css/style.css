@@ -119,7 +119,7 @@ a:hover, a:focus {
 }
 
 p {
-  color: #5B7338;
+  color: #384273;
   line-height: 1.8;
 }
 p:last-child {
@@ -489,7 +489,7 @@ Navbar CSS
 .ow-nav nav .navbar-nav .nav-item a {
   font-weight: 500;
   font-size: 15px;
-  color: #4da004;
+  color: #046ca0;
   padding-left: 0;
   padding-right: 0;
   padding-top: 0;
@@ -532,7 +532,7 @@ Navbar CSS
   padding: 8px 15px;
   margin: 0;
   display: block;
-  color: #4da004;
+  color: #046ca0;
 }
 .ow-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover, .ow-nav nav .navbar-nav .nav-item .dropdown-menu li a:focus, .ow-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
   color: #4957A6;
@@ -548,7 +548,7 @@ Navbar CSS
   visibility: hidden !important;
 }
 .ow-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a {
-  color: #4da004;
+  color: #046ca0;
 }
 .ow-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .ow-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .ow-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
   color: #4957A6;
@@ -829,7 +829,7 @@ Main Banner CSS
 .hosting-main-banner {
   position: relative;
   z-index: 1;
-  background-color: #4957A6;
+  background-color: #6b49a6;
   padding-top: 250px;
   padding-bottom: 190px;
 }
@@ -1075,7 +1075,7 @@ Boxes CSS
 }
 
 .hosting-boxes-area {
-  background-color: #4957A6;
+  background-color: #6b49a6;
   margin-top: 0;
 }
 .hosting-boxes-area .single-box {
@@ -1121,7 +1121,7 @@ Boxes CSS
   width: 100%;
   border-radius: 5px;
   height: 100%;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   z-index: -1;
   opacity: 0;
   visibility: hidden;
@@ -1272,7 +1272,7 @@ Why Choose US CSS
   width: 100%;
   border-radius: 5px;
   height: 100%;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   z-index: -1;
   opacity: 0;
   visibility: hidden;
@@ -1344,7 +1344,7 @@ Services CSS
   top: 0;
   height: 100%;
   width: 100%;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   opacity: 0;
   visibility: hidden;
   position: absolute;
@@ -1906,7 +1906,7 @@ Features Details CSS
 }
 .features-details-desc .features-details-list li {
   margin-bottom: 12px;
-  color: #5B7338;
+  color: #384273;
   position: relative;
   padding-left: 15px;
 }
@@ -2048,7 +2048,7 @@ Team CSS
   margin-bottom: 0;
 }
 .single-team .team-info {
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   padding: 10px 15px;
   border-radius: 75px;
   margin-bottom: 25px;
@@ -2101,7 +2101,7 @@ Works CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   transition: 0.5s;
   opacity: 0;
   visibility: hidden;
@@ -2319,7 +2319,7 @@ Pricing CSS
   width: 100%;
   height: 100%;
   border-radius: 5px 5px 0 0;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   opacity: 0;
   visibility: hidden;
   transition: 0.5s;
@@ -2360,7 +2360,7 @@ Pricing CSS
   margin-bottom: 0;
 }
 .pricing-table .pricing-features ul li.active {
-  color: #5B7338;
+  color: #384273;
   text-decoration: none;
 }
 .pricing-table:hover {
@@ -2431,7 +2431,7 @@ Pricing CSS
   list-style-type: none;
 }
 .single-pricing-table .pricing-features ul li {
-  color: #5B7338;
+  color: #384273;
   margin-bottom: 12px;
 }
 .single-pricing-table .pricing-features ul li:last-child {
@@ -2769,7 +2769,7 @@ Feedback CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   opacity: 0;
   visibility: hidden;
   transition: 0.5s;
@@ -2993,7 +2993,7 @@ Feedback CSS
 }
 .single-feedback-box .client-info span {
   display: block;
-  color: #5B7338;
+  color: #384273;
   margin-top: 6px;
 }
 
@@ -3005,7 +3005,7 @@ Ready To Talk CSS
   position: relative;
   padding-top: 80px;
   padding-bottom: 160px;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
 }
 .ready-to-talk h3 {
   font-size: 28px;
@@ -3408,7 +3408,7 @@ Blog CSS
   position: absolute;
   left: 6px;
   bottom: -12px;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   color: #ffffff;
   padding: 5px 16px;
   font-size: 13px;
@@ -3438,7 +3438,7 @@ Blog CSS
   margin: 15px 0;
 }
 .single-blog-post .blog-post-content span a {
-  color: #5B7338;
+  color: #384273;
 }
 .single-blog-post .blog-post-content span a:hover {
   color: #4957A6;
@@ -3490,7 +3490,7 @@ Blog CSS
   display: inline-block;
   position: relative;
   margin-right: 16px;
-  color: #5B7338;
+  color: #384273;
   font-size: 14px;
 }
 .single-blog-post-box .entry-post-content .entry-meta ul li::before {
@@ -3499,13 +3499,13 @@ Blog CSS
   right: -7px;
   top: 50%;
   transform: rotate(14deg) translateY(-50%);
-  background: #5B7338;
+  background: #384273;
   width: 1px;
   height: 13px;
 }
 .single-blog-post-box .entry-post-content .entry-meta ul li a {
   display: inline-block;
-  color: #5B7338;
+  color: #384273;
 }
 .single-blog-post-box .entry-post-content .entry-meta ul li a:hover {
   color: #4957A6;
@@ -3563,7 +3563,7 @@ Blog CSS
   right: -20px;
   width: 10px;
   height: 1px;
-  background-color: #5B7338;
+  background-color: #384273;
 }
 .single-blog-item .post-content .post-meta li:last-child {
   margin-right: 0;
@@ -3613,10 +3613,10 @@ Blog CSS
   display: inline-block;
   margin-right: 20px;
   position: relative;
-  color: #5B7338;
+  color: #384273;
 }
 .single-blog-post-item .post-content .post-meta li a {
-  color: #5B7338;
+  color: #384273;
 }
 .single-blog-post-item .post-content .post-meta li a:hover {
   color: #4957A6;
@@ -3627,7 +3627,7 @@ Blog CSS
   right: -10px;
   top: 4px;
   height: 12px;
-  background-color: #5B7338;
+  background-color: #384273;
   width: 1px;
   transform: rotate(5deg);
 }
@@ -3881,7 +3881,7 @@ Shop CSS
 }
 #productsModalCenter .modal-content .products-content .price span {
   text-decoration: line-through;
-  color: #5B7338;
+  color: #384273;
 }
 #productsModalCenter .modal-content .products-content form .quantity {
   display: inline-block;
@@ -3899,7 +3899,7 @@ Shop CSS
   top: 0;
   background-color: transparent;
   cursor: pointer;
-  color: #5B7338;
+  color: #384273;
   width: 40px;
   height: 100%;
   line-height: 47px;
@@ -3980,7 +3980,7 @@ Shop Details CSS
 }
 .products-details .price span {
   text-decoration: line-through;
-  color: #5B7338;
+  color: #384273;
   margin-right: 5px;
 }
 .products-details .rating {
@@ -4028,7 +4028,7 @@ Shop Details CSS
   top: 0;
   background-color: transparent;
   cursor: pointer;
-  color: #5B7338;
+  color: #384273;
   width: 40px;
   height: 100%;
   line-height: 47px;
@@ -4239,7 +4239,7 @@ Shop Details CSS
   border: 1px solid #eeeeee;
   border-bottom: none;
   padding: 10px 15px;
-  color: #5B7338;
+  color: #384273;
 }
 .products-details-tabs .react-tabs__tab-panel .additional-information li:last-child {
   border-bottom: 1px solid #eeeeee;
@@ -4305,7 +4305,7 @@ Cart CSS
 }
 .cart-table table tbody tr td {
   vertical-align: middle;
-  color: #5B7338;
+  color: #384273;
   padding-left: 0;
   padding-right: 0;
   border-color: #eaedff;
@@ -4319,7 +4319,7 @@ Cart CSS
   width: 80px;
 }
 .cart-table table tbody tr td.product-name a {
-  color: #5B7338;
+  color: #384273;
   font-weight: 500;
   display: inline-block;
 }
@@ -4350,7 +4350,7 @@ Cart CSS
   top: 0;
   background-color: transparent;
   cursor: pointer;
-  color: #5B7338;
+  color: #384273;
   width: 40px;
   height: 100%;
   line-height: 47px;
@@ -4434,7 +4434,7 @@ Cart CSS
 }
 .cart-totals ul li span {
   float: right;
-  color: #5B7338;
+  color: #384273;
 }
 
 /*================================================
@@ -4499,7 +4499,7 @@ Checkout CSS
   margin-bottom: 15px;
 }
 .billing-details .form-check .form-check-label {
-  color: #5B7338;
+  color: #384273;
 }
 .billing-details .form-check label {
   font-size: 14px;
@@ -4534,7 +4534,7 @@ Checkout CSS
 }
 .order-details .order-table table tbody tr td {
   vertical-align: middle;
-  color: #5B7338;
+  color: #384273;
   border-color: #eaedff;
   font-size: 14px;
   padding: 15px 20px;
@@ -4757,7 +4757,7 @@ Blog Details CSS
 }
 .blog-details-desc .article-content .entry-meta ul li a {
   display: inline-block;
-  color: #5B7338;
+  color: #384273;
 }
 .blog-details-desc .article-content .entry-meta ul li a:hover {
   color: #4957A6;
@@ -4831,7 +4831,7 @@ Blog Details CSS
   margin-bottom: 15px;
   position: relative;
   padding-left: 25px;
-  color: #5B7338;
+  color: #384273;
 }
 .blog-details-desc .article-content .features-list li svg {
   color: #4957A6;
@@ -4930,14 +4930,14 @@ Blog Details CSS
 }
 .comments-area .comment-metadata {
   margin-bottom: 0.8em;
-  color: #5B7338;
+  color: #384273;
   letter-spacing: 0.01em;
   text-transform: uppercase;
   font-size: 13px;
   font-weight: 400;
 }
 .comments-area .comment-metadata a {
-  color: #5B7338;
+  color: #384273;
 }
 .comments-area .comment-metadata a:hover {
   color: #4957A6;
@@ -5017,7 +5017,7 @@ Blog Details CSS
 .comments-area .comment-respond .comment-form-cookies-consent label {
   display: inline-block;
   margin: 0;
-  color: #5B7338;
+  color: #384273;
   font-weight: normal;
   position: relative;
   top: -2px;
@@ -5132,7 +5132,7 @@ Blog Details CSS
 }
 .prev-link-wrapper .meta-wrapper {
   display: block;
-  color: #5B7338;
+  color: #384273;
   text-transform: capitalize;
   margin-top: 5px;
   font-weight: 400;
@@ -5216,7 +5216,7 @@ Blog Details CSS
 }
 .next-link-wrapper .meta-wrapper {
   display: block;
-  color: #5B7338;
+  color: #384273;
   text-transform: capitalize;
   margin-top: 5px;
   font-weight: 400;
@@ -5371,7 +5371,7 @@ Sidebar Widget CSS
 }
 .widget-area .widget_ow_posts_thumb .item .info time {
   display: block;
-  color: #5B7338;
+  color: #384273;
   text-transform: uppercase;
   margin-top: 3px;
   margin-bottom: 5px;
@@ -5422,7 +5422,7 @@ Sidebar Widget CSS
 .widget-area .widget_recent_entries ul li .post-date {
   display: block;
   font-size: 13px;
-  color: #5B7338;
+  color: #384273;
   margin-top: 4px;
 }
 .widget-area .widget_recent_comments ul {
@@ -5433,7 +5433,7 @@ Sidebar Widget CSS
 .widget-area .widget_recent_comments ul li {
   position: relative;
   margin-bottom: 12px;
-  color: #5B7338;
+  color: #384273;
   padding-left: 14px;
   line-height: 1.5;
   font-weight: 500;
@@ -5498,7 +5498,7 @@ Sidebar Widget CSS
 .widget-area .widget_categories ul li {
   position: relative;
   margin-bottom: 12px;
-  color: #5B7338;
+  color: #384273;
   padding-left: 14px;
   font-weight: 500;
   font-size: 14px;
@@ -5640,7 +5640,7 @@ Project Details CSS
 }
 .project-details-desc .project-details-information .single-info-box ul li a {
   margin-right: 10px;
-  color: #5B7338;
+  color: #384273;
 }
 .project-details-desc .project-details-information .single-info-box ul li a svg {
   width: 18px;
@@ -5694,7 +5694,7 @@ Contact CSS
   margin-bottom: 0;
 }
 .contact-info-box p a {
-  color: #5B7338;
+  color: #384273;
 }
 .contact-info-box p a:hover {
   color: #4957A6;
@@ -5871,7 +5871,7 @@ Coming Soon CSS
 .coming-soon-content #timer div span {
   display: block;
   margin-top: -4px;
-  color: #5B7338;
+  color: #384273;
   font-size: 15px;
 }
 
@@ -5916,7 +5916,7 @@ Coming Soon CSS
 CTA CSS
 =================================================*/
 .cta-area {
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
 }
 
 .cta-content h3 {
@@ -6071,7 +6071,7 @@ Repair About CSS
   max-width: 50%;
   width: 100%;
   margin-top: 25px;
-  color: #5B7338;
+  color: #384273;
   position: relative;
   padding-right: 10px;
   padding-left: 10px;
@@ -6098,7 +6098,7 @@ Repair About CSS
   top: 0;
   height: 100%;
   width: 100%;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   opacity: 0;
   visibility: hidden;
   position: absolute;
@@ -6195,7 +6195,7 @@ Repair Services CSS
   left: 0;
   width: 100%;
   height: 100%;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   z-index: -1;
   opacity: 0;
   visibility: hidden;
@@ -6312,7 +6312,7 @@ Repair Why Choose Us CSS
 .repair-why-choose-us {
   position: relative;
   z-index: 1;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
 }
 .repair-why-choose-us .section-title h2 {
   color: #ffffff;
@@ -6627,7 +6627,7 @@ Iot Services CSS
   left: 0;
   width: 100%;
   height: 100%;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   z-index: -1;
   opacity: 0;
   visibility: hidden;
@@ -6749,7 +6749,7 @@ IoT Why Choose Us CSS
 .iot-why-choose-us {
   position: relative;
   z-index: 1;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
 }
 .iot-why-choose-us .section-title h2 {
   color: #ffffff;
@@ -7456,7 +7456,7 @@ Newsletter CSS
   right: 0;
   bottom: 0;
   z-index: -1;
-  background: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   display: none;
 }
 
@@ -7575,7 +7575,7 @@ Agency Main Banner CSS
   text-transform: uppercase;
   display: block;
   font-size: 16px;
-  color: #5B7338;
+  color: #384273;
   margin-bottom: 8px;
 }
 .agency-banner-content h1 {
@@ -8036,7 +8036,7 @@ Agency Portfolio Main Banner CSS
   font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  color: #5B7338;
+  color: #384273;
   margin-bottom: 10px;
 }
 .portfolio-banner-content h1 {
@@ -8291,7 +8291,7 @@ Footer CSS
   margin-bottom: 10px;
 }
 .single-footer-widget ul.list li a {
-  color: #5B7338;
+  color: #384273;
 }
 .single-footer-widget ul.list li a:hover {
   color: #4957A6;
@@ -8305,7 +8305,7 @@ Footer CSS
 }
 .single-footer-widget ul.footer-contact-info li {
   position: relative;
-  color: #5B7338;
+  color: #384273;
   margin-bottom: 8px;
   padding-left: 25px;
 }
@@ -8320,7 +8320,7 @@ Footer CSS
   margin-bottom: 0;
 }
 .single-footer-widget ul.footer-contact-info li a {
-  color: #5B7338;
+  color: #384273;
 }
 .single-footer-widget ul.footer-contact-info li a:hover {
   color: #4957A6;

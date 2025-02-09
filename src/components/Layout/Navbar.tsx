@@ -32,10 +32,12 @@ const Navbar: React.FC = () => {
 
   return (
     <header id="header" className="headroom">
-      <CallUsNowButton />
+      {/* <CallUsNowButton /> */}
+
       <div className="ow-nav">
         <div className="container">
           <nav className="navbar navbar-expand-md navbar-light">
+            
             <Link href="/" className="navbar-brand">
               <Image src={logo} alt="logo" width={55} />
             </Link>

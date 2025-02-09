@@ -9,7 +9,6 @@ import shape1 from "/public/images/shape1.png";
 interface PageBannerProps {
   pageTitle: string;
 }
-
 const PageBanner: React.FC<PageBannerProps> = ({ pageTitle }) => {
   return (
     <>
@@ -18,13 +17,12 @@ const PageBanner: React.FC<PageBannerProps> = ({ pageTitle }) => {
           <div className="d-table-cell">
             <div className="container">
               <h1>{pageTitle}</h1>
-              <p>Our rates are ace at OW Electric—no call-out fee for site visits, and absolutely no hidden charges! While we&apos;re not the cheapest, we offer top-quality service every time!</p>
+              <p>Unlock the future with our cutting-edge courses in AI, Robotics, and DevOps. Learn from experts and gain hands-on experience to advance your career.</p>
             </div>
           </div>
         </div>
 
         {/* Shape Images */}
-
 
       </div>
     </>

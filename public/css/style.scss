@@ -105,12 +105,12 @@ Default CSS
 $light-green-color: #4957A6; // Darker shade of the provided blue
 $white-color: #ffffff; // Keeping white as is
 $black-color: hsl(150, 20%, 2%); // Dark black
-$navlink-color: #4da004; // Darker shade of the provided green
-$paragraph-color: #5B7338; // Darker shade of the provided olive green
+$navlink-color: #046ca0; // Darker shade of the provided green
+$paragraph-color: #384273; // Darker shade of the provided olive green
 $purple-color: #9f9f00; // Darker shade of the provided yellow
 $bg-color: #f7fafd; // Keeping background color as is
 $bg-color2: #f9f6f6; // Keeping secondary background color as is
-$hosting-main-color: #4957A6; // Darker shade of the provided blue
+$hosting-main-color: #6b49a6; // Darker shade of the provided blue
 
 $gradient-color: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)),
   linear-gradient(149.47deg, rgba(225, 255, 0, 0.6) 5.08%, rgba(52, 94, 1, 0.6) 50.65%, rgb(66, 97, 0) 75.66%);
@@ -126,8 +126,8 @@ $font-size: 14px; // Keeping font size as is
 //   radial-gradient(circle at 0% 0%, rgba(72, 61, 139, 0.4), rgba(0, 0, 0, 0)),
 //   linear-gradient(149.47deg, rgba(35, 65, 90, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(36, 30, 70, 0.6) 75.66%);
 
-//   $gradient-color: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)),
-//   linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
+  $gradient-color: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)),
+  linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
 
 body { 
     padding: 0;
