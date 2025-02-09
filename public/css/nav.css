@@ -1,0 +1,16 @@
+.bar-call-us-now {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#header.is-sticky #callmecontainer {
+  display: none;
+}
+
+#header.hidden-navbar {
+  display: none !important; /* Hides the navbar */
+  visibility: hidden;
+  height: 0;
+  overflow: hidden;
+}/*# sourceMappingURL=nav.css.map */

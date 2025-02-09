@@ -1,0 +1,208 @@
+.OW1 {
+  background: radial-gradient(circle at 0% 0%, rgba(162, 231, 0, 0.774), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(136, 186, 0, 0.87) 5.08%, rgba(40, 94, 1, 0.6) 50.65%, rgba(20, 58, 0, 0.881) 75.66%);
+  letter-spacing: 0ch;
+  font-size: larger;
+  font-weight: 800;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.OW2 {
+  background: linear-gradient(166.2deg, rgb(115, 180, 255) 5.77%, rgb(23, 84, 154) 44.34%, rgb(32, 159, 231) 86.27%);
+  letter-spacing: -0.1ch;
+  font-size: larger;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.paypal {
+  display: flex;
+  justify-content: center;
+}
+
+.color-gray.long-info {
+  color: darkgray;
+}
+
+.services-details-image {
+  display: flex;
+}
+
+.service-image-books {
+  position: relative;
+  border-radius: 11px;
+  display: flex;
+  flex-grow: 1;
+  padding: 0;
+  flex-shrink: 1;
+  min-height: 322px;
+  overflow: hidden !important;
+  flex-grow: 1;
+}
+.service-image-books .imgclass {
+  width: 100%;
+  position: absolute;
+  -o-object-fit: cover;
+     object-fit: cover;
+  top: -10%;
+}
+
+.whyUs-CEO-image {
+  position: relative;
+  border-radius: 4px;
+  display: flex;
+  flex-grow: 1;
+  padding: 0;
+  flex-shrink: 1;
+  min-height: 422px;
+  overflow: hidden !important;
+  flex-grow: 1;
+}
+.whyUs-CEO-image .imgclass {
+  height: 100%;
+  position: absolute;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 70% 50%;
+     object-position: 70% 50%;
+}
+
+.space77px {
+  margin-top: 77px;
+}
+
+.center-with-radius {
+  display: flex;
+  justify-content: center;
+}
+.center-with-radius .imgclass {
+  border-radius: 3px;
+  box-shadow: 0 0 7px 3px rgba(0, 0, 0, 0.396);
+}
+
+.blog-banner-container {
+  position: relative;
+  height: calc(4vw + 212px);
+  display: flex;
+}
+.blog-banner-container img.blog-banner-container-image {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+  -o-object-position: 50% 40%;
+     object-position: 50% 40%;
+  filter: hue-rotate(0, 0, 3);
+}
+
+.intro-blog-mainh1-container {
+  padding-top: 30vh;
+}
+.intro-blog-mainh1-container h1 {
+  text-align: center;
+  color: #ba8b00;
+  color: rgb(82, 134, 54);
+}
+
+.search-strip {
+  display: grid;
+  align-items: center;
+}
+.search-strip h2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  font-size: medium;
+  color: rgb(70, 70, 70);
+}
+.search-strip .input-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 6vh;
+}
+.search-strip .input-with-icon {
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 560px;
+  margin: 4px;
+  width: 100%;
+}
+.search-strip .input-icon {
+  position: absolute;
+  left: 12px;
+  color: rgb(141, 141, 141);
+  pointer-events: none; /* To ensure the icon doesn't capture mouse events */
+}
+.search-strip input {
+  border-radius: 23px;
+  padding: 10px 18px 10px 40px; /* Adjust padding to accommodate the icon */
+  box-shadow: 0 4px 5px 3px rgb(141, 141, 141);
+  border: none;
+  background-color: rgb(253, 253, 253);
+  border: 1px solid rgb(210, 210, 210);
+  width: 100%;
+}
+
+#blogPageContent strong {
+  background-color: transparent !important;
+}
+
+#blogPageContent strong {
+  background-color: transparent !important;
+} 
+/* CSS for blog post content elements */
+.blog-post-content h3 {
+  font-size: 14px !important;
+  line-height: normal !important; /* Smaller font size for titles */
+}
+
+.blog-post-content p {
+  font-size: 12px !important;
+  line-height: normal !important; /* Smaller font size for excerpt */
+}
+
+.blog-post-content span p {
+  font-size: 12px !important;
+  line-height: 1 !important; /* Smaller font size for excerpt */
+}
+
+.blog-post-content span {
+  margin: 0 0 !important;
+}
+
+.date, .read-more-btn {
+  font-size: 12px !important;
+  line-height: normal !important; /* Smaller font size for date and read more button */
+}
+
+.blog-area .row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+.paragraphsIngreen-para {
+  padding: 33px;
+}
+.paragraphsIngreen-para .paragraphsIngreen-title {
+  color: #8c6a03;
+}
+
+.min-card-width300 {
+  min-width: 300px;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0 0;
+}
+
+.logo-container img {
+  max-width: 150px; /* Adjust size as needed */
+  height: auto;
+}/*# sourceMappingURL=myGlobal.css.map */

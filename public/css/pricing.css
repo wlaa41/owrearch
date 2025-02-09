@@ -1,0 +1,57 @@
+#callmecontainer {
+  padding: 0 0 11px;
+}
+
+#Service-container {
+  position: static;
+  display: flex;
+  align-items: stretch !important;
+}
+
+.hero-container .right {
+  position: relative;
+}
+.hero-container .right .imgclass {
+  border-radius: 9px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.services-content {
+  position: relative;
+  padding: 0 22px 0 4px !important;
+}
+.services-content::after {
+  content: "";
+  height: 90%;
+  width: 3px;
+  top: 5%;
+  right: 0;
+  position: absolute;
+  background-color: rgb(52, 52, 52);
+}
+
+.teamVan-image-container {
+  position: relative;
+  flex-grow: 1;
+  padding: 0;
+  flex-shrink: 1;
+  min-height: 322px;
+  overflow: hidden !important;
+  flex-grow: 1;
+}
+.teamVan-image-container .imgclass {
+  border-radius: 5px;
+  height: 100%;
+  width: auto;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 90% 50%;
+     object-position: 90% 50%;
+  position: absolute;
+}
+
+.hero-container {
+  display: flex;
+  flex-grow: 1;
+}/*# sourceMappingURL=pricing.css.map */

@@ -1,0 +1,28 @@
+
+
+.bar-call-us-now{
+
+    width: 100%;  
+    display: flex;
+    justify-content: center;
+
+}
+
+// when scrolling down
+#header.is-sticky{
+    #callmecontainer{
+        display: none;
+    }
+}
+
+
+.Container.callus{
+    
+}
+
+#header.hidden-navbar{
+    display: none !important; /* Hides the navbar */
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+}
