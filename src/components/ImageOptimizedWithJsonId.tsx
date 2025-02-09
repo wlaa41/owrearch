@@ -105,9 +105,10 @@ const ImageOptimizedWithJsonId: React.FC<ImageOptimizedWithJsonIdProps> = ({
         <source media="(min-width: 800px)" srcSet={`${src}.webp`} />
         
       <video autoPlay loop muted playsInline>
-        <source src="/videos/Drone_Lab_Innovation_simple_Courses.mp4" type="video/mp4" />
-          className='imgclass'
-          src={`${src}.webp`}
+        src={"/videos/Drone_Lab_Innovation_simple_Courses.mp4" }
+        type={"video/mp4"}
+          className="imgclass"
+          {/* src={`${src}.webp`} */}
         alt={alt}
           title={title}
           width={width}

@@ -55,8 +55,8 @@ const Navbar: React.FC = () => {
                 </li>
 
                 <li className="nav-item">
-                  <Link href="/pricing/" className={`nav-link ${currentRoute === "/pricing/" ? "active" : ""}`}>
-                    Pricing
+                  <Link href="/Courses/" className={`nav-link ${currentRoute === "/Courses/" ? "active" : ""}`}>
+                    Courses
                   </Link>
                 </li>
 
