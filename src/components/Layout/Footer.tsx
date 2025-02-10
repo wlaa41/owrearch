@@ -30,7 +30,7 @@ const Footer = () => {
                   </Link>
                 </div>
                 <p>
-                  OW provides expert services in **electrical engineering, home automation, robotics, AI, and smart technology solutions** across London. We specialize in **emergency electrical repairs, smart home installations, AI-driven automation, and cutting-edge energy solutions.** Our team ensures **safety, efficiency, and innovation** in every project.
+                  OW provides expert services in robotics, AI, engineering, home automation,  and smart technology solutions across London. We specialize in **emergency electrical repairs, smart home installations, AI-driven automation, and cutting-edge energy solutions.** Our team ensures **safety, efficiency, and innovation** in every project.
                 </p>
               </div>
             </div>
