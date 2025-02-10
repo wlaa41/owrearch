@@ -54,13 +54,13 @@ export default function Page() {
 
       <PricingStyleOne />
 
-      <PricingStyleTwo />
+      {/* <PricingStyleTwo /> */}
 
 
       {/* <div className="pt-80">
         <PricingStyleFour />
       </div> */}
-      <PricingTable></PricingTable>
+      {/* <PricingTable></PricingTable> */}
 
       <JoinOurTeam/>
 

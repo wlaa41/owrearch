@@ -92,7 +92,7 @@ const Navbar: React.FC = () => {
                 </li>
 
                 <li className="nav-item">
-                  <Link href="/research-insights/" className={`nav-link ${currentRoute === "/research-insights/" ? "active" : ""}`}>
+                  <Link href="/blog/" className={`nav-link ${currentRoute === "/blog/" ? "active" : ""}`}>
                     Research & Insights
                   </Link>
                 </li>

@@ -14,7 +14,7 @@ export default function Index() {
       <main className="pt-80">
         <Container>
           <h1 className="pt-80">
-            Welcome to <strong>ow!</strong> Electric Blog!
+            Welcome to <strong>ow!</strong> Tech Blog!
           </h1>
           <Search posts={allPosts} />
 

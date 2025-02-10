@@ -4,9 +4,9 @@ import { PhoneCall, UserPlus, MessageSquare } from "react-feather";
 const JoinOurTeam: React.FC = () => {
     return (
         <section className="container mt-5">
-            <h3 className="text-center mb-4">Become a Part of Our Expert Electrician Team</h3>
+            <h3 className="text-center mb-4">Become a Part of Our Expert Amazing Team</h3>
             <p className="text-center">
-                Joining our team is quick and straightforward. We&apos;re looking for skilled electricians eager to tackle new challenges and work on diverse projects. Our three-step process ensures you can start engaging with clients and projects as soon as possible. You’ll receive full support from our experienced team and gain access to a wide network of potential job opportunities.
+                Joining our team is quick and straightforward. We&apos;re looking for skilled researchers eager to tackle new challenges and work on diverse projects. Our three-step process ensures you can start engaging with clients and projects as soon as possible. You’ll receive full support from our experienced team and gain access to a wide network of potential job opportunities.
             </p>
             <div className="row">
                 <div className="col-md-4">
