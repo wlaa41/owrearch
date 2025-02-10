@@ -64,7 +64,7 @@ When you need an electrician near me or an emergency electrician near me, you ca
 
 Finding a dependable electrician in Ilford is crucial, whether you need routine maintenance or emergency repairs. OW! London Electricians and Home Automation Engineers are dedicated to serving the Ilford community with professionalism and integrity. We understand the importance of having a trusted local electrician who can provide reliable and affordable services.
 
-For more information or to schedule a service, [contact OW! London Electricians and Home Automation Engineers today](https://www.owelectric.co.uk/contact). Let us be your go-to solution for all your electrical needs in Ilford, ensuring safety, reliability, and efficiency in every job we undertake.
+For more information or to schedule a service, [contact OW! London Electricians and Home Automation Engineers today](https://www.owresearch.netlify.app/contact). Let us be your go-to solution for all your electrical needs in Ilford, ensuring safety, reliability, and efficiency in every job we undertake.
 
 ### Frequently Asked Questions
 
@@ -74,4 +74,4 @@ For more information or to schedule a service, [contact OW! London Electricians 
 #### Q: Are your electricians certified and compliant with regulations?
 **A**: Yes, our electricians are fully certified and ensure all work is compliant with BS7671 regulations.
 
-For related services, check out our pages on [Emergency Electrician 24/7](https://www.owelectric.co.uk/emergency-electrician-247) and [Home Rewiring Electricians London](https://www.owelectric.co.uk/services/home-rewiring-electricians-london).
+For related services, check out our pages on [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247) and [Home Rewiring Electricians London](https://www.owresearch.netlify.app/services/home-rewiring-electricians-london).

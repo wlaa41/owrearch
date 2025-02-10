@@ -17,7 +17,7 @@ const ParagraphsInGreen = () => {
 
           <span>
             <Link href="tel:07307565444">
-              or email us at info@owelectric.co.uk
+              or email us at info@owresearch.netlify.app
             </Link>
           </span>
         </div>

@@ -26,11 +26,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Gallery, Certified Electricians in London | OW Electrician & Home Automation Engineers",
     description: "Check Our Projects Top-rated certified electrical services in London. No call-out fees,  and 24/7 emergency services. Call 07307565444",
-    url: "https://www.owelectric.co.uk/",
+    url: "https://www.owresearch.netlify.app/",
     siteName: "OW Electrician & Home Automation Engineers",
     images: [
       {
-        url: "https://www.owelectric.co.uk/twitter-image.jpg",
+        url: "https://www.owresearch.netlify.app/twitter-image.jpg",
         width: 1200,
         height: 630,
         alt: 'OpenGraph Image',

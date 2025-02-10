@@ -77,5 +77,5 @@ Contact us today for all your electrical needs in Shoreditch. Trust OW! London E
 
 **A**: Yes, our team is highly skilled and certified, ensuring adherence to BS7671 standards for all projects.
 
-For more details, visit our [Emergency Electrician Services](https://www.owelectric.co.uk/emergency-electrician-247) and [Contact Us](https://www.owelectric.co.uk/contact) pages.
+For more details, visit our [Emergency Electrician Services](https://www.owresearch.netlify.app/emergency-electrician-247) and [Contact Us](https://www.owresearch.netlify.app/contact) pages.
 

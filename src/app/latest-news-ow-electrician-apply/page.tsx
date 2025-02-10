@@ -19,11 +19,11 @@ export const metadata: Metadata = {
     openGraph: {
         title: "Latest News: Expanding Fleet & Coverage | OW Electrician & Home Automation Engineers",
         description: "Stay updated with the latest news from OW Electrician London. Learn about our fleet expansion, new coverage areas, services, and career opportunities.",
-        url: "https://www.owelectric.co.uk/",
+        url: "https://www.owresearch.netlify.app/",
         siteName: "OW Electrician & Home Automation Engineers",
         images: [
             {
-                url: "https://www.owelectric.co.uk/opengraph-image.jpg",
+                url: "https://www.owresearch.netlify.app/opengraph-image.jpg",
                 width: 1200,
                 height: 630,
                 alt: 'OpenGraph Image',

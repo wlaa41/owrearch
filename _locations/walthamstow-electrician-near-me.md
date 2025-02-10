@@ -35,7 +35,7 @@ At OW! London Electricians and Home Automation Engineers, we pride ourselves on 
 If you're searching for "Electricians Near Me" or "Local Electrician Near Me," look no further. OW! London Electricians and Home Automation Engineers offers a full spectrum of services to meet your needs:
 
 - **Emergency Electrical Services**: Available 24/7, our "Emergency Electrician Near Me" and "24 Hour Electrician" services ensure that you're never left in the dark.
-- **Full House Rewiring**: We handle complete rewiring projects with precision and care, ensuring safety and compliance with [BS7671 standards](https://www.owelectric.co.uk/posts/understanding-coordination-conductor-overload-protective-device-bs7671).
+- **Full House Rewiring**: We handle complete rewiring projects with precision and care, ensuring safety and compliance with [BS7671 standards](https://www.owresearch.netlify.app/posts/understanding-coordination-conductor-overload-protective-device-bs7671).
 - **Industrial Electrical Services**: Our expertise extends to industrial settings, offering specialized services for large-scale electrical systems.
 - **Lighting Installations**: From ambient home lighting to high-efficiency industrial lighting, we illuminate spaces beautifully and efficiently.
 - **PAT Testing and Periodic Inspections**: Ensure the safety and reliability of your electrical systems with our thorough testing and inspection services.
@@ -50,7 +50,7 @@ If you're searching for "Electricians Near Me" or "Local Electrician Near Me," l
 ### Why Choose OW! London Electricians and Home Automation Engineers?
 Finding a reliable and skilled electrician in Walthamstow can be daunting, but with OW! London Electricians and Home Automation Engineers, you're in safe hands. We are committed to delivering top-quality service with a personal touch, reflecting the true Londoner style. Our certified electricians are not only highly skilled but also understand the importance of trust and reliability. We work efficiently, ensuring minimal disruption to your daily life while maintaining the highest safety standards.
 
-Our dedication to customer satisfaction and adherence to [BS7671 standards](https://www.owelectric.co.uk/posts/required-height-for-socket-outlets-near-water-bs-7671) make us the preferred choice for both residential and commercial electrical services in Walthamstow. Whether you're dealing with an emergency or planning a major installation, our team is here to help, providing solutions that are both effective and affordable.
+Our dedication to customer satisfaction and adherence to [BS7671 standards](https://www.owresearch.netlify.app/posts/required-height-for-socket-outlets-near-water-bs-7671) make us the preferred choice for both residential and commercial electrical services in Walthamstow. Whether you're dealing with an emergency or planning a major installation, our team is here to help, providing solutions that are both effective and affordable.
 
 So, if you need a trustworthy "Certified Electrician Near Me" or the "Best Electricians Near Me," contact OW! London Electricians and Home Automation Engineers. Experience the difference of working with a local company that values your safety, comfort, and satisfaction.
 
@@ -62,4 +62,4 @@ So, if you need a trustworthy "Certified Electrician Near Me" or the "Best Elect
 #### Q: Are your services compliant with BS7671 standards?
 **A**: Yes, all our services comply with BS7671 standards, ensuring the highest safety and quality for every electrical project we undertake.
 
-For more information, visit our [emergency services page](https://www.owelectric.co.uk/emergency-electrician-247) or [contact us directly](https://www.owelectric.co.uk/contact).
+For more information, visit our [emergency services page](https://www.owresearch.netlify.app/emergency-electrician-247) or [contact us directly](https://www.owresearch.netlify.app/contact).

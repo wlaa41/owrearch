@@ -62,7 +62,7 @@ schema:
 - **‡** The socket-outlets are to be as evenly distributed between circuits as is reasonable.
 
 
-###### Visit [Read more about A1, A2 and A3 size and other relative info ](https://www.owelectric.co.uk/posts/circuit-protection-conductor-size-spurs-height-Switches-fire/).
+###### Visit [Read more about A1, A2 and A3 size and other relative info ](https://www.owresearch.netlify.app/posts/circuit-protection-conductor-size-spurs-height-Switches-fire/).
 
 ### C2.2 Circuit Protection
 
@@ -83,7 +83,7 @@ Where a fused spur serves socket-outlets, the minimum conductor size is:
 - 1.5 mm² for thermoplastic (PVC) or thermosetting insulated cables, with copper conductors; and
 - 1 mm² for mineral insulated cables, with copper conductors.
 
-###### Visit [Read more about A1, A2 and A3 size and other relative info ](https://www.owelectric.co.uk/posts/circuit-protection-conductor-size-spurs-height-Switches-fire/).
+###### Visit [Read more about A1, A2 and A3 size and other relative info ](https://www.owresearch.netlify.app/posts/circuit-protection-conductor-size-spurs-height-Switches-fire/).
 
 **Regulation 433.1.204 states:**
 > For a 30 A or 32 A ring final circuit with a protective device in accordance with the requirements of Regulation 433.1.204, supplying 13 A socket-outlets to BS 1363, a conductor with a minimum cross-sectional area (csa) of 2.5 mm² is deemed to comply with the requirements of Regulation 433.1.1 if the current-carrying capacity (Iz) of the cable is not less than 20 A and if, under the intended conditions of use, the load current in any part of the ring is unlikely to exceed for long periods the current-carrying capacity (Iz) of the cable.

@@ -38,13 +38,13 @@ When it comes to finding reliable and trustworthy electricians near me in Lewish
 
 At OW! London Electricians and Home Automation Engineers, we understand the unique needs of Lewisham's diverse community. Our services are designed to cover all your electrical requirements, whether it's an urgent repair or a planned upgrade. Here's a closer look at what we offer:
 
-- **Emergency Electrical Services:** Our [24-hour electrician service](https://www.owelectric.co.uk/emergency-electrician-247) ensures that you have access to immediate help whenever you face an electrical emergency. We are the emergency electricians near me you can rely on, available day and night to keep your home safe.
+- **Emergency Electrical Services:** Our [24-hour electrician service](https://www.owresearch.netlify.app/emergency-electrician-247) ensures that you have access to immediate help whenever you face an electrical emergency. We are the emergency electricians near me you can rely on, available day and night to keep your home safe.
 - **Residential Electricians Near Me:** From socket installations to full house rewiring, our residential electrical services cater to all your home needs. We pride ourselves on being the best electricians near me, offering affordable and efficient solutions.
 - **Industrial Electrical Services:** For businesses in Lewisham, our industrial electrical services ensure that your operations run smoothly. We handle everything from lighting installations to reactive maintenance.
 - **Smart Home Installations and Energy Efficiency Upgrades:** Upgrade your home with the latest in smart home technology and energy-efficient solutions. Our experts will help you integrate systems that save energy and enhance your lifestyle.
 - **Security and Surveillance Systems:** Protect your property with our advanced security and surveillance installations. We offer bespoke solutions to keep your home and business secure.
 - **Electric Vehicle (EV) Charging Stations:** Make the switch to electric vehicles seamless with our EV charging station installations. We provide comprehensive support from selection to setup.
-- **Periodic Inspections and PAT Testing:** Ensure compliance with [BS7671 regulations](https://www.owelectric.co.uk/posts/bs7671-importance) and maintain electrical safety with our thorough inspections and PAT testing services.
+- **Periodic Inspections and PAT Testing:** Ensure compliance with [BS7671 regulations](https://www.owresearch.netlify.app/posts/bs7671-importance) and maintain electrical safety with our thorough inspections and PAT testing services.
 
 ### Why Choose OW! London Electricians and Home Automation Engineers?
 
@@ -67,4 +67,4 @@ At OW! London Electricians and Home Automation Engineers, we are committed to be
 
 **A**: Yes, our team consists of certified and licensed electricians who adhere to the highest standards of safety and quality.
 
-For more information about our services, visit our [services page](https://www.owelectric.co.uk/services/domestic-electrician-services-london) or [contact us](https://www.owelectric.co.uk/contact).
+For more information about our services, visit our [services page](https://www.owresearch.netlify.app/services/domestic-electrician-services-london) or [contact us](https://www.owresearch.netlify.app/contact).

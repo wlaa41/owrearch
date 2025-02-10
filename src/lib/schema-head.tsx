@@ -9,18 +9,18 @@ type Props = {
 };
 
 
-{/* <link rel="manifest" href= "https://www.owelectric.co.uk/favicon/site.webmanifest" /> */}
+{/* <link rel="manifest" href= "https://www.owresearch.netlify.app/favicon/site.webmanifest" /> */}
 
 // const structuredData = {
 //   "@context": "https://schema.org",
 //   "@type": "Organization",
 //   "name": "OW London Electrician & Home Automation Engineers",
-//   "url": "https://www.owelectric.co.uk/",
-//   "logo": "https://www.owelectric.co.uk/favicon/favicon-128x128.png",
+//   "url": "https://www.owresearch.netlify.app/",
+//   "logo": "https://www.owresearch.netlify.app/favicon/favicon-128x128.png",
 //   "image": [
-//     "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
-//     "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
-//     "https://www.owelectric.co.uk/photos/16x9/Team-Electrician-Van-with-tools.jpg"
+//     "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+//     "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+//     "https://www.owresearch.netlify.app/photos/16x9/Team-Electrician-Van-with-tools.jpg"
 //   ],
 //   "description": "#1 electrical contractor in London for Residential, Commercial & Emergency electrical services. 30 min response time. Call 07307565444",
 //   "address": {
@@ -30,13 +30,13 @@ type Props = {
 //     "postalCode": "RM10 7FD",
 //     "addressCountry": "UK"
 //   },
-//   "email": "info@owelectric.co.uk",
+//   "email": "info@owresearch.netlify.app",
 //   "telephone": "+447307565444",
 //   "contactPoint": {
 //     "@type": "ContactPoint",
 //     "contactType": "customer service",
 //     "telephone": "+447307565444",
-//     "email": "info@owelectric.co.uk"
+//     "email": "info@owresearch.netlify.app"
 //   }
 // };
 
@@ -47,7 +47,7 @@ export function SchemaHead({ post }: Props) {
     "@type": post?.schema?.type ?? 'Article',
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": post?.canonicalUrl || `https://www.owelectric.co.uk/posts/${post?.slug}`
+      "@id": post?.canonicalUrl || `https://www.owresearch.netlify.app/posts/${post?.slug}`
     },
     "headline": post?.title,
     "description": post?.excerpt,
@@ -101,7 +101,7 @@ export function SchemaHead({ post }: Props) {
       <meta property="og:title" content={post?.title} />
       <meta property="og:description" content={post?.excerpt} />
       <meta property="og:image" content={post?.ogImage.url} />
-      <meta property="og:url" content={post?.canonicalUrl || `https://www.owelectric.co.uk/posts/${post?.slug}`} />
+      <meta property="og:url" content={post?.canonicalUrl || `https://www.owresearch.netlify.app/posts/${post?.slug}`} />
       <meta property="og:type" content="article" />
       <meta property="og:locale" content={post?.lang} />
       <meta property="twitter:card" content="summary_large_image" />

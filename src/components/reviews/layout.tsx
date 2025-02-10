@@ -17,7 +17,7 @@ const ContactInfo = () => {
                 <h3>Mail Here</h3>
 
                 <p>
-                  <a href="mailto:info@owelectric.co.uk">info@owelectric.co.uk</a>
+                  <a href="mailto:info@owresearch.netlify.app">info@owresearch.netlify.app</a>
                 </p>
               </div>
             </div>

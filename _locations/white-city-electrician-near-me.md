@@ -65,7 +65,7 @@ Our team of certified and licensed electricians offers a wide array of services 
 
 We are committed to providing exceptional electrical services in White City, prioritizing customer satisfaction and safety. Our team is well-versed in BS7671 standards, ensuring all work is compliant with the latest regulations. As local electricians, we understand the importance of trust and reliability, making us the preferred choice for many Londoners.
 
-Whether you need an affordable electrician near you, a certified electrician for a small job, or a top-rated electrician for a major project, OW! London Electricians and Home Automation Engineers is your go-to solution in White City. [Contact us](https://www.owelectric.co.uk/contact) today for all your electrical needs and experience the difference of working with a dedicated and professional team.
+Whether you need an affordable electrician near you, a certified electrician for a small job, or a top-rated electrician for a major project, OW! London Electricians and Home Automation Engineers is your go-to solution in White City. [Contact us](https://www.owresearch.netlify.app/contact) today for all your electrical needs and experience the difference of working with a dedicated and professional team.
 
 ### Frequently Asked Questions
 
@@ -81,5 +81,5 @@ Whether you need an affordable electrician near you, a certified electrician for
 #### Q: Can OW! London Electricians assist with smart home installations in White City?
 **A**: Yes, we provide comprehensive smart home installation services, integrating advanced technology to enhance your home's functionality and efficiency.
 
-For more details on our services, visit our [home automation page](https://www.owelectric.co.uk/services/home-automation-av-knx-control4) or check our [pricing](https://www.owelectric.co.uk/pricing).
+For more details on our services, visit our [home automation page](https://www.owresearch.netlify.app/services/home-automation-av-knx-control4) or check our [pricing](https://www.owresearch.netlify.app/pricing).
 

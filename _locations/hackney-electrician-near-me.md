@@ -92,7 +92,7 @@ Ensure your home or business has a reliable power source during outages with our
 ### Why Choose OW! London Electricians and Home Automation Engineers?
 At OW! London Electricians and Home Automation Engineers, we are committed to providing top-notch electrical services in Hackney. Our experienced and certified electricians are dedicated to delivering high-quality workmanship, excellent customer service, and reliable solutions for all your electrical needs. Whether you’re looking for a local electrician near me or need specialized industrial electrical services, you can trust us to get the job done right.
 
-For dependable and trustworthy electrical services in Hackney, contact [OW! London Electricians and Home Automation Engineers](https://www.owelectric.co.uk/contact) today!
+For dependable and trustworthy electrical services in Hackney, contact [OW! London Electricians and Home Automation Engineers](https://www.owresearch.netlify.app/contact) today!
 
 ### Frequently Asked Questions
 
@@ -103,11 +103,11 @@ For dependable and trustworthy electrical services in Hackney, contact [OW! Lond
 **A**: Yes, all our electricians are fully certified, insured, and adhere to the highest safety standards.
 
 ### Related Services
-- [Commercial Electrician Contractors London](https://www.owelectric.co.uk/services/commercial-electrician-contractors-london)
-- [Home Rewiring Electricians London](https://www.owelectric.co.uk/services/home-rewiring-electricians-london)
-- [Emergency Electrician 24/7](https://www.owelectric.co.uk/emergency-electrician-247)
-- [Pricing](https://www.owelectric.co.uk/pricing)
+- [Commercial Electrician Contractors London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london)
+- [Home Rewiring Electricians London](https://www.owresearch.netlify.app/services/home-rewiring-electricians-london)
+- [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247)
+- [Pricing](https://www.owresearch.netlify.app/pricing)
 
 ### Useful Links
-- [Contact Us](https://www.owelectric.co.uk/contact)
-- [Warranty and Guarantees](https://www.owelectric.co.uk/warranty-guarantees-insured-electrical-central-london-east-london)
+- [Contact Us](https://www.owresearch.netlify.app/contact)
+- [Warranty and Guarantees](https://www.owresearch.netlify.app/warranty-guarantees-insured-electrical-central-london-east-london)

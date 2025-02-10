@@ -71,7 +71,7 @@ Choosing the right electrical service provider is crucial. Here’s why OW! Lond
 
 From the vibrant streets of Shoreditch to the bustling markets of Hackney and the modern developments in Stratford, OW! London Electricians and Home Automation Engineers are here to serve you. We are proud to be the go-to electricians in my area, providing reliable and affordable services to the residents and businesses of East London.
 
-For all your electrical needs, look no further than OW! London Electricians and Home Automation Engineers. [Contact us](https://www.owelectric.co.uk/contact) today to schedule a service or to learn more about how we can help you with your electrical projects. Trust us to keep your home and business safe, efficient, and up to date with the latest electrical standards.
+For all your electrical needs, look no further than OW! London Electricians and Home Automation Engineers. [Contact us](https://www.owresearch.netlify.app/contact) today to schedule a service or to learn more about how we can help you with your electrical projects. Trust us to keep your home and business safe, efficient, and up to date with the latest electrical standards.
 
 ### Frequently Asked Questions
 
@@ -83,5 +83,5 @@ For all your electrical needs, look no further than OW! London Electricians and 
 
 **A**: Yes, all our electricians are highly qualified, certified, and licensed.
 
-[Learn more about our pricing](https://www.owelectric.co.uk/pricing) and [emergency electrician services](https://www.owelectric.co.uk/emergency-electrician-247).
+[Learn more about our pricing](https://www.owresearch.netlify.app/pricing) and [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247).
 

@@ -61,7 +61,7 @@ Central London is a bustling hub that requires efficient and reliable electrical
 - **HVAC System Wiring**: Ensuring your heating and cooling systems are efficiently powered.
 - **Backup Generator Installation**: Providing power solutions for emergencies.
 
-For more details on our services, visit our [service pages](https://www.owelectric.co.uk/services/domestic-electrician-services-london) and [emergency electrical services](https://www.owelectric.co.uk/emergency-electrician-247).
+For more details on our services, visit our [service pages](https://www.owresearch.netlify.app/services/domestic-electrician-services-london) and [emergency electrical services](https://www.owresearch.netlify.app/emergency-electrician-247).
 
 ### Frequently Asked Questions
 

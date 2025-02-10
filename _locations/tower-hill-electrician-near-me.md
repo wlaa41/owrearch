@@ -25,7 +25,7 @@ faq:
   - question: Do you provide emergency electrical services in Tower Hill?
     answer: Yes, we offer 24/7 emergency electrical services in Tower Hill to address urgent electrical repairs and maintenance.
   - question: How can I contact OW! London Electricians for services in Tower Hill?
-    answer: You can contact us via our website [OW Electric](https://www.owelectric.co.uk/contact) or call us directly for immediate assistance.
+    answer: You can contact us via our website [OW Electric](https://www.owresearch.netlify.app/contact) or call us directly for immediate assistance.
 
 schema:
   type: "ElectricalService"
@@ -64,7 +64,7 @@ At OW! London Electricians, we offer a wide range of services to meet all your e
 
 ### Why Choose OW! London Electricians in Tower Hill?
 
-Our team of licensed electricians is dedicated to providing the highest quality service, following the latest safety standards, including [BS7671 regulations](https://www.owelectric.co.uk/posts/bs7671-importance). We understand the importance of having a trustworthy and local electrician, especially in an area as vibrant and historic as Tower Hill. With our comprehensive range of services, we ensure that all your electrical needs are met promptly and professionally.
+Our team of licensed electricians is dedicated to providing the highest quality service, following the latest safety standards, including [BS7671 regulations](https://www.owresearch.netlify.app/posts/bs7671-importance). We understand the importance of having a trustworthy and local electrician, especially in an area as vibrant and historic as Tower Hill. With our comprehensive range of services, we ensure that all your electrical needs are met promptly and professionally.
 
 ### SEO-Rich and Genuine Service for Londoners
 
@@ -72,7 +72,7 @@ At OW! London Electricians, we are committed to delivering exceptional service w
 
 By choosing OW! London Electricians, you can rest assured that you are getting the best service from professionals who care about your safety and satisfaction. Contact us today for all your electrical needs in Tower Hill and experience the difference of working with a team that truly values your trust.
 
-For top-rated electrical services in Tower Hill, call [OW! London Electricians and Home Automation Engineers](https://www.owelectric.co.uk/contact) today. We are your reliable, local electricians ready to handle all your electrical needs with expertise and care.
+For top-rated electrical services in Tower Hill, call [OW! London Electricians and Home Automation Engineers](https://www.owresearch.netlify.app/contact) today. We are your reliable, local electricians ready to handle all your electrical needs with expertise and care.
 
 ### Frequently Asked Questions
 
@@ -90,4 +90,4 @@ For top-rated electrical services in Tower Hill, call [OW! London Electricians a
 
 #### Q: How can I contact OW! London Electricians for services in Tower Hill?
 
-**A**: You can contact us via our website [OW Electric](https://www.owelectric.co.uk/contact) or call us directly for immediate assistance.
+**A**: You can contact us via our website [OW Electric](https://www.owresearch.netlify.app/contact) or call us directly for immediate assistance.

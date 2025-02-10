@@ -34,7 +34,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   caption: "Will James, CEO of OW London Electrician, holding a helmet and showcasing his expertise in AI and robotics.",
   // Updated pageUrl to be more descriptive
   // A more descriptive URL helps with SEO as it provides search engines with more context about the content of the page.
-  pageUrl: "https://www.owelectric.co.uk/about-us/will-james-ceo-ow-london-electrician-ai-robotics",
+  pageUrl: "https://www.owresearch.netlify.app/about-us/will-james-ceo-ow-london-electrician-ai-robotics",
   // Updated thumbnail filename to be more descriptive and contain keywords such as Will James, CEO, AI, Robotics
   // This helps improve both image searchability and the overall SEO of the page.
   thumbnailSrc: '/images/will-james-ceo-ow-london-electrician-ai-robotics',

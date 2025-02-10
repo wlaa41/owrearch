@@ -34,7 +34,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   height:555,
 
   caption: "OW London, Electrician, Smart Home Engineers guidance books for inspection, testing, and building regulations.",
-  pageUrl: "https://www.owelectric.co.uk/services/bs7671-note-3-book-ow-london-electrician-guidance-books",
+  pageUrl: "https://www.owresearch.netlify.app/services/bs7671-note-3-book-ow-london-electrician-guidance-books",
   thumbnailSrc: "/images/bs7671-note-3-book-ow-london-electrician-guidance-books",
   thumbnailWidth: 300,
   thumbnailHeight: 200,

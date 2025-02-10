@@ -79,4 +79,4 @@ At OW! London Electricians, we understand the importance of safety and reliabili
 
 Contact OW! London Electricians and Home Automation Engineers today for all your electrical needs in Canary Wharf. Experience the difference of working with a trusted, local expert dedicated to providing exceptional service and quality workmanship.
 
-For more information on our services, visit [Commercial Electrician Contractors London](https://www.owelectric.co.uk/services/commercial-electrician-contractors-london) and [Domestic Electrician Services London](https://www.owelectric.co.uk/services/domestic-electrician-services-london).
+For more information on our services, visit [Commercial Electrician Contractors London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london) and [Domestic Electrician Services London](https://www.owresearch.netlify.app/services/domestic-electrician-services-london).

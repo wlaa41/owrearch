@@ -74,7 +74,7 @@ Finding a reliable Local Electrician Near Me or Residential Electricians Near Me
 
 We understand the importance of adhering to the highest standards, which is why we follow BS7671 regulations rigorously. Our EICR and PAT Testing services ensure your property is compliant and safe, giving you peace of mind.
 
-Choose OW! London Electricians and Home Automation Engineers for all your electrical needs in Woolwich. Whether you need an Affordable Electrician Near Me, Certified Electrician Near Me, or Emergency Electrician, we are here to provide top-quality service with a personal touch. [Contact us](https://www.owelectric.co.uk/contact) today and experience the difference of working with trusted professionals who care about your safety and satisfaction.
+Choose OW! London Electricians and Home Automation Engineers for all your electrical needs in Woolwich. Whether you need an Affordable Electrician Near Me, Certified Electrician Near Me, or Emergency Electrician, we are here to provide top-quality service with a personal touch. [Contact us](https://www.owresearch.netlify.app/contact) today and experience the difference of working with trusted professionals who care about your safety and satisfaction.
 
 ### Frequently Asked Questions
 
@@ -90,4 +90,4 @@ Choose OW! London Electricians and Home Automation Engineers for all your electr
 
 **A**: Yes, we provide 24-hour emergency electrical services to address urgent issues such as power outages or faulty sockets, ensuring you are never left in the dark.
 
-For more information about our services, visit our [Pricing](https://www.owelectric.co.uk/pricing) page or learn more about our [Warranty and Guarantees](https://www.owelectric.co.uk/warranty-guarantees-insured-electrical-central-london-east-london).
+For more information about our services, visit our [Pricing](https://www.owresearch.netlify.app/pricing) page or learn more about our [Warranty and Guarantees](https://www.owresearch.netlify.app/warranty-guarantees-insured-electrical-central-london-east-london).

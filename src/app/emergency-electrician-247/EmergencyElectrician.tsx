@@ -139,7 +139,7 @@ const EmergencyElectrician = () => {
 
 
           <p className="text-center pt-3">
-            For all your emergency electrical needs, call us on <a href="tel:00447307565444">07307 565 444</a> or email us at <a href="mailto:info@owelectric.co.uk">info@owelectric.co.uk</a>. We are always ready to assist with your projects and electrical problems.
+            For all your emergency electrical needs, call us on <a href="tel:00447307565444">07307 565 444</a> or email us at <a href="mailto:info@owresearch.netlify.app">info@owresearch.netlify.app</a>. We are always ready to assist with your projects and electrical problems.
           </p>
           <PricingStyleFour />
           <div className="text-center pt-3" >

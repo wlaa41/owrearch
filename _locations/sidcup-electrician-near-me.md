@@ -86,6 +86,6 @@ By integrating the keywords and focusing on the services offered, this blog post
 #### Q: Do you offer 24/7 emergency electrical services in Sidcup?
 **A**: Yes, our emergency electricians are available 24/7 to assist with any electrical emergencies in Sidcup.
 
-For more information on our services, you can visit [our services page](https://www.owelectric.co.uk/services/domestic-electrician-services-london) or [contact us directly](https://www.owelectric.co.uk/contact).
+For more information on our services, you can visit [our services page](https://www.owresearch.netlify.app/services/domestic-electrician-services-london) or [contact us directly](https://www.owresearch.netlify.app/contact).
 
-Also, check out our articles on [BS7671 standards](https://www.owelectric.co.uk/posts/bs7671-importance) and [electrical safety](https://www.owelectric.co.uk/posts/support-wiring-systems-fire-safety) for more insights.
+Also, check out our articles on [BS7671 standards](https://www.owresearch.netlify.app/posts/bs7671-importance) and [electrical safety](https://www.owresearch.netlify.app/posts/support-wiring-systems-fire-safety) for more insights.

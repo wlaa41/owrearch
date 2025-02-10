@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   icons: "https://owresearch.netlify.app/manifest.json"
 };
 
-{/* <link rel="manifest" href= "https://www.owelectric.co.uk/favicon/site.webmanifest" /> */ }
+{/* <link rel="manifest" href= "https://www.owresearch.netlify.app/favicon/site.webmanifest" /> */ }
 const reviews = [
   {
     author_name: "Fernando Ferdov",
@@ -118,12 +118,12 @@ const structuredData = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "OW London Electrician & Home Automation Engineers",
-  "url": "https://www.owelectric.co.uk/",
-  "logo": "https://www.owelectric.co.uk/favicon/favicon-128x128.png",
+  "url": "https://www.owresearch.netlify.app/",
+  "logo": "https://www.owresearch.netlify.app/favicon/favicon-128x128.png",
   "image": [
-    "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
-    "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
-    "https://www.owelectric.co.uk/photos/16x9/Team-Electrician-Van-with-tools.jpg"
+    "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "https://www.owresearch.netlify.app/photos/16x9/Team-Electrician-Van-with-tools.jpg"
   ],
   "description": "#1 electrical contractor in London for Residential, Commercial & Emergency electrical services. 30 min response time. Call 07307565444",
   "address": {
@@ -133,13 +133,13 @@ const structuredData = {
     "postalCode": "RM10 7FD",
     "addressCountry": "UK"
   },
-  "email": "info@owelectric.co.uk",
+  "email": "info@owresearch.netlify.app",
   "telephone": "+447307565444",
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "customer service",
     "telephone": "+447307565444",
-    "email": "info@owelectric.co.uk"
+    "email": "info@owresearch.netlify.app"
   },
   "areaServed": { "@type": "Place", "name": ["Central London", "East London", "West London", "North London", "South London", "Bethnal Green", "Bow", "Canning Town", "Canary Wharf", "Hackney", "Ilford", "Leyton", "Leytonstone", "Mile End", "Plaistow", "Poplar", "Shoreditch", "Stratford", "Walthamstow", "Whitechapel", "E1", "E2", "E3", "E4", "E5", "E6", "E7", "E8", "E9", "E10", "E11", "E12", "E13", "E14", "E15", "E16", "E17", "E18", "E20", "IG1", "IG2", "IG3", "IG4", "IG5", "IG6", "IG7", "IG8", "IG9", "IG10", "IG11", "RM1", "RM2", "RM3", "RM4", "RM5", "RM6", "RM7", "RM8", "RM9", "RM10", "RM11", "RM12", "RM13", "RM14", "RM15", "RM16", "RM17", "RM18", "RM19", "RM20", "RM21", "RM22"] 
   },
@@ -149,7 +149,7 @@ const structuredData = {
     "availability": "http://schema.org/InStock",
     "price": "0.00",
     "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
   },
   "review": reviews.map(review => ({
@@ -192,7 +192,7 @@ const structuredData = {
           "description": "Our expert domestic electricians provide 24/7 assistance for all residential electrical needs, from minor repairs to major installations, ensuring safety and efficiency with no call-out fees.",
           "price": "90",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -204,7 +204,7 @@ const structuredData = {
           "description": "Comprehensive electrical services tailored for commercial settings, ensuring that your business operations are uninterrupted with our guaranteed 2-hour emergency response.",
           "price": "Call for pricing",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -216,7 +216,7 @@ const structuredData = {
           "description": "Robust and reliable industrial electrical services designed to support large scale and high-demand industrial environments with experienced contractors ready to deploy.",
           "price": "Call for pricing",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -228,7 +228,7 @@ const structuredData = {
           "description": "Professional and certified electrical testing including PAT, providing detailed inspections and safety certifications to ensure regulatory compliance.",
           "price": "180",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -240,7 +240,7 @@ const structuredData = {
           "description": "Secure your premises with our cutting-edge alarm and CCTV installation services, offering 24/7 monitoring solutions and emergency support.",
           "price": "Call for pricing",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -252,7 +252,7 @@ const structuredData = {
           "description": "Expert lighting installation services for both residential and commercial spaces, featuring energy-efficient and automated lighting systems designed to enhance aesthetics and functionality.",
           "price": "Call for pricing",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -264,7 +264,7 @@ const structuredData = {
           "description": "Available 24/7, our emergency electricians provide rapid, reliable, and efficient services to address urgent electrical issues with guaranteed same-day response.",
           "price": "140",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -276,7 +276,7 @@ const structuredData = {
           "description": "Full home electrical rewiring services tailored to meet modern safety standards and improve electrical system efficiency and safety.",
           "price": "3500",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -288,7 +288,7 @@ const structuredData = {
           "description": "Comprehensive Electrical Installation Condition Report (EICR) services to ensure your property meets all electrical safety standards with detailed documentation.",
           "price": "180",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       },
@@ -300,7 +300,7 @@ const structuredData = {
           "description": "Expert repair and installation services for all types of water heaters, ensuring your system runs efficiently with optimal safety and reliability.",
           "price": "Call for pricing",
           "priceCurrency": "GBP",
-    "image": "https://www.owelectric.co.uk/photos/4x3/Team-Electrician-Van-with-tools.jpg",
+    "image": "https://www.owresearch.netlify.app/photos/4x3/Team-Electrician-Van-with-tools.jpg",
 
         }
       }

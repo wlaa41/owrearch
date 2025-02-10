@@ -50,7 +50,7 @@ At OW! London Electricians and Home Automation Engineers, we cover a wide range 
 - **Full House Rewiring ** Upgrade your home's wiring to improve safety and efficiency.
 - **Industrial Electrical Services ** Tailored solutions for industrial environments, ensuring compliance and safety.
 - **Lighting Installations ** Enhance your space with modern, efficient lighting solutions.
-- **[PAT Testing](https //www.owelectric.co.uk/services/pat-testing-electrical-safety-london) ** Regular testing to ensure your appliances are safe and compliant.
+- **[PAT Testing](https //www.owresearch.netlify.app/services/pat-testing-electrical-safety-london) ** Regular testing to ensure your appliances are safe and compliant.
 - **Periodic Inspections ** Comprehensive inspections to identify and rectify potential issues.
 - **Reactive Maintenance ** Prompt responses to any electrical faults or issues.
 - **Socket Installations ** Professional installation of additional sockets to meet your needs.
@@ -66,7 +66,7 @@ At OW! London Electricians and Home Automation Engineers, we cover a wide range 
 
 In the bustling area of Barking, having a reliable and trustworthy electrician is essential. At OW! London Electricians and Home Automation Engineers, we understand the importance of delivering high-quality service that you can rely on. Our team is here to ensure that your electrical needs are met with efficiency and professionalism, making us the preferred choice for all your electrical requirements in Barking.
 
-For all your electrical needs, from emergency repairs to energy efficiency upgrades, trust OW! London Electricians and Home Automation Engineers. [Contact us today](https://www.owelectric.co.uk/contact) to schedule a service or to learn more about how we can help you.
+For all your electrical needs, from emergency repairs to energy efficiency upgrades, trust OW! London Electricians and Home Automation Engineers. [Contact us today](https://www.owresearch.netlify.app/contact) to schedule a service or to learn more about how we can help you.
 
 ### Frequently Asked Questions
 
@@ -82,4 +82,4 @@ For all your electrical needs, from emergency repairs to energy efficiency upgra
 #### Q: Are your electricians in Barking qualified to handle industrial electrical services?
 **A**: Yes, our team is experienced and qualified to handle a variety of industrial electrical services, ensuring compliance and safety.
 
-[Explore our pricing](https://www.owelectric.co.uk/pricing) and [get in touch](https://www.owelectric.co.uk/contact) for more information.
+[Explore our pricing](https://www.owresearch.netlify.app/pricing) and [get in touch](https://www.owresearch.netlify.app/contact) for more information.

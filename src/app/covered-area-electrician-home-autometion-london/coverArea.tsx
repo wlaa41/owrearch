@@ -13,7 +13,7 @@ const AreasCoveredPage = () => {
   //   "provider": {
   //     "@type": "Organization",
   //     "name": "OW London, Electrician, Smart Home Engineers",
-  //     "url": "https://www.owelectric.co.uk",
+  //     "url": "https://www.owresearch.netlify.app",
   //     "contactPoint": {
   //       "@type": "ContactPoint",
   //       "telephone": "+447307565444",
@@ -174,7 +174,7 @@ const AreasCoveredPage = () => {
             <div className="contact-info mt-5">
               <h3>Contact Us</h3>
               <p>
-                If you are unsure about which areas we cover, please get in touch with us via telephone on <a href="tel:00447307565444">00447307565444</a> or via email at <a href="mailto:info@owelectric.co.uk">info@.co.uk</a>.
+                If you are unsure about which areas we cover, please get in touch with us via telephone on <a href="tel:00447307565444">00447307565444</a> or via email at <a href="mailto:info@owresearch.netlify.app">info@.co.uk</a>.
               </p>
             </div>
           </div>

@@ -30,11 +30,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Professional Lighting Installation Services in London | OW Electrician London",
   description: "Expert lighting installation services in London. Our skilled electricians offer comprehensive interior, exterior, security, and emergency lighting solutions. Call 07307565444",
-  url: "https://www.owelectric.co.uk/opengraph-image.jpg",
+  url: "https://www.owresearch.netlify.app/opengraph-image.jpg",
     siteName: "OW Electrician & Home Automation Engineers",
     images: [
       {
-        url: "https://www.owelectric.co.uk/opengraph-image.jpg",        width: 1200,
+        url: "https://www.owresearch.netlify.app/opengraph-image.jpg",        width: 1200,
         height: 630,
         alt: 'OpenGraph Image',
       },

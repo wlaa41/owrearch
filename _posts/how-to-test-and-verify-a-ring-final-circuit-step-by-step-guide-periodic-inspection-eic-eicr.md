@@ -126,7 +126,7 @@ $$
 Circuit length (meters) = \left( \frac{\text{Measured } (r1 + r2) \, \text{(Ω)}}{\text{Resistance Table I1 (mΩ/m)}} \right) \times 1000
 $$
 
-Visit the [Table I1 On-Site Guide Page 218 here](https://www.owelectric.co.uk/posts/calculating-cable-length-from-resistance-eic-eicr-periodic-testing-regulation/).
+Visit the [Table I1 On-Site Guide Page 218 here](https://www.owresearch.netlify.app/posts/calculating-cable-length-from-resistance-eic-eicr-periodic-testing-regulation/).
 
 Where:
 - **Measured (r1 + r2)** is the sum of the measured resistance of the line conductor (**r1**) and the circuit protective conductor (**r2**) in ohms (Ω).
@@ -147,7 +147,7 @@ After calculating the circuit length, it's essential to verify that the cable le
 
 This table provides the maximum allowed cable lengths for various conductor sizes and installation conditions, ensuring that the voltage drop is within acceptable limits according to **BS 7671**.
 
-For detailed guidance, visit [Maximum Cable Length for a 230V Final Circuit](https://www.owelectric.co.uk/posts/maximum-cable-length-230v-final-circuit-bs-7671/).
+For detailed guidance, visit [Maximum Cable Length for a 230V Final Circuit](https://www.owresearch.netlify.app/posts/maximum-cable-length-230v-final-circuit-bs-7671/).
 
 For more detailed information on calculating cable length from resistance, you can visit 
 

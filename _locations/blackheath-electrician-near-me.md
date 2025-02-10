@@ -67,7 +67,7 @@ At OW! London Electricians and Home Automation Engineers, we pride ourselves on 
 
 For those searching for dependable electricians, our services are easily accessible by using common search terms such as "Electricians Near Me," "Emergency Electrician Near Me," "Certified Electrician Near Me," and "24 Hour Electrician." Whether you need a "Residential Electrician" or "Commercial Electrical Contractors Near Me," we have the expertise to handle any electrical task. Our "Emergency Electrical Services" and "Affordable Electrician Near Me" options ensure that you get prompt and cost-effective solutions for all your electrical needs.
 
-Choosing OW! London Electricians means choosing quality, safety, and peace of mind. For all your electrical needs in Blackheath, trust the experts who understand your requirements and deliver with excellence. [Contact us today](https://www.owelectric.co.uk/contact) to learn more about how we can help you keep your home or business powered and secure.
+Choosing OW! London Electricians means choosing quality, safety, and peace of mind. For all your electrical needs in Blackheath, trust the experts who understand your requirements and deliver with excellence. [Contact us today](https://www.owresearch.netlify.app/contact) to learn more about how we can help you keep your home or business powered and secure.
 
 ### Frequently Asked Questions
 
@@ -83,4 +83,4 @@ Choosing OW! London Electricians means choosing quality, safety, and peace of mi
 
 **A**: Absolutely, we provide comprehensive electrical services for both residential and commercial clients in Blackheath.
 
-For more details on our services, visit [Domestic Electrician Services London](https://www.owelectric.co.uk/services/domestic-electrician-services-london) and [Emergency Electrician 24/7](https://www.owelectric.co.uk/emergency-electrician-247).
+For more details on our services, visit [Domestic Electrician Services London](https://www.owresearch.netlify.app/services/domestic-electrician-services-london) and [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247).

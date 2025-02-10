@@ -82,7 +82,7 @@ When searching for reliable electrical services in Bow, it’s important to find
 - Emergency Electrical Service Near Me
 - Qualified Electrician Near Me
 
-In Bow, OW! London Electricians and Home Automation Engineers are your trusted partners for all your electrical needs. Our team of certified professionals is dedicated to providing top-quality service, ensuring your home or business is safe, efficient, and up to code. [Contact us](https://www.owelectric.co.uk/contact) today for reliable, expert electrical services in Bow.
+In Bow, OW! London Electricians and Home Automation Engineers are your trusted partners for all your electrical needs. Our team of certified professionals is dedicated to providing top-quality service, ensuring your home or business is safe, efficient, and up to code. [Contact us](https://www.owresearch.netlify.app/contact) today for reliable, expert electrical services in Bow.
 
 ### Frequently Asked Questions
 

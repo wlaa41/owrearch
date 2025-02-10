@@ -66,7 +66,7 @@ const Footer = () => {
                 <h3>Contact</h3>
                 <ul className="footer-contact-info">
                   <li><Icon.MapPin /> Rainham Rd N., London, UK</li>
-                  <li><Icon.Mail /> Email: <a href="mailto:info@owelectric.co.uk">info@owelectric.co.uk</a></li>
+                  <li><Icon.Mail /> Email: <a href="mailto:info@owresearch.netlify.app">info@owresearch.netlify.app</a></li>
                   <li><Icon.PhoneCall /> Phone: <a href="tel:+447307565444">+44 7307 565 444</a></li>
                 </ul>
                 <ul className="social-links">

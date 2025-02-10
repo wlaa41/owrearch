@@ -52,7 +52,7 @@ At OW! London Electricians and Home Automation Engineers, we understand the uniq
 
 When it comes to electrical services in Stoke Newington, trust and reliability are paramount. Our team is dedicated to providing exceptional service that Londoners can rely on. We offer competitive pricing, prompt response times, and a commitment to customer satisfaction. Our licensed electricians are fully trained and equipped to handle any electrical task, no matter how big or small.
 
-Don't settle for less when it comes to your electrical needs. Choose OW! London Electricians and Home Automation Engineers for the best electricians in Stoke Newington. [Contact us today](https://www.owelectric.co.uk/contact) for a free quote or to schedule a service. Your safety and satisfaction are our top priorities!
+Don't settle for less when it comes to your electrical needs. Choose OW! London Electricians and Home Automation Engineers for the best electricians in Stoke Newington. [Contact us today](https://www.owresearch.netlify.app/contact) for a free quote or to schedule a service. Your safety and satisfaction are our top priorities!
 
 ### Frequently Asked Questions
 
@@ -69,7 +69,7 @@ Don't settle for less when it comes to your electrical needs. Choose OW! London 
 **A**: Our electricians are fully certified and experienced, ensuring safe and compliant electrical services in Stoke Newington.
 
 ### Related Services and Articles
-- [Commercial Electrician Contractors in London](https://www.owelectric.co.uk/services/commercial-electrician-contractors-london)
-- [Domestic Electrician Services in London](https://www.owelectric.co.uk/services/domestic-electrician-services-london)
-- [EICR Electrical Inspection in London](https://www.owelectric.co.uk/services/eicr-electrical-inspection-london)
-- [Emergency Electrician 24/7](https://www.owelectric.co.uk/emergency-electrician-247)
+- [Commercial Electrician Contractors in London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london)
+- [Domestic Electrician Services in London](https://www.owresearch.netlify.app/services/domestic-electrician-services-london)
+- [EICR Electrical Inspection in London](https://www.owresearch.netlify.app/services/eicr-electrical-inspection-london)
+- [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247)

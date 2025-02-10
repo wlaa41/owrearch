@@ -53,7 +53,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   caption: "OW London, Electrician, Smart Home Engineers van parked in London, ready to provide smart home and electrical services.",
   // Updated pageUrl to be more descriptive
   // A more descriptive URL helps with SEO as it provides search engines with more context about the content of the page.
-  pageUrl: "https://www.owelectric.co.uk/services/ow-london-electrician-smart-home-engineers",
+  pageUrl: "https://www.owresearch.netlify.app/services/ow-london-electrician-smart-home-engineers",
   // Updated thumbnail filename to be more descriptive and contain keywords such as OW London, electrician, smart home
   // This helps improve both image searchability and the overall SEO of the page.
   thumbnailSrc: "/images/ow-london-electrician-smart-home-engineers-van-thumbnail.jpg",

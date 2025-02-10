@@ -39,7 +39,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   width: 1200,
   height: 800,
   caption: "OW London, Electrician, Smart Home Engineers van parked in London, ready to provide smart home and electrical services.",
-  pageUrl: "https://www.owelectric.co.uk/services/strip-ow-electrician-home-automation-london-vans-offices-engineers",
+  pageUrl: "https://www.owresearch.netlify.app/services/strip-ow-electrician-home-automation-london-vans-offices-engineers",
   thumbnailSrc: '/images/strip-ow-electrician-home-automation-london-vans-offices',
   thumbnailWidth: 300,
   thumbnailHeight: 200,

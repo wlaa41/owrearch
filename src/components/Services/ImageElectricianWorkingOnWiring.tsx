@@ -29,7 +29,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
     "Mayfair certified electricians", "Fulham NICEIC certified"
   ],
   caption: "OW London, Electrician, Smart Home Engineers working on wiring for a smart home installation.",
-  pageUrl: "https://www.owelectric.co.uk/services/ow-electrician-builder-work-installation-lamps-height-professional-overalls-with-drill-repair-rewiring",
+  pageUrl: "https://www.owresearch.netlify.app/services/ow-electrician-builder-work-installation-lamps-height-professional-overalls-with-drill-repair-rewiring",
   thumbnailSrc: "/images/ow-electrician-builder-work-installation-lamps-height-professional-overalls-with-drill-repair-rewiring",
   thumbnailWidth: 300,
   thumbnailHeight: 200,

@@ -38,7 +38,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   // width: 1200,
   // height: 800,
   caption: "OW London, Electrician, Smart Home Engineers team electrician van parked in London, ready to provide smart home and electrical services.",
-  pageUrl: "https://www.owelectric.co.uk/services/ow-london-electrician-smart-home-engineers",
+  pageUrl: "https://www.owresearch.netlify.app/services/ow-london-electrician-smart-home-engineers",
   thumbnailSrc: "/images/Team-Electrician-Van-with-tools-thumbnail.jpg",
   thumbnailWidth: 300,
   thumbnailHeight: 200,

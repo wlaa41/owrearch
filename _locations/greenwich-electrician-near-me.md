@@ -37,7 +37,7 @@ When it comes to electrical services in Greenwich, OW! London Electricians and H
 
 ### Reliable and Trustworthy Electrical Solutions
 
-At OW! London Electricians and Home Automation Engineers, we pride ourselves on being the go-to electricians for Greenwich residents. Our reputation for reliability and high-quality service is built on years of experience and dedication to our craft. Whether you need an [emergency electrician near me](https://www.owelectric.co.uk/emergency-electrician-247) or a [full house rewiring](https://www.owelectric.co.uk/services/home-rewiring-electricians-london), our team is ready to respond promptly and efficiently. We understand the importance of trust in our industry, and we back our work with comprehensive guarantees, ensuring peace of mind for our customers.
+At OW! London Electricians and Home Automation Engineers, we pride ourselves on being the go-to electricians for Greenwich residents. Our reputation for reliability and high-quality service is built on years of experience and dedication to our craft. Whether you need an [emergency electrician near me](https://www.owresearch.netlify.app/emergency-electrician-247) or a [full house rewiring](https://www.owresearch.netlify.app/services/home-rewiring-electricians-london), our team is ready to respond promptly and efficiently. We understand the importance of trust in our industry, and we back our work with comprehensive guarantees, ensuring peace of mind for our customers.
 
 ### Our Services
 
@@ -45,7 +45,7 @@ At OW! London Electricians and Home Automation Engineers, we pride ourselves on 
   Ensure the safety and efficiency of your electrical system with our professional consumer unit upgrades. This service is crucial for preventing electrical hazards and maintaining compliance with current regulations.
 
 - **Emergency Electrical Services**  
-  Electrical emergencies can be stressful and dangerous. Our [emergency electricians](https://www.owelectric.co.uk/emergency-electrician-247) are available 24/7 to provide immediate assistance, ensuring your safety and restoring functionality swiftly.
+  Electrical emergencies can be stressful and dangerous. Our [emergency electricians](https://www.owresearch.netlify.app/emergency-electrician-247) are available 24/7 to provide immediate assistance, ensuring your safety and restoring functionality swiftly.
 
 - **Full House Rewiring**  
   Rewiring your home is essential for both safety and efficiency. Our experts handle full house rewiring projects with minimal disruption, ensuring your property meets modern electrical standards.
@@ -95,7 +95,7 @@ At OW! London Electricians and Home Automation Engineers, we pride ourselves on 
 - **Backup Generator Installation**  
   Stay prepared for power outages with our backup generator installation services. We provide reliable solutions to keep your home or business powered.
 
-For more information or to schedule a service, visit our [website](https://www.owelectric.co.uk/contact) or call us today. Let us be your trusted partner in keeping your home and business electrically sound and safe.
+For more information or to schedule a service, visit our [website](https://www.owresearch.netlify.app/contact) or call us today. Let us be your trusted partner in keeping your home and business electrically sound and safe.
 
 ### Frequently Asked Questions
 

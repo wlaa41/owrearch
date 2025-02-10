@@ -47,7 +47,7 @@ const HeroBanner: React.FC = () => {
                     <br />
                     Call us now: <a href="tel:+447307567444" itemProp="telephone" aria-label="Call us at 07307 566 444">07307 565 444</a>
                     <br />
-                    Email us: <a href="mailto:info@owelectric.co.uk" itemProp="email" aria-label="Email us at info@owelectric.co.uk">info@owelectric.co.uk</a>
+                    Email us: <a href="mailto:info@owresearch.netlify.app" itemProp="email" aria-label="Email us at info@owresearch.netlify.app">info@owresearch.netlify.app</a>
                   </p>
                   <CallUsNowButton />
                 </div>

@@ -77,4 +77,4 @@ Our reputation as trusted electricians in Docklands is built on years of dedicat
 
 For more information or to schedule a service, contact OW! London Electricians today. Let us handle your electrical projects with the expertise and care that only true Londoners can provide.
 
-For further details, visit our [contact page](https://www.owelectric.co.uk/contact) and check our [pricing information](https://www.owelectric.co.uk/pricing).
+For further details, visit our [contact page](https://www.owresearch.netlify.app/contact) and check our [pricing information](https://www.owresearch.netlify.app/pricing).

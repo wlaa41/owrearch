@@ -13,7 +13,7 @@ coverImage: "/images/read-blog-strip-ow-electrician-799.webp"
 miniImage: "/images/read-blog-strip-ow-electrician-799-mini.webp"
 ogImage:
   url: "/images/assets/blog/preview/read-blog-strip-ow-electrician-799-mini.webp" # 1200:630 px recomended size
-canonical_url: "https://www.owelectric.co.uk/understanding-bs-7671-wiring-regulations"  # For handling duplicate content across domains
+canonical_url: "https://www.owresearch.netlify.app/understanding-bs-7671-wiring-regulations"  # For handling duplicate content across domains
 lang: "en"  # Language of the post
 layout: "post"  # Specifies the layout template used
 social:

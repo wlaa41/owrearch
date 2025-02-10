@@ -28,7 +28,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   width: 1200, 
   height: 800, 
   caption: "OW London, Electrician, Smart Home Engineers read blog strip featuring a cartoon character reading.",
-  pageUrl: "https://www.owelectric.co.uk/blog/read-blog-strip-ow-electrician",
+  pageUrl: "https://www.owresearch.netlify.app/blog/read-blog-strip-ow-electrician",
   thumbnailSrc: '/images/read-blog-strip-ow-electrician',
   thumbnailWidth: 300, 
   thumbnailHeight: 200, 

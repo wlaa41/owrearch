@@ -25,14 +25,14 @@ const AreasCoveredList: React.FC = () => {
         <meta property="og:title" content="Areas We Cover - OW London, Electrician, Smart Home Engineers" />
         <meta property="og:description" content="OW London covers various areas across London, including Aldgate, Barking, Canary Wharf, and more. Book now to check our team availability." />
         <meta property="og:image" content="/public/favicon/android-chrome-512x512.png" />
-        <meta property="og:url" content="https://www.owelectric.co.uk/areas-covered" />
+        <meta property="og:url" content="https://www.owresearch.netlify.app/areas-covered" />
         <meta name="robots" content="index, follow" />
       </Head> */}
       <div className="container" itemScope itemType="http://schema.org/Service">
         <meta itemProp="serviceType" content="Electrician and Smart Home Services" />
         <meta itemProp="provider" content="OW London, Electrician, Smart Home Engineers" />
         <meta itemProp="areaServed" content="London" />
-        <meta itemProp="url" content="https://www.owelectric.co.uk/areas-covered" />
+        <meta itemProp="url" content="https://www.owresearch.netlify.app/areas-covered" />
         {/* <meta itemProp="logo" content="/public/favicon/android-chrome-512x512.png" /> */}
         <h2>We are near you. Book now and check our team availability.</h2>
         <h3>Find trusted electrcians locally.</h3>

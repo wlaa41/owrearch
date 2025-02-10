@@ -36,19 +36,19 @@ When it comes to reliable and efficient electrical services in Whitechapel, look
 
 ### Trusted and Guaranteed Services in Whitechapel
 
-At OW! London Electricians and Home Automation Engineers, we understand the importance of trust and reliability. Our experienced electricians are committed to providing high-quality services that adhere to the highest safety standards, including [BS7671 regulations](https://www.owelectric.co.uk/posts/bs7671-importance). From emergency electrical services to routine maintenance, we ensure that every job is completed to your satisfaction. Our dedication to excellence has made us a trusted name in Whitechapel, where we pride ourselves on delivering dependable and guaranteed electrical solutions.
+At OW! London Electricians and Home Automation Engineers, we understand the importance of trust and reliability. Our experienced electricians are committed to providing high-quality services that adhere to the highest safety standards, including [BS7671 regulations](https://www.owresearch.netlify.app/posts/bs7671-importance). From emergency electrical services to routine maintenance, we ensure that every job is completed to your satisfaction. Our dedication to excellence has made us a trusted name in Whitechapel, where we pride ourselves on delivering dependable and guaranteed electrical solutions.
 
 ### Diverse Electrical Services for All Your Needs
 
 Our comprehensive range of services covers everything you might need for your home or business in Whitechapel. Here’s a breakdown of what we offer:
 
-1. **Emergency Electrical Services**: When you need an [emergency electrician near me](https://www.owelectric.co.uk/emergency-electrician-247) or emergency electrical service, our team is available 24/7 to handle any urgent electrical issues, ensuring your safety and peace of mind.
+1. **Emergency Electrical Services**: When you need an [emergency electrician near me](https://www.owresearch.netlify.app/emergency-electrician-247) or emergency electrical service, our team is available 24/7 to handle any urgent electrical issues, ensuring your safety and peace of mind.
 
 2. **Full House Rewiring**: Our skilled electricians provide thorough and efficient full house rewiring services, ensuring your electrical system is safe and up to date.
 
 3. **Industrial Electrical Services**: We cater to industrial clients with specialized services designed to meet the unique demands of industrial electrical systems.
 
-4. **Lighting Installations**: From installing new lighting fixtures to upgrading existing ones, we handle all types of [lighting installations](https://www.owelectric.co.uk/services/lighting-installation-electricians-london) with precision and care.
+4. **Lighting Installations**: From installing new lighting fixtures to upgrading existing ones, we handle all types of [lighting installations](https://www.owresearch.netlify.app/services/lighting-installation-electricians-london) with precision and care.
 
 5. **PAT Testing**: Our portable appliance testing (PAT) services ensure that all your electrical appliances are safe and compliant with current regulations.
 
@@ -60,7 +60,7 @@ Our comprehensive range of services covers everything you might need for your ho
 
 9. **Water Heater Repairs**: Our experts can repair and maintain water heaters, ensuring they operate efficiently and reliably.
 
-10. **Smart Home Installations**: Embrace the future with our [smart home installation](https://www.owelectric.co.uk/services/home-automation-av-knx-control4) services, integrating advanced technology into your home for enhanced convenience and security.
+10. **Smart Home Installations**: Embrace the future with our [smart home installation](https://www.owresearch.netlify.app/services/home-automation-av-knx-control4) services, integrating advanced technology into your home for enhanced convenience and security.
 
 11. **Solar Panel Installations**: We offer professional solar panel installation services, helping you harness renewable energy and reduce your carbon footprint.
 
@@ -97,9 +97,9 @@ For trusted, high-quality electrical services in Whitechapel, contact OW! London
 
 ### Relevant Links
 
-- [Alarm Installation Systems in London](https://www.owelectric.co.uk/services/alarm-installation-systems-london)
-- [Commercial Electrician Contractors in London](https://www.owelectric.co.uk/services/commercial-electrician-contractors-london)
-- [EICR Electrical Inspection in London](https://www.owelectric.co.uk/services/eicr-electrical-inspection-london)
-- [Pricing](https://www.owelectric.co.uk/pricing)
-- [Contact Us](https://www.owelectric.co.uk/contact)
-- [Emergency Electrician 24/7](https://www.owelectric.co.uk/emergency-electrician-247)
+- [Alarm Installation Systems in London](https://www.owresearch.netlify.app/services/alarm-installation-systems-london)
+- [Commercial Electrician Contractors in London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london)
+- [EICR Electrical Inspection in London](https://www.owresearch.netlify.app/services/eicr-electrical-inspection-london)
+- [Pricing](https://www.owresearch.netlify.app/pricing)
+- [Contact Us](https://www.owresearch.netlify.app/contact)
+- [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247)

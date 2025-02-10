@@ -38,7 +38,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   width: 1200,
   height: 800,
   caption: "OW London, Electrician, Smart Home Engineers service plan on a table.",
-  pageUrl: "https://www.owelectric.co.uk/services/ow-london-electrician-smart-home-engineers",
+  pageUrl: "https://www.owresearch.netlify.app/services/ow-london-electrician-smart-home-engineers",
   thumbnailSrc: '/images/ow-electrician-home-automation-electric-plan-banner',
   thumbnailWidth: 300,
   thumbnailHeight: 200,

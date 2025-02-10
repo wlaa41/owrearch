@@ -28,11 +28,11 @@ export const metadata: Metadata = {
     openGraph: {
       title: "Industrial Electrician Services - OW Electrician London",
       description: "OW Electrician London offers top-tier industrial electrical services across London. Call 07307565444 for a 2-hour emergency response, available 24/7.",
-     url: "https://www.owelectric.co.uk/",
+     url: "https://www.owresearch.netlify.app/",
       siteName: "OW Electrician & Home Automation Engineers",
       images: [
         {
-          url: "https://www.owelectric.co.uk/opengraph-image.jpg",          
+          url: "https://www.owresearch.netlify.app/opengraph-image.jpg",          
         width: 1200,
           height: 630,
           alt: 'OpenGraph Image',

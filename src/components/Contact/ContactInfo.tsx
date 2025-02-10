@@ -22,7 +22,7 @@ const ContactInfo = () => {
                     Send us an email on
                   </p>
                   <p>
-                    <a href="mailto:info@owelectric.co.uk">info@owelectric.co.uk</a>
+                    <a href="mailto:info@owresearch.netlify.app">info@owresearch.netlify.app</a>
                   </p>
                 </div>
                 <div className="fun-text">

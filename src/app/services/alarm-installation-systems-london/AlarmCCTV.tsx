@@ -77,7 +77,7 @@ const AlarmAndSurveillance = () => {
             <div className="card-body">
               <h3 className="card-title">Contact Us</h3>
               <p className="card-text">If you are concerned about the security of your home or business, give us a call. We can set up a foolproof alarm system that ensures you are safe and secure. Call OW London today for an advanced alarm system installation.</p>
-              <p className="card-text">For all your alarm and surveillance needs, call us on <a href="tel:+447307565444"><FaPhone /> +44 7307 565 444</a> or email at <a href="mailto:info@owelectric.co.uk"><FaEnvelope /> info@owelectric.co.uk</a>. We are always happy to discuss your project and advise on any electrical problems.</p>
+              <p className="card-text">For all your alarm and surveillance needs, call us on <a href="tel:+447307565444"><FaPhone /> +44 7307 565 444</a> or email at <a href="mailto:info@owresearch.netlify.app"><FaEnvelope /> info@owresearch.netlify.app</a>. We are always happy to discuss your project and advise on any electrical problems.</p>
               <p className="card-text"><a href="/contact"><FaMapMarkedAlt /> Contact us</a> for more information. Check our <a href="/pricing">pricing</a> and read our <a href="/about/gallery">reviews</a> to see what our clients have to say.</p>
             </div>
           </div>

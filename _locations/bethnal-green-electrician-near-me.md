@@ -70,7 +70,7 @@ Bethnal Green is known for its vibrant community and rich history, and we unders
 * **Guaranteed Quality:** We stand by the quality of our work, offering guarantees for your peace of mind.
 * **Local Expertise:** Being based in London, we are familiar with the specific needs and styles of homes and businesses in Bethnal Green.
 
-For more information about our services, visit our [pricing page](https://www.owelectric.co.uk/pricing) or [contact us](https://www.owelectric.co.uk/contact).
+For more information about our services, visit our [pricing page](https://www.owresearch.netlify.app/pricing) or [contact us](https://www.owresearch.netlify.app/contact).
 
 ### Frequently Asked Questions
 
@@ -90,4 +90,4 @@ For more information about our services, visit our [pricing page](https://www.ow
 
 **A**: Our periodic inspections include a thorough check of your electrical system to ensure safety and compliance with current standards.
 
-Discover how OW! London Electricians and Home Automation Engineers can help with your electrical needs in Bethnal Green by exploring our [emergency electrical services](https://www.owelectric.co.uk/emergency-electrician-247) and [home automation solutions](https://www.owelectric.co.uk/services/home-automation-av-knx-control4).
+Discover how OW! London Electricians and Home Automation Engineers can help with your electrical needs in Bethnal Green by exploring our [emergency electrical services](https://www.owresearch.netlify.app/emergency-electrician-247) and [home automation solutions](https://www.owresearch.netlify.app/services/home-automation-av-knx-control4).

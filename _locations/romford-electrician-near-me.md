@@ -57,7 +57,7 @@ At OW! London Electricians, we emphasize the importance of compliance with BS767
 
 Our approach is deeply rooted in understanding the local Romford community. We know the specific challenges and needs of the area, and our services are tailored accordingly. Whether you're dealing with an unexpected power outage, need regular maintenance, or are planning a home renovation, our team is here to help.
 
-For all your electrical needs in Romford, trust OW! London Electricians and Home Automation Engineers. [Contact us today](https://www.owelectric.co.uk/contact) for a quote or to schedule a service. We are here to make your home and business safer and more efficient with our professional electrical solutions.
+For all your electrical needs in Romford, trust OW! London Electricians and Home Automation Engineers. [Contact us today](https://www.owresearch.netlify.app/contact) for a quote or to schedule a service. We are here to make your home and business safer and more efficient with our professional electrical solutions.
 
 ### Frequently Asked Questions
 
@@ -71,8 +71,8 @@ For all your electrical needs in Romford, trust OW! London Electricians and Home
 
 ### Related Services
 
-- [Commercial Electrician Contractors London](https://www.owelectric.co.uk/services/commercial-electrician-contractors-london)
-- [Domestic Electrician Services London](https://www.owelectric.co.uk/services/domestic-electrician-services-london)
-- [EICR Electrical Inspection London](https://www.owelectric.co.uk/services/eicr-electrical-inspection-london)
-- [Emergency Electrician 24/7](https://www.owelectric.co.uk/emergency-electrician-247)
-- [Contact Us](https://www.owelectric.co.uk/contact)
+- [Commercial Electrician Contractors London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london)
+- [Domestic Electrician Services London](https://www.owresearch.netlify.app/services/domestic-electrician-services-london)
+- [EICR Electrical Inspection London](https://www.owresearch.netlify.app/services/eicr-electrical-inspection-london)
+- [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247)
+- [Contact Us](https://www.owresearch.netlify.app/contact)

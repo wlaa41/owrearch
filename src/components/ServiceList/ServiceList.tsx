@@ -29,14 +29,14 @@ const ServicesList: React.FC = () => {
         <meta property="og:title" content="Our Services - OW London Electricians" />
         <meta property="og:description" content="Professional electrical services for every need. Check our wide range of services from domestic to industrial solutions." />
         <meta property="og:image" content="/public/favicon/android-chrome-512x512.png" /> 
-        <meta property="og:url" content="https://www.owelectric.co.uk/services" />
+        <meta property="og:url" content="https://www.owresearch.netlify.app/services" />
       </Head>
       <div className="container" itemScope itemType="http://schema.org/Service">
         <h2> Want to see more services!</h2>
         <meta itemProp="serviceType" content="Electrician Services" />
         <meta itemProp="provider" content="OW London, Electricians" />
         <meta itemProp="areaServed" content="London" />
-        <meta itemProp="url" content="https://www.owelectric.co.uk/services" />
+        <meta itemProp="url" content="https://www.owresearch.netlify.app/services" />
         <div className="row h-100 justify-content-center align-items-center">
           <div className="col-lg-12 col-md-12 services-content" id="services-list">
             {services.map((service, index) => (

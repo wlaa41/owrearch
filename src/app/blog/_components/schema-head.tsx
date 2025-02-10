@@ -13,7 +13,7 @@ export function SchemaHead({ post }: Props) {
     "@type": post?.schema?.type ?? 'Article',
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": post?.canonicalUrl || `https://www.owelectric.co.uk/posts/${post?.slug}`
+      "@id": post?.canonicalUrl || `https://www.owresearch.netlify.app/posts/${post?.slug}`
     },
     // "headline": post?.title,
     // "description": post?.excerpt,

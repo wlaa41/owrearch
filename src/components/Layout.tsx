@@ -34,7 +34,7 @@
 //     "author": {
 //       "@type": "Organization",
 //       "name": "OW London Electrician and Home Automation",
-//       "url": "https://www.owelectric.co.uk/",
+//       "url": "https://www.owresearch.netlify.app/",
 //     },
 //     "datePublished": datePublished,
 //     "dateModified": dateModified,
@@ -45,7 +45,7 @@
 //     "@context": "https://schema.org",
 //     "@type": "Electrician",
 //     "name": "OW London, Electrician, Smart Home Engineers",
-//     "url": "https://www.owelectric.co.uk/",
+//     "url": "https://www.owresearch.netlify.app/",
 //     "logo": "/images/logo.png",
 //     "image": [
 //       "/images/ow-london-electrician-smart-home-thumbnail.jpg", 

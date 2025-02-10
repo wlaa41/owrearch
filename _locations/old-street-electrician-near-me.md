@@ -44,15 +44,15 @@ Are you looking for reliable and certified electricians near Old Street, London?
 
 #### Trustworthy Electrical Services with a Londoner’s Touch
 
-At OW! London Electricians, we understand the unique charm and style of Old Street. Whether you're in a chic apartment or a historic building, our services are designed to blend seamlessly with the Londoner lifestyle. From [full house rewiring](https://www.owelectric.co.uk/services/home-rewiring-electricians-london) and socket installations to [smart home setups](https://www.owelectric.co.uk/services/home-automation-av-knx-control4) and solar panel installations, we offer a comprehensive range of electrical services. We pride ourselves on our attention to detail and our commitment to excellence, making sure every job is completed to the highest standard.
+At OW! London Electricians, we understand the unique charm and style of Old Street. Whether you're in a chic apartment or a historic building, our services are designed to blend seamlessly with the Londoner lifestyle. From [full house rewiring](https://www.owresearch.netlify.app/services/home-rewiring-electricians-london) and socket installations to [smart home setups](https://www.owresearch.netlify.app/services/home-automation-av-knx-control4) and solar panel installations, we offer a comprehensive range of electrical services. We pride ourselves on our attention to detail and our commitment to excellence, making sure every job is completed to the highest standard.
 
 #### Emergency Electrician Services Near You
 
-Electrical emergencies can happen at any time, and when they do, you need a reliable electrician fast. Our [emergency electrician services](https://www.owelectric.co.uk/emergency-electrician-247) in Old Street are available 24/7, ensuring that help is always just a phone call away. We handle everything from power outages and faulty wiring to urgent repairs and safety inspections. With our quick response time and expert solutions, you can trust OW! London Electricians to resolve any electrical issue promptly and efficiently.
+Electrical emergencies can happen at any time, and when they do, you need a reliable electrician fast. Our [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247) in Old Street are available 24/7, ensuring that help is always just a phone call away. We handle everything from power outages and faulty wiring to urgent repairs and safety inspections. With our quick response time and expert solutions, you can trust OW! London Electricians to resolve any electrical issue promptly and efficiently.
 
 #### Certified Electrical Contractors for All Your Needs
 
-As certified electrical contractors, we adhere to the highest safety standards, including the BS7671 regulations. Whether you need periodic inspections, PAT testing, or EICR reports, our team has the expertise to ensure your property is compliant and safe. We also offer [industrial electrical services](https://www.owelectric.co.uk/services/industrial-electrician-services-london), reactive maintenance, and backup generator installations, catering to both residential and commercial clients in Old Street.
+As certified electrical contractors, we adhere to the highest safety standards, including the BS7671 regulations. Whether you need periodic inspections, PAT testing, or EICR reports, our team has the expertise to ensure your property is compliant and safe. We also offer [industrial electrical services](https://www.owresearch.netlify.app/services/industrial-electrician-services-london), reactive maintenance, and backup generator installations, catering to both residential and commercial clients in Old Street.
 
 ### Energy Efficiency and Smart Home Solutions
 
@@ -82,6 +82,6 @@ For the best electricians near Old Street, London, contact OW! London Electricia
 **A**: Yes, we specialize in energy-efficient solutions, including lighting installations and solar panel setups.
 
 #### Q: How can I book a service?
-**A**: You can contact us via our [website](https://www.owelectric.co.uk/contact) or call us directly to schedule an appointment.
+**A**: You can contact us via our [website](https://www.owresearch.netlify.app/contact) or call us directly to schedule an appointment.
 
 For all your electrical needs in Old Street, trust OW! London Electricians and Home Automation Engineers – your local experts.

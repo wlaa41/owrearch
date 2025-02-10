@@ -81,16 +81,16 @@ At OW! London Electricians, we take pride in being a reliable and professional c
 
 #### Q: How can I book an emergency electrical service in Dagenham?
 
-**A**: You can book our emergency electrical services through our [contact page](https://www.owelectric.co.uk/contact) or call us directly. We are available 24/7 to assist you.
+**A**: You can book our emergency electrical services through our [contact page](https://www.owresearch.netlify.app/contact) or call us directly. We are available 24/7 to assist you.
 
 #### Q: Do you offer pricing information for your services?
 
-**A**: Yes, we provide transparent and competitive pricing information on our [pricing page](https://www.owelectric.co.uk/pricing).
+**A**: Yes, we provide transparent and competitive pricing information on our [pricing page](https://www.owresearch.netlify.app/pricing).
 
 ### Related Services and Posts
 
-- Learn more about our [emergency electrician services](https://www.owelectric.co.uk/emergency-electrician-247).
-- Explore our [home automation solutions](https://www.owelectric.co.uk/services/home-automation-av-knx-control4).
-- Discover the importance of [electrical inspections](https://www.owelectric.co.uk/services/eicr-electrical-inspection-london).
+- Learn more about our [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247).
+- Explore our [home automation solutions](https://www.owresearch.netlify.app/services/home-automation-av-knx-control4).
+- Discover the importance of [electrical inspections](https://www.owresearch.netlify.app/services/eicr-electrical-inspection-london).
 
 For more detailed information on our services, visit our website or contact us directly. We look forward to serving the Dagenham community with excellence and dedication.

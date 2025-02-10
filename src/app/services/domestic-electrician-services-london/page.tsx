@@ -20,11 +20,11 @@ export const metadata: Metadata = {
     openGraph: {
       title: "Ow! Domestic Electrical Services, Emergency Electricians, Smart Home Installation - OW London Electrician and Home Automation Engineers",
       description: "Top-rated domestic electrical services in London. Call 07307565444",
-      url: "https://www.owelectric.co.uk/",
+      url: "https://www.owresearch.netlify.app/",
       siteName: "OW Electrician & Home Automation Engineers",
       images: [
         {
-          url: "https://www.owelectric.co.uk/opengraph-image.jpg",          
+          url: "https://www.owresearch.netlify.app/opengraph-image.jpg",          
         width: 1200,
           height: 630,
           alt: 'OpenGraph Image',

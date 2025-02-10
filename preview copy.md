@@ -16,7 +16,7 @@ topVideo: "/assets/videos/bs7671/top-video.mp4"
 midVideo: "/assets/videos/bs7671/mid-video.mp4"
 bottomVideo: "/assets/videos/bs7671/bottom-video.mp4"
 meta:
-  canonical_url: "https://www.owelectric.co.uk/understanding-bs-7671-wiring-regulations"  # For handling duplicate content across domains
+  canonical_url: "https://www.owresearch.netlify.app/understanding-bs-7671-wiring-regulations"  # For handling duplicate content across domains
   lang: "en"  # Language of the post
   layout: "post"  # Specifies the layout template used
   social:

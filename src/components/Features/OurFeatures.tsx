@@ -45,7 +45,7 @@ const OurFeatures = () => {
                   </Link>
                 </h3>
                 <p>
-                  Questions or concerns? Drop us an email at info@owelectric.co.uk for quick, professional advice and support.
+                  Questions or concerns? Drop us an email at info@owresearch.netlify.app for quick, professional advice and support.
                 </p>
               </div>
             </div>

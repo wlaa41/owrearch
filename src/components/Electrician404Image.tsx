@@ -21,7 +21,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   width: 1200,
   height: 800,
   caption: "OW London, Electrician, Smart Home Engineers 404 error page with a cartoon character opening a door labeled '404'.",
-  pageUrl: "https://www.owelectric.co.uk/404",
+  pageUrl: "https://www.owresearch.netlify.app/404",
   thumbnailSrc: '/images/ow-electrician-home-automation-404-not-found',
   thumbnailWidth: 300,
   thumbnailHeight: 200,

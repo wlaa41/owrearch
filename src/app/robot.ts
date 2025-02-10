@@ -14,6 +14,6 @@
 //         disallow: ['/'],
 //       },
 //     ],
-//     sitemap: 'https://www.owelectric.co.uk/sitemap.xml',
+//     sitemap: 'https://www.owresearch.netlify.app/sitemap.xml',
 //   }
 // }

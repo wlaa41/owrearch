@@ -28,11 +28,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Commercial Electrician Services in London | OW Electrician",
     description: "OW Electrician London offers top-notch commercial electrical services, ensuring compliance and safety. Call 07307565444",
-    url: "https://www.owelectric.co.uk/",
+    url: "https://www.owresearch.netlify.app/",
     siteName: "OW Electrician & Home Automation Engineers",
     images: [
       {
-        url: "https://www.owelectric.co.uk/opengraph-image.jpg",        width: 1200,
+        url: "https://www.owresearch.netlify.app/opengraph-image.jpg",        width: 1200,
         height: 630,
         alt: 'OpenGraph Image',
       },

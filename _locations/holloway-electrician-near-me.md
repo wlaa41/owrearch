@@ -117,6 +117,6 @@ Contact us today for all your electrical needs in Holloway. Let OW! London Elect
 
 **A**: Yes, we offer comprehensive smart home installation services, including automated lighting, integrated security systems, and more.
 
-For more information on our services, check out our [commercial electrician contractors in London](https://www.owelectric.co.uk/services/commercial-electrician-contractors-london) or our [domestic electrician services in London](https://www.owelectric.co.uk/services/domestic-electrician-services-london).
+For more information on our services, check out our [commercial electrician contractors in London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london) or our [domestic electrician services in London](https://www.owresearch.netlify.app/services/domestic-electrician-services-london).
 
-For pricing details, visit our [pricing page](https://www.owelectric.co.uk/pricing) and for emergency services, click [here](https://www.owelectric.co.uk/emergency-electrician-247).
+For pricing details, visit our [pricing page](https://www.owresearch.netlify.app/pricing) and for emergency services, click [here](https://www.owresearch.netlify.app/emergency-electrician-247).

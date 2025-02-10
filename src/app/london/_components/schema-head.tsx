@@ -12,7 +12,7 @@ export function SchemaHead({ post }: Props) {
     "@type": post?.schema?.type ?? 'Article',
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": post?.canonicalUrl || `https://www.owelectric.co.uk/posts/${post?.slug}`
+      "@id": post?.canonicalUrl || `https://www.owresearch.netlify.app/posts/${post?.slug}`
     },
     "headline": post?.title,
     "description": post?.excerpt,
@@ -67,7 +67,7 @@ export function SchemaHead({ post }: Props) {
       <meta property="og:title" content={post?.title} />
       <meta property="og:description" content={post?.excerpt} />
       <meta property="og:image" content={post?.ogImage.url} />
-      <meta property="og:url" content={post?.canonicalUrl || `https://www.owelectric.co.uk/posts/${post?.slug}`} />
+      <meta property="og:url" content={post?.canonicalUrl || `https://www.owresearch.netlify.app/posts/${post?.slug}`} />
       <meta property="og:type" content="article" />
       <meta property="og:locale" content={post?.lang} />
       <meta property="twitter:card" content="summary_large_image" />

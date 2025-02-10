@@ -132,7 +132,7 @@ const LightingInstallation = () => {
                   </Accordion>
                 </div>
                 <p>
-                  For all your lighting installation needs, call us on +44 7307 565 444 or email at info@owelectric.co.uk. We are always happy to assist with your projects and electrical problems.
+                  For all your lighting installation needs, call us on +44 7307 565 444 or email at info@owresearch.netlify.app. We are always happy to assist with your projects and electrical problems.
                 </p>
 
               </div>

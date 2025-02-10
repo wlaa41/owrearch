@@ -24,11 +24,11 @@ export const metadata: Metadata = {
     openGraph: {
       title: "Warranty and Guarantees - Comprehensive Electrical Services in London",
       description: "Discover our comprehensive guarantees on all domestic, commercial, and industrial electrical installations and repairs in London. Call 07307565444.",
-      url: "https://www.owelectric.co.uk/",
+      url: "https://www.owresearch.netlify.app/",
       siteName: "OW Electrician & Home Automation Engineers",
       images: [
         {
-          url: "https://www.owelectric.co.uk/opengraph-image.jpg",          
+          url: "https://www.owresearch.netlify.app/opengraph-image.jpg",          
         width: 1200,
           height: 630,
           alt: 'OpenGraph Image',

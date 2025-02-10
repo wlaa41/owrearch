@@ -38,7 +38,7 @@ const seoData: ImageOptimizedWithJsonIdProps = {
   width: 1200, 
   height: 800, 
   caption: "OW London, Electrician, Smart Home Engineers blueprint showing home automation and electrical design.",
-  pageUrl: "https://www.owelectric.co.uk/contact/",
+  pageUrl: "https://www.owresearch.netlify.app/contact/",
   thumbnailSrc: '/images/ow-electrician-home-automtion-wood-logo-london',
   thumbnailWidth: 300,  
   thumbnailHeight: 200, 

@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     openGraph: {
       title: "Alarm and Surveillance Services | OW London Electrician & Smart Home Engineers",
       description: "OW London Electrician and Smart Home Engineers provide top-notch alarm and surveillance services across London. Call 07307565444 for a secure home or business.",
-      url: "https://www.owelectric.co.uk/",
+      url: "https://www.owresearch.netlify.app/",
       siteName: "OW Electrician & Home Automation Engineers",
 
       locale: 'en_GB',

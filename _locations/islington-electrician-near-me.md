@@ -79,4 +79,4 @@ When it comes to finding a trustworthy and reliable electrician in Islington, OW
 
 **A**: Regular electrical inspections are recommended at least once every ten years for a domestic property and every five years for a business. Contact us for comprehensive periodic inspections to ensure your system's safety and efficiency.
 
-For more information, check out our [emergency electrician services](https://www.owelectric.co.uk/emergency-electrician-247) and [pricing details](https://www.owelectric.co.uk/pricing).
+For more information, check out our [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247) and [pricing details](https://www.owresearch.netlify.app/pricing).

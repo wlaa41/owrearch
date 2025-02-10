@@ -26,11 +26,11 @@ export const metadata: Metadata = {
     openGraph: {
       title: "Comprehensive EICR Services in London | OW Electrician London",
       description: "Ensure the safety of your electrical installations with our professional EICR services in London. Call 07307565444 for inspections and reports by qualified electricians.",
-      url: "https://www.owelectric.co.uk/",
+      url: "https://www.owresearch.netlify.app/",
       siteName: "OW Electrician & Home Automation Engineers",
       images: [
         {
-          url: "https://www.owelectric.co.uk/images/ow-london-bs7671-multifunctional-tester-eicr-testing.png",
+          url: "https://www.owresearch.netlify.app/images/ow-london-bs7671-multifunctional-tester-eicr-testing.png",
           width: 1200,
           height: 630,
           alt: 'OpenGraph Image',

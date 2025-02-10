@@ -49,11 +49,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "PAT Testing Services in London | OW Electrician & Home Automation Engineers",
     description: "OW London offers professional PAT Testing services for homes and businesses, ensuring electrical appliance safety and compliance. Call 07307565444.",
-    url: "https://www.owelectric.co.uk/",
+    url: "https://www.owresearch.netlify.app/",
     siteName: "OW Electrician & Home Automation Engineers",
     images: [
       {
-        url: "https://www.owelectric.co.uk/opengraph-image.jpg",
+        url: "https://www.owresearch.netlify.app/opengraph-image.jpg",
         width: 1200,
         height: 630,
         alt: 'OpenGraph Image',

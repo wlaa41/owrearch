@@ -113,7 +113,7 @@ For Brentwood residents searching for reliable electrical services, our company 
 
 At OW! London Electricians and Home Automation Engineers, we understand the importance of trust and reliability. We are committed to providing genuine, high-quality electrical services to the residents of Brentwood. Whether you need a small repair or a major installation, you can count on us to deliver excellence every time.
 
-For all your electrical needs in Brentwood, [contact OW! London Electricians and Home Automation Engineers today](https://www.owelectric.co.uk/contact). Let us light up your home with safety, efficiency, and trust.
+For all your electrical needs in Brentwood, [contact OW! London Electricians and Home Automation Engineers today](https://www.owresearch.netlify.app/contact). Let us light up your home with safety, efficiency, and trust.
 
 ### Frequently Asked Questions
 

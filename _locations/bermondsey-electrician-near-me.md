@@ -37,10 +37,10 @@ Located in the heart of London, Bermondsey is a vibrant area known for its rich 
 ### Our Range of Services
 
 **Emergency Electrical Services**  
-Electrical emergencies can happen at any time, and when they do, you need a quick and reliable response. Our [24-hour electrician services](https://www.owelectric.co.uk/emergency-electrician-247) are available to handle any urgent issues you may face, ensuring minimal disruption to your daily life.
+Electrical emergencies can happen at any time, and when they do, you need a quick and reliable response. Our [24-hour electrician services](https://www.owresearch.netlify.app/emergency-electrician-247) are available to handle any urgent issues you may face, ensuring minimal disruption to your daily life.
 
 **Full House Rewiring**  
-If your home’s wiring is outdated or faulty, it can pose serious safety risks. Our [full house rewiring services](https://www.owelectric.co.uk/services/home-rewiring-electricians-london) will modernize your electrical system, enhancing safety and efficiency.
+If your home’s wiring is outdated or faulty, it can pose serious safety risks. Our [full house rewiring services](https://www.owresearch.netlify.app/services/home-rewiring-electricians-london) will modernize your electrical system, enhancing safety and efficiency.
 
 **Industrial Electrical Services**  
 We provide specialized industrial electrical services tailored to the unique needs of businesses in Bermondsey, ensuring your operations run smoothly and safely.
@@ -49,13 +49,13 @@ We provide specialized industrial electrical services tailored to the unique nee
 Transform your home or business with our professional lighting installations. From energy-efficient LEDs to sophisticated lighting systems, we have solutions to suit every need.
 
 **PAT Testing and Periodic Inspections**  
-Ensure the safety and compliance of your electrical appliances with our [PAT testing services](https://www.owelectric.co.uk/services/pat-testing-electrical-safety-london). Regular periodic inspections will also help identify and address potential issues before they become major problems.
+Ensure the safety and compliance of your electrical appliances with our [PAT testing services](https://www.owresearch.netlify.app/services/pat-testing-electrical-safety-london). Regular periodic inspections will also help identify and address potential issues before they become major problems.
 
 **Reactive Maintenance and Socket Installations**  
 Our reactive maintenance services ensure that any electrical issues are promptly addressed, minimizing downtime and inconvenience. We also offer professional socket installations to meet your specific requirements.
 
 **Water Heater Repairs and Smart Home Installations**  
-Whether you need repairs for your water heater or want to upgrade to a smart home system, our expert electricians have got you covered. We offer comprehensive [smart home installations](https://www.owelectric.co.uk/services/home-automation-av-knx-control4), integrating the latest technology for your convenience and security.
+Whether you need repairs for your water heater or want to upgrade to a smart home system, our expert electricians have got you covered. We offer comprehensive [smart home installations](https://www.owresearch.netlify.app/services/home-automation-av-knx-control4), integrating the latest technology for your convenience and security.
 
 **Solar Panel Installations and Energy Efficiency Upgrades**  
 Take advantage of renewable energy with our solar panel installation services. We also provide energy efficiency upgrades to help you reduce your energy consumption and save on bills.
@@ -81,4 +81,4 @@ Ensure your HVAC system is properly wired for optimal performance. We also insta
 
 As your local electricians in Bermondsey, we understand the unique needs of our community. We are dedicated to providing high-quality, affordable electrical services with a personal touch. Our team is always ready to assist with any electrical needs, from small repairs to large-scale installations. With a reputation for excellence and a commitment to customer satisfaction, you can trust OW! London Electricians and Home Automation Engineers to deliver outstanding results every time.
 
-For reliable and professional electrical services in Bermondsey, [contact us](https://www.owelectric.co.uk/contact) today. Your safety and satisfaction are our top priorities, and we are here to help with all your electrical needs.
+For reliable and professional electrical services in Bermondsey, [contact us](https://www.owresearch.netlify.app/contact) today. Your safety and satisfaction are our top priorities, and we are here to help with all your electrical needs.

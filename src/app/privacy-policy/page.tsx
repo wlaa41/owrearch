@@ -15,11 +15,11 @@ export const metadata: Metadata = {
   openGraph: {
       title: "Privacy Policy - OW Electrician London",
       description: "Read our privacy policy to understand how OW Electrician London collects, uses, and protects your personal information. Contact us for more details.",
-      url: "https://www.owelectric.co.uk/opengraph-image.jpg",
+      url: "https://www.owresearch.netlify.app/opengraph-image.jpg",
       siteName: "OW Electrician & Home Automation Engineers",
       images: [
           {
-              url: "https://www.owelectric.co.uk/opengraph-image.jpg",
+              url: "https://www.owresearch.netlify.app/opengraph-image.jpg",
               width: 1200,
               height: 630,
               alt: 'OpenGraph Image',

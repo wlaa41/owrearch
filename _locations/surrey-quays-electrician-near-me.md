@@ -66,7 +66,7 @@ At OW! London Electricians, we cover all your electrical needs. Whether you’re
 
 Living in Surrey Quays means enjoying the mix of modern amenities and traditional London charm. Our team at OW! London Electricians understands the local style and caters our services to fit seamlessly into your life. Whether you're a homeowner needing a "Local Electrician Near Me" for small jobs or a business owner requiring "Commercial Electrical Services," we guarantee professionalism and reliability.
 
-Our commitment to adhering to the [BS7671 standards](https://www.owelectric.co.uk/posts/understanding-regulation-421-7-afdd-requirements) ensures that all electrical work is carried out safely and to the highest quality. When you choose OW! London Electricians, you’re choosing peace of mind and a trusted partner in maintaining your electrical systems.
+Our commitment to adhering to the [BS7671 standards](https://www.owresearch.netlify.app/posts/understanding-regulation-421-7-afdd-requirements) ensures that all electrical work is carried out safely and to the highest quality. When you choose OW! London Electricians, you’re choosing peace of mind and a trusted partner in maintaining your electrical systems.
 
 ### Contact Us
 
@@ -74,4 +74,4 @@ For all your electrical needs in Surrey Quays, contact OW! London Electricians a
 
 OW! London Electricians and Home Automation Engineers – Your local, trusted electrical service providers in Surrey Quays.
 
-For more information, visit our [pricing page](https://www.owelectric.co.uk/pricing) or contact us directly through our [contact page](https://www.owelectric.co.uk/contact). We also offer [emergency electrician services](https://www.owelectric.co.uk/emergency-electrician-247) available 24/7.
+For more information, visit our [pricing page](https://www.owresearch.netlify.app/pricing) or contact us directly through our [contact page](https://www.owresearch.netlify.app/contact). We also offer [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247) available 24/7.

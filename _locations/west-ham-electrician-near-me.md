@@ -69,7 +69,7 @@ Choosing the right electrician is crucial for the safety and efficiency of your 
 
 ### Commitment to Safety and Standards
 
-At OW! London Electricians and Home Automation Engineers, we adhere strictly to the [BS7671 standards](https://www.owelectric.co.uk/posts/bs7671-importance), ensuring that all our work complies with the latest regulations and safety guidelines. This commitment to safety and quality is what sets us apart and makes us the trusted choice for all your electrical needs in West Ham.
+At OW! London Electricians and Home Automation Engineers, we adhere strictly to the [BS7671 standards](https://www.owresearch.netlify.app/posts/bs7671-importance), ensuring that all our work complies with the latest regulations and safety guidelines. This commitment to safety and quality is what sets us apart and makes us the trusted choice for all your electrical needs in West Ham.
 
 ### Contact Us
 
@@ -77,5 +77,5 @@ For reliable, professional, and affordable electrical services in West Ham, cont
 
 For those in need of trustworthy and reliable electricians in West Ham, look no further than OW! London Electricians and Home Automation Engineers. Our commitment to quality service, adherence to safety standards, and dedication to customer satisfaction make us the best choice for all your electrical needs.
 
-[Learn more about our pricing](https://www.owelectric.co.uk/pricing)
-[Contact us today](https://www.owelectric.co.uk/contact)
+[Learn more about our pricing](https://www.owresearch.netlify.app/pricing)
+[Contact us today](https://www.owresearch.netlify.app/contact)

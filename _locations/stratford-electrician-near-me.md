@@ -61,7 +61,7 @@ At OW! London Electricians and Home Automation Engineers, we offer a full spectr
 
 ### Why Choose Us?
 
-Stratford is a vibrant area, blending historic charm with modern innovation, and our services reflect this dynamic spirit. Whether you need an [emergency electrician near me](https://www.owelectric.co.uk/emergency-electrician-247) or are planning extensive home renovations, our team is ready to assist.
+Stratford is a vibrant area, blending historic charm with modern innovation, and our services reflect this dynamic spirit. Whether you need an [emergency electrician near me](https://www.owresearch.netlify.app/emergency-electrician-247) or are planning extensive home renovations, our team is ready to assist.
 
 Our electricians are fully licensed and insured, providing the highest standards of service. We proudly serve the Stratford community with affordable, competitive pricing while maintaining superior quality. From minor repairs to major installations, trust us to deliver professional results every time.
 
@@ -86,4 +86,4 @@ This blog post is crafted to attract both search engines and potential clients b
 #### Q: Do you provide emergency electrical services in Stratford?
 **A**: Absolutely! Our emergency electricians are available 24/7 to handle any electrical crisis in Stratford, ensuring you're never left without power.
 
-For more information on our services, visit our [pricing page](https://www.owelectric.co.uk/pricing) or [contact us](https://www.owelectric.co.uk/contact) today!
+For more information on our services, visit our [pricing page](https://www.owresearch.netlify.app/pricing) or [contact us](https://www.owresearch.netlify.app/contact) today!
