@@ -9,7 +9,9 @@
 }
 
 .hero-container .left {
-  padding-right: 120px;
+  padding-right: 60px;
+  display: grid;
+  align-content: space-around;
 }
 .hero-container .right {
   position: relative;

@@ -105,6 +105,8 @@ export default function Home() {
 
       {/* <Feedback /> */}
 
+      <CitySpark/>
+
       <Features />
 
       {/* <ServicesArea /> */}
@@ -119,7 +121,6 @@ export default function Home() {
       {/* <PricingStyleOne /> */}
 
       {/* <ReviewList /> */}
-      <CitySpark/>
 
       {/* <ParagraphsInGreen />  */}
       <BlogPost />

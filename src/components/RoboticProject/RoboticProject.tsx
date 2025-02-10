@@ -78,7 +78,7 @@ const RoboticProject = () => {
               <p className="desc">
                 A Gazebo simulation project featuring the Jackal robot,
                 utilizing SLAM for mapping and AMCL for localization within a
-                custom Unicampus environment using ROS.
+                custom Unicampus environment using ROS2.
               </p>
               <button
                 id="GazeboButton"
