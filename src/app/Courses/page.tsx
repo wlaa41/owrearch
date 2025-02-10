@@ -10,38 +10,42 @@ import PricingTable from "@/components/PricingPlans/PricingTable";
 import JoinOurTeam from "@/components/JoinOurTeam/JoinOurTeam";
 import type { Metadata } from 'next';
 
+
+// This is the write way to write the meta data
 export const metadata: Metadata = {
-  title: "Affordable Electrician Pricing - OW Electrician London",
-  description: "Discover transparent and competitive pricing for expert electrical services in London. No call-out fees, 24/7 emergency support, and top-quality workmanship. Call 07307565444",
+  title: "OW ROQAI - Robotics, AI & Research",
+  description: "Explore cutting-edge research in robotics, AI, and autonomous systems. Stay updated on the latest innovations, projects, and insights in machine learning, DevOps, and simulation.",
   keywords: [
-    "electrician pricing London", 
-    "emergency electrician rates", 
-    "affordable electrical services", 
-    "OW Electrician London", 
-    "certified electricians London", 
-    "24/7 electrical support", 
-    "property rewiring London", 
-    "consumer unit upgrades", 
-    "EICR testing London", 
-    "PAT testing London"
+    "robotics research", 
+    "AI innovation", 
+    "autonomous systems", 
+    "machine learning projects", 
+    "DevOps engineering", 
+    "computer vision", 
+    "simulation and modeling", 
+    "SLAM technology", 
+    "reinforcement learning", 
+    "AI education"
   ],
-  authors: [{ name: 'OW Electrician London' }],
+  authors: [{ name: 'OW ROQAI' }],
   openGraph: {
-    title: "Affordable Electrician Pricing - OW Electrician London",
-    description: "Discover transparent and competitive pricing for expert electrical services in London. No call-out fees, 24/7 emergency support, and top-quality workmanship. Call 07307565444",
-    url: "https://www.owelectric.co.uk/",
-    siteName: "OW Electrician & Home Automation Engineers",
+    title: "OW ROQAI - Robotics, AI & Research",
+    description: "Explore cutting-edge research in robotics, AI, and autonomous systems. Stay updated on the latest innovations, projects, and insights in machine learning, DevOps, and simulation.",
+    url: "https://owresearch.netlify.app/",
+    siteName: "OW ROQUAI - Research & AI",
     images: [
       {
-        url: "https://www.owelectric.co.uk/opengraph-image.jpg",        width: 1200,
+        url: "https://owresearch.netlify.app/opengraph-image.jpg",
+        width: 1200,
         height: 630,
-        alt: 'OpenGraph Image',
+        alt: 'OW ROQAI OpenGraph Image',
       },
     ],
     locale: 'en_GB',
     type: 'website',
   },
 };
+
 
 export default function Page() {
   return (

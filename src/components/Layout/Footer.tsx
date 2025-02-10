@@ -42,7 +42,7 @@ const Footer = () => {
                   <li><Link href="/about/why-us-ow-electrician">About Us</Link></li>
                   <li><Link href="/services">Services</Link></li>
                   <li><Link href="/features">Features</Link></li>
-                  <li><Link href="/pricing">Our Pricing</Link></li>
+                  <li><Link href="/courses">Courses</Link></li>
                   <li><Link href="/latest-news-ow-electrician-apply">Latest News</Link></li>
                 </ul>
               </div>
@@ -99,9 +99,7 @@ const Footer = () => {
           <Image src={shape2} alt="Decorative Shape" width={22} height={22} />
         </div>
 
-        <div className="strip-logo-container" style={{ top: 0, left: 0, width: "100%", height: "auto" }}>
-          <Image src="/images/strip-logo.jpg" alt="Company Banner" layout="responsive" width={1920} height={100} />
-        </div>
+
       </footer>
     </>
   );
