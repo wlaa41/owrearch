@@ -34,7 +34,7 @@ const CitySpark: React.FC = () => {
         </div>
       </div>
       <p className="citySpark_para">
-        In a competitive landscape, this project secured first place in the "Maker" category at the LondonVenture competition, showcasing a
+        In a competitive landscape, this project secured first place in the &quot;Maker&quot; category at the LondonVenture competition, showcasing a
         unique blend of robotics, VR, and a math simulator integrated into an interactive website. Designed to revolutionize math education, it
         uses advanced technologies to turn abstract concepts into hands-on learning experiences. The project distinguished itself among a field
         of strong contenders by demonstrating a practical, innovative approach to education, underscoring the potential of technology to enhance
