@@ -14,7 +14,7 @@ const PricingElectricalServices = () => {
               <h2>Flexible Learning Packages</h2>
               <div className="bar"></div>
               <p>
-                Choose a learning plan that fits your schedule and goals. Whether you're looking for self-paced learning or expert mentorship, we have the right package for you.
+                Choose a learning plan that fits your schedule and goals. Whether you&apos;re looking for self-paced learning or expert mentorship, we have the right package for you.
               </p>
             </div>
   
@@ -31,11 +31,11 @@ const PricingElectricalServices = () => {
   
                   <div className="pricing-features">
                     <ul>
-                      <li className='active'> Lifetime Access to Course Content</li>
-                      <li className='active'> Hands-on Projects & Exercises</li>
-                      <li className='active'> Learn at Your Own Pace</li>
-                      <li className='active'> Downloadable Study Materials</li>
-                      <li className='active'> Certification Upon Completion</li>
+                      <li className="active"> Lifetime Access to Course Content</li>
+                      <li className="active"> Hands-on Projects & Exercises</li>
+                      <li className="active"> Learn at Your Own Pace</li>
+                      <li className="active"> Downloadable Study Materials</li>
+                      <li className="active"> Certification Upon Completion</li>
                     </ul>
                   </div>
   
@@ -59,11 +59,11 @@ const PricingElectricalServices = () => {
   
                   <div className="pricing-features">
                     <ul>
-                      <li className='active'> Weekly Live Sessions with Experts</li>
-                      <li className='active'> Personalized Feedback on Projects</li>
-                      <li className='active'> Access to Private Student Community</li>
-                      <li className='active'> One-on-One Mentorship Available</li>
-                      <li className='active'> Career Support & Interview Prep</li>
+                      <li className="active"> Weekly Live Sessions with Experts</li>
+                      <li className="active"> Personalized Feedback on Projects</li>
+                      <li className="active"> Access to Private Student Community</li>
+                      <li className="active"> One-on-One Mentorship Available</li>
+                      <li className="active"> Career Support & Interview Prep</li>
                     </ul>
                   </div>
   
@@ -87,11 +87,11 @@ const PricingElectricalServices = () => {
   
                   <div className="pricing-features">
                     <ul>
-                      <li className='active'> Full Access to All Courses</li>
-                      <li className='active'> Advanced Specialization Tracks</li>
-                      <li className='active'> Dedicated One-on-One Coaching</li>
-                      <li className='active'> Internship & Job Placement Assistance</li>
-                      <li className='active'> Industry-Recognized Certification</li>
+                      <li className="active"> Full Access to All Courses</li>
+                      <li className="active"> Advanced Specialization Tracks</li>
+                      <li className="active"> Dedicated One-on-One Coaching</li>
+                      <li className="active"> Internship & Job Placement Assistance</li>
+                      <li className="active"> Industry-Recognized Certification</li>
                     </ul>
                   </div>
   
