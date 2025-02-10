@@ -30,7 +30,7 @@ const WhatsAppButton: React.FC<WhatsAppButtonProps> = ({ className }) => {
           bottom: '25px',
           padding: '10px',
           fontSize: '30px',
-          color: '#25D366',
+          color: '#33cccc',
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',

@@ -1,0 +1,131 @@
+.robotic-stripe {
+  transform: translate(0);
+  width: 100%;
+  overflow: hidden;
+  padding: 80px 0;
+}
+.robotic-stripe .main-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.robotic-stripe .main-container .gridLeftRight {
+  display: grid;
+  grid-template-columns: 560px 530px;
+  gap: 90px;
+  justify-content: space-between;
+  align-items: center;
+}
+.robotic-stripe .main-container .gridLeftRight .rightContainer .text-desc {
+  text-align: left;
+}
+.robotic-stripe .main-container .gridLeftRight .rightContainer .text-desc .title {
+  line-height: 1.1;
+  letter-spacing: -0.1ch;
+  font-size: 35px;
+  background: linear-gradient(149.47deg, rgb(111, 159, 255) 6.08%, rgb(86, 145, 255) 11.08%, rgb(88, 86, 249) 50.65%, rgb(128, 43, 255) 75.66%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0 0 10px;
+  padding-bottom: 2rem;
+  width: 95%;
+}
+.robotic-stripe .main-container .gridLeftRight .rightContainer .text-desc .desc {
+  -o-object-fit: fill;
+     object-fit: fill;
+}
+.robotic-stripe .main-container .gridLeftRight .leftContainer {
+  border-radius: 2px;
+  overflow: hidden;
+  position: relative;
+  height: 330px;
+  overflow: hidden;
+  padding: 11px;
+  background: conic-gradient(circle at center, #6f9fff 55%, rgb(167, 243, 255) 120%);
+  box-shadow: 1px 1px 3px;
+}
+.robotic-stripe .main-container .gridLeftRight .leftContainer .robotic {
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  overflow: hidden;
+}
+.robotic-stripe .main-container .gridLeftRight .leftContainer .robotic::after {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  box-shadow: inset 0px 5px 5px rgba(1, 0, 66, 0.3), inset 0px -3px 4px rgba(0, 0, 66, 0.12), inset 6px 6px 9px rgba(0, 0, 66, 0.2);
+  pointer-events: none; /* This ensures that clicks go through to the image */
+}
+.robotic-stripe .main-container .gridLeftRight .leftContainer .robotic img {
+  position: relative;
+  top: -8px;
+  left: -1%;
+  max-width: 109%;
+  width: 109%;
+}
+
+#GazeboButton {
+  background: radial-gradient(circle at 0% 0%, rgba(74, 252, 175, 0.4), rgba(255, 255, 255, 0)), linear-gradient(149.47deg, rgba(20, 170, 105, 0.6) 5.08%, rgba(25, 145, 128, 0.6) 50.65%, rgba(33, 127, 149, 0.8) 75.66%), linear-gradient(255.37deg, #deffb4 38%, #ffc1c0 97%);
+  background: conic-gradient(at 2% 40%, #10ff6f, #0463c2, #1286fb, rgba(0, 242, 97, 0.7803921569));
+  color: white;
+  margin-top: 22px;
+  box-shadow: 0 4px 11px rgba(0, 0, 0, 0.538);
+  height: 44px;
+  transition: 0.2s;
+  border-radius: 4px;
+  border: none;
+}
+#GazeboButton:hover {
+  transition: 0.2s;
+  transform: translateY(-3px);
+  box-shadow: 2px 8px 11px rgba(0, 0, 0, 0.438);
+}
+#GazeboButton:active {
+  transition: 0.1s;
+  transform: translateY(2px);
+  box-shadow: 0 0px 4px rgba(0, 0, 0, 0.538);
+}
+
+@media only screen and (max-width: 1199.98px) {
+  #GazeboButton {
+    margin: 0 0 0.9rem;
+  }
+  .robotic-stripe {
+    margin-top: 0;
+    min-height: 644px;
+    padding-inline: 25px;
+  }
+  .robotic-stripe .main-container {
+    max-width: 700px;
+  }
+  .robotic-stripe .main-container .gridLeftRight {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    gap: 0px;
+  }
+  .robotic-stripe .main-container .gridLeftRight .rightContainer .text-desc {
+    display: grid;
+    justify-items: center;
+  }
+  .robotic-stripe .main-container .gridLeftRight .rightContainer .text-desc .title {
+    text-align: center;
+    margin: 2rem 0 10px;
+    width: 100%;
+  }
+  .robotic-stripe .main-container .gridLeftRight .rightContainer .text-desc .desc {
+    margin: 0 0 20px;
+    text-align: center;
+  }
+  .robotic-stripe .main-container .gridLeftRight .leftContainer {
+    width: 100%;
+    max-height: 65vw;
+  }
+}/*# sourceMappingURL=RoboticProject.css.map */

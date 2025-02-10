@@ -24,6 +24,8 @@ import FunFactsArea from "@/components/Common/FunFactsArea";
 import AreasCoveredList from "@/components/coverdArea/AreasCoveredList";
 import OurFeatures from "@/components/Features/OurFeatures";
 import Head from "next/head";
+import CitySpark from "@/components/citySpark/CitySpark";
+import RoboticProject from "@/components/RoboticProject/RoboticProject";
 
 // import ServerSideSaveQueryParamsVisitors from "@/components/ServerSideSaveQueryParamsVisitors";
 // import ScrollAndSessionTracker from "@/components/ScrollAndSessionTracker";
@@ -98,7 +100,6 @@ export default function Home() {
       <>
       <Navbar />
       {/* <NavbarTemp /> */}
-
       <MainBanner />
       {/* <MainBannerTemp/> */}
 
@@ -118,8 +119,11 @@ export default function Home() {
       {/* <PricingStyleOne /> */}
 
       {/* <ReviewList /> */}
+      <CitySpark/>
+
       {/* <ParagraphsInGreen />  */}
       <BlogPost />
+      <RoboticProject/>
       {/* <AreasCoveredList/> */}
 
       {/* <JoinOurTeam/> */}
