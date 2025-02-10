@@ -6,7 +6,13 @@
   align-items: center;
 }
 .citySpark_stripe * {
-  max-width: 1200px;
+
+  max-width: 1250px;
+  /* border: 3px dashed purple; */
+
+  /* overflow: hidden; */
+
+
 }
 .citySpark_stripe .citySpark_stripe_h2 {
   text-align: center;
@@ -20,7 +26,7 @@
   letter-spacing: -0.12ch;
 }
 .citySpark_stripe_h3 {
-  margin: 0 3rem 4rem;
+  margin: 0 0 4rem;
   text-align: center;
   background: linear-gradient(149.47deg, rgb(76, 76, 76) 5.08%, #4bbfb0 50.65%, rgb(146, 120, 120) 75.66%);
   -webkit-background-clip: text;
@@ -31,6 +37,9 @@
 }
 
 .citySpark_container {
+  /* border: 3px dashed purple; */
+  overflow: hidden;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
