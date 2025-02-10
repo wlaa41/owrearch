@@ -326,17 +326,13 @@ export default function RootLayout({
   return (
     <html lang="en-GB">
       <head>
-        <meta name="author" content="OW Electrician London" />
-        {/* <meta name="language" content="English" /> */}
+        <meta name="author" content="OW Robotics, Quantum and AI" />
+        <meta name="description" content="OW Robotics, Quantum and AI - Advancing research in robotics, AI, math, and programming. Explore cutting-edge projects in simulation, automation, and artificial intelligence." />
+        <meta name="keywords" content="Robotics, AI, Machine Learning, Simulation, Research, Programming, Autonomous Systems, Computer Vision, Quantum Computing" />
         <meta name="revisit-after" content="7 days" />
         <meta name="rating" content="general" />
-        {/* ################################### Remove this ###################################### */}
-        <meta name="seobility" content="7eb5f474f90d37f52deb98ff124ac484"/>  
-        {/* ###################################################################################### */}
-        <meta property="og:site_name" content="OW Electrician & Home Automation Engineers" />
+        <meta property="og:site_name" content="OW Robotics, Quantum and AI - Research & Innovation" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
-
-
 
         <script
           dangerouslySetInnerHTML={{
@@ -348,230 +344,55 @@ export default function RootLayout({
           query[key] = value;
         });
 
-        // Get current time
         const currentTime = new Date().toISOString();
-
-        // Get device type
         const deviceType = /Mobi|Android/i.test(navigator.userAgent) ? 'Mobile' : 'Desktop';
 
-        // Get browser information
         function getBrowserInfo() {
           const userAgent = navigator.userAgent;
-          let browserName = "Unknown";
-
-          if (userAgent.indexOf("Firefox") > -1) {
-            browserName = "Firefox";
-          } else if (userAgent.indexOf("Opera") > -1 || userAgent.indexOf("OPR") > -1) {
-            browserName = "Opera";
-          } else if (userAgent.indexOf("Trident") > -1) {
-            browserName = "Internet Explorer";
-          } else if (userAgent.indexOf("Edge") > -1) {
-            browserName = "Edge";
-          } else if (userAgent.indexOf("Chrome") > -1) {
-            browserName = "Chrome";
-          } else if (userAgent.indexOf("Safari") > -1) {
-            browserName = "Safari";
-          }
-
-          return browserName;
+          if (userAgent.includes("Firefox")) return "Firefox";
+          if (userAgent.includes("Chrome")) return "Chrome";
+          if (userAgent.includes("Safari")) return "Safari";
+          if (userAgent.includes("Edge")) return "Edge";
+          return "Unknown";
         }
 
-        // Get operating system information
         function getOSInfo() {
           const userAgent = navigator.userAgent;
-          let osName = "Unknown";
-
-          if (userAgent.indexOf("Win") > -1) {
-            osName = "Windows";
-          } else if (userAgent.indexOf("Mac") > -1) {
-            osName = "MacOS";
-          } else if (userAgent.indexOf("X11") > -1) {
-            osName = "UNIX";
-          } else if (userAgent.indexOf("Linux") > -1) {
-            osName = "Linux";
-          } else if (userAgent.indexOf("Android") > -1) {
-            osName = "Android";
-          } else if (userAgent.indexOf("like Mac") > -1) {
-            osName = "iOS";
-          }
-
-          return osName;
+          if (userAgent.includes("Win")) return "Windows";
+          if (userAgent.includes("Mac")) return "MacOS";
+          if (userAgent.includes("Linux")) return "Linux";
+          if (userAgent.includes("Android")) return "Android";
+          if (userAgent.includes("like Mac")) return "iOS";
+          return "Unknown";
         }
 
-        let loc = 'could not find the location'
-
-        // Fetch IP information including location
-        fetch('https://ipinfo.io/json/')
-          .then(response => {
-            if (!response.ok) {
-              throw new Error('Failed to fetch IP information');
-            }
-            return response.json();
+        fetch('/api/postVisitData', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            query,
+            urlPath: window.location.pathname,
+            time: currentTime,
+            device: deviceType,
+            browser: getBrowserInfo(),
+            os: getOSInfo()
           })
-          .then(ipInfo => {
-             loc = ipInfo.city + ', ' + ipInfo.region;
-            sendData(loc);
-          })
-          .catch(error => {
-            console.error('Location fetch error:', error);
-            sendData('Location fetch error');
-            loc = ""+error+""
-          });
-
-        function sendData(location) {
-          const browserInfo = getBrowserInfo();
-          const osInfo = getOSInfo();
-
-          fetch('/api/postVisit_geo_loc_ip', {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-              query,
-              urlPath: window.location.pathname,
-              time: currentTime,
-              device: deviceType,
-              browser: browserInfo,
-              os: osInfo,
-              loc: loc // Added location to the data sent
-            }),
-          })
-          .then(response => {
-            if (!response.ok) {
-              console.error('Error:', response.statusText);
-              return;
-            }
-            return response.json().then(result => {
-              console.log(result);
-            });
-          })
-          .catch(error => {
-            console.error('Fetch error:', error);
-          });
-        }
+        });
       })();
     `,
           }}
         />
-
-        {/* -------------------- GPS location -------------------- */}
-        {/* <script
-          dangerouslySetInnerHTML={{
-            __html: `
-      (function() {
-        const params = new URLSearchParams(window.location.search);
-        const query = {};
-        params.forEach((value, key) => {
-          query[key] = value;
-        });
-        function sendGeoLocationData(fullAddress, city, postcode, road, area, ip) {
-          const currentTime = new Date().toISOString();
-          // console.log("Sending data:", { fullAddress, city, postcode, road, area, ip, time: currentTime });
-          
-          fetch('/api/postVisitWithGPS', {
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({
-              query,
-              fullAddress: fullAddress,
-              city: city,
-              postcode: postcode,
-              road: road,
-              area: area,
-              ip: ip,
-              time: currentTime
-            }),
-          })
-          .then(response => {
-            if (!response.ok) {
-              console.error('API post error:', response.statusText);
-            }
-            return response.json().then(result => {
-              // console.log('Data posted successfully:', result);
-            });
-          })
-          .catch(error => {
-            console.error('Error posting geolocation data:', error);
-          });
-        }
-
-        function fetchAddressFromCoords(lat, lon) {
-          const apiKey = '259dc0524abb4d9db048adb1f874bcfc';
-          const url = \`https://api.opencagedata.com/geocode/v1/json?q=\${lat}+\${lon}&key=\${apiKey}&pretty=1&no_annotations=1\`;
-
-          fetch(url)
-            .then(response => response.json())
-            .then(data => {
-              // console.log("Received data from OpenCage:", data);
-              if (data.status.code === 200 && data.results.length > 0) {
-                const result = data.results[0];
-                
-                const fullAddress = result.formatted;
-                const city = result.components.city || result.components.town || result.components.village;
-                const postcode = result.components.postcode;
-                const road = result.components.road;
-                const area = result.components.city_district || result.components.suburb || result.components.county;
-                return { fullAddress, city, postcode, road, area };
-              } else {
-                throw new Error('No address found for this location.');
-              }
-            })
-            .then(({ fullAddress, city, postcode, road, area }) => {
-              fetch('https://ipinfo.io/json/')
-                .then(response => response.json())
-                .then(ipInfo => {
-                  // console.log("Received IP information:", ipInfo);
-                  sendGeoLocationData(fullAddress, city, postcode, road, area, ipInfo.ip);
-                })
-            })
-            .catch(error => {
-              console.error('Failed to fetch address or IP information:', error);
-              sendGeoLocationData('Address fetch failed', '', '', '', '', 'IP fetch failed');
-            });
-        }
-
-        function fetchGeoLocation() {
-          if ("geolocation" in navigator) {
-            navigator.geolocation.getCurrentPosition(function(position) {
-              const { latitude, longitude } = position.coords;
-              // console.log("Geolocation coordinates:", { latitude, longitude });
-              fetchAddressFromCoords(latitude, longitude);
-            }, function(error) {
-              console.error('Geolocation access denied:', error);
-              fetch('https://ipinfo.io/json/')
-                .then(response => response.json())
-                .then(ipInfo => {
-                  sendGeoLocationData('Access denied', '', '', '', '', ipInfo.ip);
-                });
-            });
-          } else {
-            console.log('Geolocation is not supported by this browser.');
-          }
-        }
-
-        // Trigger the geolocation fetch
-        fetchGeoLocation();
-      })();
-    `,
-          }}
-        /> */}
-
       </head>
 
       <body className={poppins.className}>
         <ScrollAndSessionTrackerWithNoSSR />
-
-        {/* <ThemeSwitcher /> */}
         {children}
         <GoogleAnalytics gaId="G-8LW02GGKZL" />
         <GoogleTagManager gtmId="GTM-WRQD4RKP" />
-
         <AosAnimation />
         <GoTop />
       </body>
     </html>
   );
+
 }
