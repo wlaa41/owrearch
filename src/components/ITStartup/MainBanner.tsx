@@ -49,7 +49,7 @@ const HeroBanner: React.FC = () => {
                       ● Published Research & Innovation
                       <br />
                       Connect: {' '}
-                      <a href="mailto:info@owroquai.com" itemProp="email" aria-label="Email us at info@owroquai.com">info@owroquai.com</a>
+                      <a href="mailto:info@owROQAI.com" itemProp="email" aria-label="Email us at info@owROQAI.com">info@owROQAI.com</a>
                     </p>
    
    

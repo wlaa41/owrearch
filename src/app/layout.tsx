@@ -35,37 +35,34 @@ const AosAnimation = dynamic(() => import('@/components/Layout/AosAnimation'));
 const GoTop = dynamic(() => import('@/components/Layout/GoTop'));
 // const ThemeSwitcher = dynamic(() => import('./blog/_components/theme-switcher'));
 
-
 export const metadata: Metadata = {
-  title: "24 Hour-Emergency-Electrician-East-West-North-South London | OW London Electrician and Home Automation Engineers",
-  description: "Emergency electrical contractor in London for Residential, Commercial & Emergency electrical services. 30 min response time. Call 07307565444",
+  title: "AI, Robotics & Research | OW ROQAI - Autonomous Systems & Innovation",
+  description: "Explore the latest advancements in AI, robotics, and autonomous systems. Research projects, machine learning, DevOps, and simulation technologies.",
   keywords: [
-    "electrician london", "electrical contractor", "electrical companies", "emergency electrician london", "emergency electrician",
-    "24 hour electrician", "electrician emergency", "emergency electrician near me", "emergency electrical service", "same day electrician",
-    "electrical contractors near me", "24 hour emergency electrician", "electrical company near me", "same day electrician near me",
-    "electrician company", "24 hour electrician near me", "local electricians near me", "electrical services near me", "commercial electrician near me",
-    "electrician near me", "local electricians", "on call electrician near me", "on call electrician", "electricians in my area", "24 hour electrical service",
-    "electrical near me", "home electrician near me", "same day electrical service", "affordable electrician near me"
+    "AI research", "robotics engineering", "autonomous systems", "machine learning", "deep learning",
+    "computer vision", "DevOps for AI", "simulation technology", "ROS robotics", "SLAM technology",
+    "AI in automation", "robotics education", "cyber-physical systems", "cloud-based AI", "real-time AI systems",
+    "AI-powered robotics", "mathematical modeling", "AI in embedded systems", "simulation-based AI research"
   ],
-  authors: [{ name: 'OW Electrician London' }],
+  authors: [{ name: 'OW ROQAI' }],
   openGraph: {
-    title: "24 Hour-Emergency-Electrician-East-West-North-South London",
-    description: "Qualified electrical contractor in London for Residential, Commercial & Emergency electrical services. 30 min response time. Call 07307565444",
-    url: "https://www.owelectric.co.uk/",
-    siteName: "OW Electrician & Home Automation Engineers",
+    title: "AI, Robotics & Research | OW ROQAI",
+    description: "Leading-edge research in AI, robotics, and automation. Stay updated on the latest innovations in machine learning, simulation, and DevOps for AI.",
+    url: "https://owresearch.netlify.app/",
+    siteName: "OW ROQAI - AI & Robotics Research",
     images: [
       {
-        url: "https://www.owelectric.co.uk/opengraph-image.jpg", width: 1200,
+        url: "https://owresearch.netlify.app/opengraph-image.jpg",
+        width: 1200,
         height: 630,
-        alt: 'OpenGraph Image',
+        alt: 'OW ROQAI - AI & Robotics Research',
       },
     ],
     locale: 'en_GB',
     type: 'website',
   },
   verification: { google: "9DHiy92qDKm36hENjH5iZVxb5SN4AT43lZ2iHz-xVD8" },
-  icons: "https://www.owelectric.co.uk/manifest.json"
-
+  icons: "https://owresearch.netlify.app/manifest.json"
 };
 
 {/* <link rel="manifest" href= "https://www.owelectric.co.uk/favicon/site.webmanifest" /> */ }

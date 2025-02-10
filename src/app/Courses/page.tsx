@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     title: "OW ROQAI - Robotics, AI & Research",
     description: "Explore cutting-edge research in robotics, AI, and autonomous systems. Stay updated on the latest innovations, projects, and insights in machine learning, DevOps, and simulation.",
     url: "https://owresearch.netlify.app/",
-    siteName: "OW ROQUAI - Research & AI",
+    siteName: "OW ROQAI - Research & AI",
     images: [
       {
         url: "https://owresearch.netlify.app/opengraph-image.jpg",
