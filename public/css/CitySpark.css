@@ -6,13 +6,7 @@
   align-items: center;
 }
 .citySpark_stripe * {
-
-  max-width: 1250px;
-  /* border: 3px dashed purple; */
-
-  /* overflow: hidden; */
-
-
+  max-width: 1200px;
 }
 .citySpark_stripe .citySpark_stripe_h2 {
   text-align: center;
@@ -26,7 +20,7 @@
   letter-spacing: -0.12ch;
 }
 .citySpark_stripe_h3 {
-  margin: 0 0 4rem;
+  margin: 0 3rem 4rem;
   text-align: center;
   background: linear-gradient(149.47deg, rgb(76, 76, 76) 5.08%, #4bbfb0 50.65%, rgb(146, 120, 120) 75.66%);
   -webkit-background-clip: text;
@@ -37,9 +31,6 @@
 }
 
 .citySpark_container {
-  /* border: 3px dashed purple; */
-  overflow: hidden;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -114,13 +105,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: -3rem 2rem 3rem ;
+  margin: -3rem 2rem 3rem;
   text-align: center;
   letter-spacing: 0ch;
   font-weight: 300;
   max-width: 900px;
   color: rgb(55, 55, 55);
-  margin-bottom: 4rem !important;
 }
 .citySpark_para::before {
   content: "";
@@ -167,4 +157,4 @@
   90% {
     transform: translate3d(1px, -1px, 0);
   }
-}/*# sourceMappingURL=CitySpark.css.map */
+}/*# sourceMappingURL=cityspark.css.map */

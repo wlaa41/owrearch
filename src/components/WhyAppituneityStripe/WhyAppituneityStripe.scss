@@ -1,0 +1,79 @@
+
+.why-appituneity-stripe {
+  // max-width: 1440px;
+  padding-block: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  .main-container {
+    flex: 1 1;
+    width: 100%;
+
+    .stripe-header {
+      padding: 0 0 70px;
+
+      h3 {
+        font-weight: 600;
+        font-size: 48px;
+        text-align: center;
+        color: rgb(73, 73, 73);
+        margin: 0;
+
+        span {
+          background: linear-gradient(
+            149.47deg,
+            rgb(26, 188, 118) 5.08%,
+            rgb(31, 196, 174) 50.65%,
+            rgb(35, 140, 163) 75.66%
+          );
+          -webkit-background-clip: text;
+          background-clip: text;
+          font-size: 48px;
+          -webkit-text-fill-color: transparent;
+        }
+      }
+    }
+
+    .stripe-body {
+      position: relative;
+      padding: 0;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      flex-wrap: nowrap;
+
+      .outline-card-item {
+        margin-bottom: 3rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1180px) {
+  .why-appituneity-stripe {
+    .main-container {
+      .stripe-header {
+        padding: 0 25px 70px;
+      }
+
+      padding-inline: 0px;
+
+      .stripe-body {
+        position: relative;
+        display: flex;
+        width: 100%;
+        justify-content: flex-start;
+        align-items: center;
+        overflow-x: auto;
+        padding: 0 50px 25px 0px;
+
+        .outline-card-item {
+          margin-inline: 50px 0px;
+        }
+      }
+    }
+  }
+}

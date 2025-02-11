@@ -1,0 +1,217 @@
+.why-appituneity-stripe .stripe-header {
+  padding: 0 25px 70px;
+}
+.why-appituneity-stripe .stripe-header h3 {
+  font-size: 48px;
+}
+.why-appituneity-stripe .fill-card {
+  perspective: 1000px;
+  width: 270px;
+  height: 410px;
+  background-color: transparent;
+}
+.why-appituneity-stripe .fill-card .fill-card-content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(255.37deg, #000000 14.38%, #262626 67.97%);
+  box-shadow: 15px 15px 12px -4px rgba(0, 0, 0, 0.3);
+  border-radius: 30px;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-front,
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back {
+  position: absolute;
+  inset: 0;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back::after {
+  content: "";
+  position: absolute;
+  height: 14px;
+  width: 155px;
+  border-radius: 0 0 11px 11px;
+  top: 0px;
+  left: 60px;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back {
+  width: 100%;
+  overflow: hidden;
+  transition: transform 1.4s ease, opacity 0.5s ease;
+  padding: 2.5rem;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .Logo-container {
+  display: grid;
+  width: 100%;
+  justify-items: center;
+  bottom: 0;
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  transition: transform 1.4s ease, opacity 0.9s ease;
+  transform: translateY(150px);
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .Logo-container img {
+  position: absolute;
+  width: 50%;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .Logo-container img:first-child {
+  height: 38px;
+  transform: translateY(-143px);
+  mix-blend-mode: overlay;
+  animation: alterVis1 11s linear 0s infinite;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .Logo-container img:nth-child(2) {
+  transform: translateY(-95px);
+  opacity: 0;
+  mix-blend-mode: overlay;
+  margin-bottom: -7px;
+  animation: alterVis2-overlap 11s linear 0s infinite;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .fill-card-header {
+  display: flex;
+  align-items: flex-start;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .fill-card-header h4 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.4em;
+  margin-left: 1rem;
+  color: #ffffff;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .fill-card-header img {
+  max-width: 40px;
+  opacity: 0.6;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .fill-card-body {
+  padding-top: 1.9rem;
+}
+.why-appituneity-stripe .fill-card .fill-card-content .fill-card-back .fill-card-body p {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 0.9em;
+  color: #dadada;
+  padding-top: 1rem;
+  transition: transform 1.4s ease, opacity 0.5s ease;
+}
+.why-appituneity-stripe .fill-card:hover .fill-card-back {
+  transition: transform 1.4s ease, opacity 0.5s ease;
+}
+.why-appituneity-stripe .fill-card:hover .fill-card-back .Logo-container {
+  transform: translateY(0px);
+  opacity: 1;
+}
+.why-appituneity-stripe .fill-card:hover .fill-card-back .Logo-container img:nth-child(2) {
+  opacity: 0;
+  margin-bottom: -7px;
+}
+.why-appituneity-stripe .fill-card:hover .fill-card-back .fill-card-body p {
+  opacity: 0;
+  transform: translateY(444px);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 1) .fill-card-back {
+  border-radius: 30px;
+  background: radial-gradient(circle at 10% 10%, rgba(74, 74, 74, 0.4), rgba(255, 255, 255, 0)), linear-gradient(149.47deg, rgba(27, 27, 27, 0.8) 5.08%, rgba(21, 21, 21, 0.8) 50.65%, rgba(17, 17, 17, 0.8) 75.66%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 1) .fill-card-back::after {
+  background: linear-gradient(149.47deg, rgb(39, 102, 223) 5.08%, rgb(68, 66, 179) 50.65%, rgb(95, 39, 179) 75.66%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 1) p {
+  border-top: 2px solid rgb(68, 66, 179);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 1) .innerWhite p span:last-child {
+  color: darkblue;
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 2) .fill-card-back {
+  border-radius: 30px;
+  background: radial-gradient(circle at 0% 0%, rgba(74, 252, 175, 0.4), rgba(255, 255, 255, 0)), linear-gradient(149.47deg, rgba(20, 170, 105, 0.6) 5.08%, rgba(25, 145, 128, 0.6) 50.65%, rgba(33, 127, 149, 0.6) 75.66%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 2) .fill-card-back::after {
+  background: linear-gradient(149.47deg, rgb(12, 197, 117) 5.08%, rgb(25, 145, 128) 50.65%, rgb(28, 142, 168) 75.66%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 2) p {
+  border-top: 2px solid rgb(134, 228, 20);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 2) .innerWhite p span:last-child {
+  color: green;
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 3) .fill-card-back {
+  border-radius: 30px;
+  background: linear-gradient(166.2deg, rgba(236, 236, 236, 0.5) 5.77%, rgba(198, 198, 198, 0.5) 44.34%, rgba(205, 205, 205, 0.5) 86.27%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 3) .fill-card-back::after {
+  background: linear-gradient(149.47deg, rgb(213, 49, 120) 5.08%, rgba(162, 51, 125, 0.8) 50.65%, rgba(137, 31, 127, 0.8) 75.66%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 3) p {
+  border-top: 2px solid purple;
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 3) .innerWhite p span:last-child {
+  color: purple;
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 4) .fill-card-back {
+  border-radius: 30px;
+  background: linear-gradient(166.2deg, rgba(51, 145, 255, 0.6) 5.77%, rgba(62, 151, 255, 0.6) 44.34%, rgba(32, 159, 231, 0.6) 86.27%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 4) .fill-card-back::after {
+  background: linear-gradient(166.2deg, rgba(51, 145, 255, 0.8) 5.77%, rgba(62, 151, 255, 0.8) 44.34%, rgba(32, 159, 231, 0.8) 86.27%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 4) p {
+  border-top: 2px solid rgb(51, 145, 255);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 4) .innerWhite p span:last-child {
+  color: rgb(25, 104, 207);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 5) .fill-card-back::after {
+  background: linear-gradient(149.47deg, rgb(170, 146, 19) 5.08%, rgb(175, 107, 25) 50.65%, rgb(175, 76, 27) 75.66%);
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 5) p {
+  border-top: 2px solid rgb(170, 146, 19);
+  padding-top: 8px;
+}
+.why-appituneity-stripe .outline-card-item:nth-of-type(5n + 5) .innerWhite p span:last-child {
+  color: rgb(170, 146, 19);
+}
+
+@keyframes alterVis1 {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes alterVis2-overlap {
+  0% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0;
+  }
+  40% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}/*# sourceMappingURL=FillCard.css.map */

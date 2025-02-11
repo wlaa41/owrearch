@@ -26,6 +26,7 @@ import OurFeatures from "@/components/Features/OurFeatures";
 import Head from "next/head";
 import CitySpark from "@/components/citySpark/CitySpark";
 import RoboticProject from "@/components/RoboticProject/RoboticProject";
+import WhyAppituneityStripe from "@/components/WhyAppituneityStripe/WhyAppituneityStripe";
 
 // import ServerSideSaveQueryParamsVisitors from "@/components/ServerSideSaveQueryParamsVisitors";
 // import ScrollAndSessionTracker from "@/components/ScrollAndSessionTracker";
@@ -117,9 +118,9 @@ export default function Home() {
       {/* <FunFactsArea /> */}
 
       {/* <RecentWorks /> */}
-
+      {/* <WhyAppituneityStripe color="lightgray" /> */}
+      <WhyAppituneityStripe    color="lightgray" /> 
       {/* <PricingStyleOne /> */}
-
       {/* <ReviewList /> */}
 
       {/* <ParagraphsInGreen />  */}

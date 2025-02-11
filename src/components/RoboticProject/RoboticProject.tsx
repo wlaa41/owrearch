@@ -62,7 +62,7 @@ const RoboticProject = () => {
                   itemProp="thumbnailUrl"
                   src="/images/RoboticProject/uniCampus3dgazebo-halfSized.gif"
                   alt="Robotic Simulation in Gazebo"
-                  title="APPITUNITY thumbnail"
+                  title="OW Research thumbnail"
                   width={800}
                   height={450}
                   sizes="(max-width: 768px) 500px, 800px"
