@@ -92,6 +92,7 @@ body {
   padding: 0;
   margin: 0;
   font-size: 14px;
+  min-width: 444px;
 }
 
 img {
@@ -651,7 +652,7 @@ Navbar CSS
 .navbar-toggler .icon-bar {
   width: 35px;
   transition: all 0.3s;
-  background: #221638;
+  background: #4a2391;
   height: 4px;
   display: block;
   border-radius: 3px;
@@ -688,9 +689,6 @@ Navbar CSS
   #header {
     padding-top: 15px;
     padding-bottom: 15px;
-  }
-  #header.headroom {
-    border-bottom: 1px solid #eeeeee;
   }
   #header.headroom.is-sticky {
     border-bottom: none;

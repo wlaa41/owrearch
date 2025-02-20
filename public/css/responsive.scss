@@ -849,6 +849,7 @@ $value_seven: 1550px;
                 }
             }
             tbody {
+                
                 tr {
                     td {
                         white-space: nowrap;
@@ -2024,7 +2025,7 @@ $value_seven: 1550px;
     }
     #header {
         &.headroom {
-            background-color: #ffffff;
+            // background-color: #ffffff;
         }
     }
     .ow-nav {
@@ -2048,6 +2049,8 @@ $value_seven: 1550px;
                 }
             }
             .navbar-nav {
+                background: #000000cf;
+                padding: 0 4px;
                 .nav-item {
                     padding: 5px 0;
                     > a {
@@ -2063,7 +2066,8 @@ $value_seven: 1550px;
                         opacity: 1;
                         top: 0 !important;
                         width: 95%;
-                        border: 1px solid #f3f3f3;
+                        border: 1px solid #36011a;
+                        background: #19001be1;
                         margin-bottom: 10px;
 
                         li {
@@ -2094,7 +2098,7 @@ $value_seven: 1550px;
                 right: 45px;
                 top: 9px;
                 .btn.btn-light {
-                    border: 1px dashed #cdf1d8;
+                    border: 1px dashed #16271b;
                     display: none;
                 }
                 .btn.btn-light, .btn {

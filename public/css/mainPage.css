@@ -9,7 +9,6 @@
 }
 
 .hero-container .left {
-  padding-right: 60px;
   display: grid;
   align-content: space-around;
 }
