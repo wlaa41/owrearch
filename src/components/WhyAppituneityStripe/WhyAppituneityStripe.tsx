@@ -12,7 +12,6 @@ interface CardItem {
 }
 
 interface Props {
-  info: CardItem[];
   color: string;
 }
 
