@@ -130,6 +130,7 @@ $font-size: 14px; // Keeping font size as is
   linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
 
 body { 
+    background: radial-gradient(black, rgb(30, 30, 30));
     padding: 0;
     margin: 0;
     font-size: $font-size;
@@ -826,7 +827,7 @@ Main Banner CSS
     padding-top: 200px;
 
     z-index: 1;
-    background: transparent url('/images/banner-bg1.jpg') right top no-repeat;
+    // background: transparent url('/images/banner-bg1.jpg') right top no-repeat;
     
 
     .hero-content {

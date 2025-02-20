@@ -88,6 +88,7 @@ This files table contents are outlined below>>>>>
 Default CSS
 =================================================*/
 body {
+  background: radial-gradient(black, rgb(30, 30, 30));
   padding: 0;
   margin: 0;
   font-size: 14px;
@@ -709,7 +710,6 @@ Main Banner CSS
   height: 710px;
   padding-top: 200px;
   z-index: 1;
-  background: transparent url("/images/banner-bg1.jpg") right top no-repeat;
 }
 .main-banner .hero-content h1 {
   font-size: 45px;
