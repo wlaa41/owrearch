@@ -8,7 +8,7 @@ const phoneNumber = "+447307565444";
 const Features = () => {
   return (
     <>
-      <div className="boxes-are">
+      <div className="boxes-area">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="500" data-aos-once="true">

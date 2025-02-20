@@ -8,6 +8,10 @@
   -webkit-text-fill-color: transparent;
 }
 
+h1 {
+  color: #035a8c;
+}
+
 .OW2 {
   background: linear-gradient(166.2deg, rgb(115, 180, 255) 5.77%, rgb(23, 84, 154) 44.34%, rgb(32, 159, 231) 86.27%);
   letter-spacing: -0.1ch;
