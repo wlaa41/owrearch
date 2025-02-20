@@ -153,8 +153,8 @@ p:last-child {
   padding-bottom: 50px;
 }
 
-.bg-f7fafd {
-  background-color: #f7fafd;
+.bg-footer {
+  background-color: #0e151c;
 }
 
 .bg-f9f6f6 {
@@ -247,7 +247,7 @@ textarea.form-control {
   height: 100%;
   width: 0;
   transition: 0.5s;
-  background: #9f9f00;
+  background: #004e82;
   z-index: -1;
 }
 .btn::after {
@@ -276,11 +276,11 @@ textarea.form-control {
 }
 .btn.btn-secondary::before {
   border-radius: 0;
-  background: #9f9f00;
+  background: #004e82;
 }
 .btn.btn-secondary::after {
   border-radius: 0;
-  background: #9f9f00;
+  background: #004e82;
 }
 .btn.btn-secondary:not(:disabled):not(.disabled).active, .btn.btn-secondary:not(:disabled):not(.disabled):active, .show > .btn.btn-secondary.dropdown-toggle {
   color: #ffffff;
@@ -344,7 +344,6 @@ label {
 .section-title .bar {
   height: 5px;
   width: 190px;
-  background: #cdf1d8;
   margin: 20px auto;
   position: relative;
   border-radius: 30px;
@@ -368,7 +367,7 @@ label {
 }
 .section-title .sub-title {
   display: inline-block;
-  color: #9f9f00;
+  color: #004e82;
   background-color: #f5dffd;
   margin-bottom: 18px;
   border-radius: 30px;
@@ -445,13 +444,12 @@ Navbar CSS
   z-index: 9998;
   top: 0;
   left: 0;
-  background-color: rgba(255, 255, 255, 0.952);
   transition: 0.3s;
   padding-top: 15px;
 }
 #header.headroom.is-sticky {
   box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.06);
-  background-color: #ffffff !important;
+  background-color: rgba(0, 0, 0, 0.728);
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -610,7 +608,7 @@ Navbar CSS
   background: #4957A6;
 }
 .ow-nav nav .others-option .btn.btn-primary {
-  background: #9f9f00;
+  background: #004e82;
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 .ow-nav nav .others-option .btn.btn-primary::after, .ow-nav nav .others-option .btn.btn-primary::before {
@@ -633,17 +631,13 @@ Navbar CSS
   color: #ffffff;
 }
 .navbar-color-white .ow-nav nav .others-option .btn.btn-primary {
-  background: #9f9f00;
+  background: #004e82;
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 .navbar-color-white .ow-nav nav .others-option .btn.btn-primary::after, .navbar-color-white .ow-nav nav .others-option .btn.btn-primary::before {
   background: #4957A6;
   box-shadow: 0 13px 27px 0 rgba(68, 206, 111, 0.25);
 }
-.navbar-color-white#header.headroom.is-sticky {
-  background-color: hsl(150, 20%, 2%) !important;
-}
-
 /* Navbar toggler */
 .navbar-toggler {
   border: none;
@@ -707,9 +701,10 @@ Main Banner CSS
 =================================================*/
 .main-banner {
   position: relative;
-  height: 710px;
+  height: 780px;
   padding-top: 200px;
   z-index: 1;
+  background: transparent url("/images/banner-bg1.webp") right top no-repeat;
 }
 .main-banner .hero-content h1 {
   font-size: 45px;
@@ -1085,12 +1080,11 @@ Boxes CSS
 }
 
 .single-box {
-  border: 1px dashed #cdf1d8;
   padding: 30px 20px;
   position: relative;
   z-index: 1;
   border-radius: 5px;
-  background: #ffffff;
+  background: #191919;
   box-shadow: 0 0 10px rgba(72, 69, 224, 0.1);
   transition: 0.5s;
 }
@@ -1110,6 +1104,9 @@ Boxes CSS
   margin-top: 25px;
   margin-bottom: 15px;
   transition: 0.5s;
+}
+.single-box h3 a {
+  color: rgb(223, 195, 195);
 }
 .single-box h3 a:hover {
   text-decoration: underline;
@@ -1142,7 +1139,7 @@ Boxes CSS
   border-color: #edc3fc;
 }
 .single-box.bg-c679e3 .icon {
-  color: #9f9f00;
+  color: #004e82;
   background: #edc3fc;
 }
 .single-box.bg-eb6b3d {
@@ -1171,7 +1168,7 @@ Boxes CSS
   color: #f78acb;
 }
 .single-box:hover.bg-c679e3 .icon {
-  color: #9f9f00;
+  color: #004e82;
 }
 .single-box:hover.bg-eb6b3d .icon {
   color: #eb6b3d;
@@ -1561,7 +1558,7 @@ Services CSS
   transition: 0.5s;
 }
 .single-services-box .icon.bg-c679e3 {
-  color: #9f9f00;
+  color: #004e82;
   background: #edc3fc;
 }
 .single-services-box .icon.bg-eb6b3d {
@@ -1594,7 +1591,7 @@ Services CSS
   color: #ffffff;
 }
 .single-services-box:hover .icon.bg-c679e3 {
-  background: #9f9f00;
+  background: #004e82;
 }
 .single-services-box:hover .icon.bg-eb6b3d {
   background: #eb6b3d;
@@ -1798,7 +1795,7 @@ Features CSS
   transition: 0.5s;
 }
 .single-features .icon.bg-c679e3 {
-  color: #9f9f00;
+  color: #004e82;
   background: #edc3fc;
 }
 .single-features .icon.bg-eb6b3d {
@@ -1814,7 +1811,7 @@ Features CSS
   color: #ffffff;
 }
 .single-features:hover .icon.bg-c679e3 {
-  background: #9f9f00;
+  background: #004e82;
 }
 .single-features:hover .icon.bg-eb6b3d {
   background: #eb6b3d;
@@ -1849,7 +1846,7 @@ Features CSS
   transition: 0.5s;
 }
 .single-hosting-features .icon.bg-c679e3 {
-  color: #9f9f00;
+  color: #004e82;
   background: #edc3fc;
 }
 .single-hosting-features .icon.bg-eb6b3d {
@@ -1882,7 +1879,7 @@ Features CSS
   color: #ffffff;
 }
 .single-hosting-features:hover .icon.bg-c679e3 {
-  background: #9f9f00;
+  background: #004e82;
 }
 .single-hosting-features:hover .icon.bg-eb6b3d {
   background: #eb6b3d;
@@ -2035,7 +2032,7 @@ Team CSS
   margin: 0 5px;
 }
 .single-team .team-content ul li a {
-  color: #9f9f00;
+  color: #004e82;
 }
 .single-team .team-content ul li a:hover {
   transform: translateY(-5px);
@@ -2205,7 +2202,7 @@ Fun Facts CSS
 .contact-cta-box {
   margin: 80px auto 0;
   max-width: 700px;
-  border: 1px dashed #ebebeb;
+  border: 1px dashed #371c1c;
   padding: 30px 210px 30px 30px;
   border-radius: 5px;
   position: relative;
@@ -2227,7 +2224,7 @@ Fun Facts CSS
   background: #4957A6;
 }
 .contact-cta-box .btn-primary {
-  background: #9f9f00;
+  background: #004e82;
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 .contact-cta-box .btn-primary:hover, .contact-cta-box .btn-primary:focus {
@@ -2382,7 +2379,7 @@ Pricing CSS
   color: #ffffff;
 }
 .pricing-table.active-plan .btn-primary {
-  background: #9f9f00;
+  background: #004e82;
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 .pricing-table.active-plan .btn-primary::after, .pricing-table.active-plan .btn-primary::before {
@@ -2442,7 +2439,7 @@ Pricing CSS
   width: 15px;
 }
 .single-pricing-table.active-plan .btn-primary {
-  background: #9f9f00;
+  background: #004e82;
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 .single-pricing-table.active-plan .btn-primary::after, .single-pricing-table.active-plan .btn-primary::before {
@@ -2647,7 +2644,7 @@ Domain Search CSS
   transition: 0.5s;
 }
 .domain-search-content form button:hover, .domain-search-content form button:focus {
-  background-color: #9f9f00;
+  background-color: #004e82;
 }
 .domain-search-content ul {
   padding: 0;
@@ -2716,7 +2713,7 @@ Feedback CSS
   display: block;
   margin-top: 8px;
   margin-bottom: 15px;
-  color: #9f9f00;
+  color: #004e82;
 }
 .feedback-slides .client-feedback .single-feedback p {
   font-size: 15px;
@@ -2861,7 +2858,7 @@ Feedback CSS
 .single-feedback-item .client-info .title span {
   display: block;
   margin-top: 8px;
-  color: #9f9f00;
+  color: #004e82;
 }
 .single-feedback-item p {
   font-size: 16px;
@@ -3023,7 +3020,7 @@ Ready To Talk CSS
   background: #ffffff;
 }
 .ready-to-talk .btn-primary {
-  background: #9f9f00;
+  background: #004e82;
   box-shadow: 0 5px 20px 0 rgba(198, 121, 227, 0.25);
 }
 .ready-to-talk .btn-primary:hover, .ready-to-talk .btn-primary:focus {
@@ -3072,7 +3069,7 @@ Big Data Analytics Banner CSS
 
 .single-banner-boxes {
   margin-bottom: 30px;
-  border: 1px dashed #687b6f;
+  border: 1px dashed #1e2822;
   position: relative;
   border-radius: 5px;
   padding: 25px 25px 25px 95px;
@@ -3144,12 +3141,12 @@ Big Data Analytics Banner CSS
   color: #f78acb;
 }
 .col-lg-4:nth-child(3) .single-banner-boxes .icon {
-  color: #9f9f00;
+  color: #004e82;
   background: #edc3fc;
 }
 .col-lg-4:nth-child(3) .single-banner-boxes:hover .icon {
   background-color: #ffffff;
-  color: #9f9f00;
+  color: #004e82;
 }
 
 /*=============================
@@ -3425,7 +3422,7 @@ Blog CSS
   padding-left: 20px;
   padding-bottom: 20px;
   padding-right: 20px;
-  background: #f7fafd;
+  background: #191919;
   transition: 0.5s;
 }
 .single-blog-post .blog-post-content h3 {
@@ -3433,13 +3430,16 @@ Blog CSS
   line-height: 30px;
   margin-bottom: 0;
 }
+.single-blog-post .blog-post-content h3 a {
+  color: rgb(223, 195, 195);
+}
 .single-blog-post .blog-post-content span {
   display: block;
-  color: hsl(150, 20%, 2%);
+  color: rgb(91, 91, 91);
   margin: 15px 0;
 }
 .single-blog-post .blog-post-content span a {
-  color: #384273;
+  color: rgb(91, 91, 91);
 }
 .single-blog-post .blog-post-content span a:hover {
   color: #4957A6;
@@ -3461,7 +3461,7 @@ Blog CSS
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
 }
 .single-blog-post:hover .blog-post-content {
-  background: #ffffff;
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
 }
 
 .single-blog-post-box {
@@ -3950,7 +3950,7 @@ Shop CSS
   transition: 0.5s;
 }
 #productsModalCenter .modal-content .products-content form button:hover, #productsModalCenter .modal-content .products-content form button:focus {
-  background-color: #9f9f00;
+  background-color: #004e82;
   color: #ffffff;
 }
 #productsModalCenter .modal-content .products-content .product-meta {
@@ -4079,7 +4079,7 @@ Shop Details CSS
   transition: 0.5s;
 }
 .products-details form button:hover, .products-details form button:focus {
-  background-color: #9f9f00;
+  background-color: #004e82;
   color: #ffffff;
 }
 .products-details form .add-to-wishlist-btn {
@@ -4100,15 +4100,15 @@ Shop Details CSS
   padding: 0;
 }
 .products-details form .add-to-wishlist-btn:hover, .products-details form .add-to-wishlist-btn:focus {
-  background-color: #9f9f00;
+  background-color: #004e82;
   color: #ffffff;
-  border-color: #9f9f00;
+  border-color: #004e82;
 }
 .products-details form .buy-btn {
   margin-top: 20px;
 }
 .products-details form .buy-btn .btn-primary {
-  background: #9f9f00;
+  background: #004e82;
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 .products-details form .buy-btn .btn-primary::after, .products-details form .buy-btn .btn-primary::before {
@@ -4764,7 +4764,7 @@ Blog Details CSS
   color: #4957A6;
 }
 .blog-details-desc .article-content .entry-meta ul li svg {
-  color: #9f9f00;
+  color: #004e82;
   margin-right: 2px;
   position: relative;
   top: -1px;
@@ -4851,7 +4851,7 @@ Blog Details CSS
 .blog-details-desc .article-footer .article-tags a {
   display: inline-block;
   color: #ffffff;
-  background-color: #9f9f00;
+  background-color: #004e82;
   padding: 4px 12px;
   border-radius: 5px;
   margin-right: 3px;
@@ -5043,7 +5043,7 @@ Blog Details CSS
 }
 .comments-area .comment-respond .form-submit input:hover, .comments-area .comment-respond .form-submit input:focus {
   color: #ffffff;
-  background-color: #9f9f00;
+  background-color: #004e82;
   transform: translateY(-5px);
 }
 
@@ -5336,7 +5336,7 @@ Sidebar Widget CSS
   margin-right: auto;
 }
 .widget-area .widget_search form button:hover {
-  background-color: #9f9f00;
+  background-color: #004e82;
   color: #ffffff;
 }
 .widget-area .widget_ow_posts_thumb {
@@ -5564,7 +5564,7 @@ Sidebar Widget CSS
   font-weight: 500;
   font-size: 14px !important;
   padding: 6px 13px;
-  border: 1px dashed #eeeeee;
+  border: 1px dashed #2c1919;
   margin-top: 8px;
   margin-right: 8px;
 }
@@ -5854,7 +5854,7 @@ Coming Soon CSS
   font-weight: 500;
 }
 .coming-soon-content form .submit-btn:hover, .coming-soon-content form .submit-btn:focus {
-  background-color: #9f9f00;
+  background-color: #004e82;
 }
 .coming-soon-content #timer div {
   background: #ffffff;
@@ -5862,7 +5862,7 @@ Coming Soon CSS
   border-radius: 50%;
   width: 110px;
   height: 110px;
-  color: #9f9f00;
+  color: #004e82;
   box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.5);
   margin: 0 10px;
   padding-top: 18px;
@@ -5949,7 +5949,7 @@ CTA CSS
   top: -15px;
 }
 .cta-right-content .buy-btn .btn-primary {
-  background: #9f9f00;
+  background: #004e82;
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 .cta-right-content .buy-btn .btn-primary::after, .cta-right-content .buy-btn .btn-primary::before {
@@ -6185,7 +6185,7 @@ Repair Services CSS
   height: 100%;
   background: #ffffff;
   z-index: -1;
-  border: 1px dashed #cdf1d8;
+  border: 1px dashed #0c2e16;
 }
 .single-repair-services::after {
   position: absolute;
@@ -6200,7 +6200,7 @@ Repair Services CSS
   z-index: -1;
   opacity: 0;
   visibility: hidden;
-  border: 1px dashed #cdf1d8;
+  border: 1px dashed #163921;
 }
 .single-repair-services h3 {
   font-size: 19px;
@@ -6339,7 +6339,7 @@ Repair Why Choose Us CSS
 .single-repair-box {
   text-align: center;
   background-color: #ffffff;
-  border: 1px dashed #cdf1d8;
+  border: 1px dashed #11351c;
   padding: 30px;
   position: relative;
   z-index: 1;
@@ -6452,7 +6452,7 @@ Repair Feedback CSS
 }
 .single-repair-feedback .client-img span {
   display: block;
-  color: #9f9f00;
+  color: #004e82;
   margin-top: 8px;
 }
 .single-repair-feedback p {
@@ -7084,7 +7084,7 @@ ML About CSS
 }
 .ml-about-content .sub-title {
   display: inline-block;
-  color: #9f9f00;
+  color: #004e82;
   background-color: #f5dffd;
   margin-bottom: 18px;
   border-radius: 30px;
@@ -7214,7 +7214,7 @@ ML Feedback CSS
 }
 .single-ml-feedback-item .client-info span {
   display: block;
-  color: #9f9f00;
+  color: #004e82;
   margin-top: 5px;
   font-size: 13px;
 }
@@ -7338,7 +7338,7 @@ Free Trial CSS
   font-size: 16px;
 }
 .free-trial-content form button:hover {
-  background-color: #9f9f00;
+  background-color: #004e82;
   color: #ffffff;
 }
 .free-trial-content p {
@@ -7533,7 +7533,7 @@ ML Projects CSS
   transform: translateY(-50%);
 }
 .single-ml-projects-box .plus-icon a:hover {
-  background-color: #9f9f00;
+  background-color: #004e82;
 }
 .single-ml-projects-box:hover .plus-icon a {
   transform: scale(1);
@@ -7678,7 +7678,7 @@ Agency About CSS
 }
 .agency-about-content .sub-title {
   display: inline-block;
-  color: #9f9f00;
+  color: #004e82;
   background-color: #f5dffd;
   margin-bottom: 18px;
   border-radius: 30px;
@@ -7849,7 +7849,7 @@ Testimonials CSS
 }
 .single-testimonials-item .client-info span {
   display: block;
-  color: #9f9f00;
+  color: #004e82;
   margin-top: 5px;
   font-size: 13px;
 }
@@ -8399,7 +8399,7 @@ Go Top CSS
   bottom: 30px;
   right: 0;
   color: #ffffff;
-  background-color: #9f9f00;
+  background-color: #004e82;
   width: 45px;
   text-align: center;
   height: 45px;

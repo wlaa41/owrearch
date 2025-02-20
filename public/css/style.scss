@@ -102,14 +102,19 @@ Default CSS
 // $transition: .5s;
 // $font-size: 14px;
 
+$h3-color: rgb(223, 195, 195);
+$h4-color: rgb(91, 91, 91);
 $light-green-color: #4957A6; // Darker shade of the provided blue
+$bk-color: #191919; // Keeping white as is
 $white-color: #ffffff; // Keeping white as is
 $black-color: hsl(150, 20%, 2%); // Dark black
 $navlink-color: #046ca0; // Darker shade of the provided green
 $paragraph-color: #384273; // Darker shade of the provided olive green
-$purple-color: #9f9f00; // Darker shade of the provided yellow
+$purple-color: #004e82; // Darker shade of the provided yellow
+$bg-footer: #0e151c; // Keeping background color as is
 $bg-color: #f7fafd; // Keeping background color as is
 $bg-color2: #f9f6f6; // Keeping secondary background color as is
+
 $hosting-main-color: #6b49a6; // Darker shade of the provided blue
 
 $gradient-color: radial-gradient(circle at 0% 0%, rgba(69, 131, 3, 0.4), rgba(0, 0, 0, 0)),
@@ -189,8 +194,8 @@ p {
 .pb-50 {
     padding-bottom: 50px;
 }
-.bg-f7fafd {
-    background-color: $bg-color;
+.bg-footer {
+    background-color: $bg-footer;
 }
 .bg-f9f6f6 {
     background-color: $bg-color2;
@@ -389,7 +394,7 @@ label {
     .bar {
         height: 5px;
         width: 190px;
-        background: #cdf1d8;
+        // ybackground: #cdf1d8;
         margin: 20px auto;
         position: relative;
         border-radius: 30px;
@@ -497,13 +502,14 @@ Navbar CSS
         z-index: 9998;
         top: 0;
         left: 0;
-        background-color: rgba(255, 255, 255, 0.952) ;
+        // background-color: rgba(35, 35, 35, 0.952) ;
         transition: .3s;
         padding-top: 15px;
        
         &.is-sticky {
             box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.06);
-            background-color: $white-color !important;
+            // background-color: $white-color !important; findme
+            background-color: rgba(0, 0, 0, 0.728) ;
             padding: {
                 top: 15px;
                 bottom: 15px;
@@ -747,7 +753,7 @@ Navbar CSS
         }
     }
     &#header.headroom.is-sticky {
-        background-color: $black-color !important;
+        // background-color: $bk-color !important;
     }
 }
 
@@ -823,13 +829,12 @@ Main Banner CSS
 =================================================*/
 .main-banner {
     position: relative;
-    height: 710px;
+    height: 780px;
     padding-top: 200px;
 
     z-index: 1;
-    // background: transparent url('/images/banner-bg1.jpg') right top no-repeat;
+    background: transparent url('/images/banner-bg1.webp') right top no-repeat;
     
-
     .hero-content {
         h1 {
             font: {
@@ -1223,12 +1228,12 @@ Boxes CSS
     }
 }
 .single-box {
-    border: 1px dashed #cdf1d8;
+    // border: 1px dashed #04250e;
     padding: 30px 20px;
     position: relative;
     z-index: 1;
     border-radius: 5px;
-    background: $white-color;
+    background: $bk-color;
     box-shadow: 0 0 10px rgba(72, 69, 224, 0.1);
     transition: $transition;
 
@@ -1252,6 +1257,8 @@ Boxes CSS
         transition: $transition;
 
         a {
+            color: $h3-color;
+
             &:hover {
                 text-decoration: underline;
             }
@@ -2516,7 +2523,7 @@ Fun Facts CSS
 .contact-cta-box {
     margin: 80px auto 0;
     max-width: 700px;
-    border: 1px dashed #ebebeb;
+    border: 1px dashed #371c1c;
     padding: 30px 210px 30px 30px;
     border-radius: 5px;
     position: relative;
@@ -3536,7 +3543,7 @@ Big Data Analytics Banner CSS
 }
 .single-banner-boxes {
     margin-bottom: 30px;
-    border: 1px dashed #687b6f;
+    border: 1px dashed #1e2822;
     position: relative;
     border-radius: 5px;
     padding: 25px 25px 25px 95px;
@@ -3940,21 +3947,24 @@ Blog CSS
             bottom: 20px;
             right: 20px;
         }
-        background: $bg-color;
+        background: $bk-color;
         transition: $transition;
 
         h3 {
             font-size: 20px;
             line-height: 30px;
             margin-bottom: 0;
+            a {
+                color: $h3-color;
+            }
         }
         span {
             display: block;
-            color: $black-color;
+            color: $h4-color;
             margin: 15px 0;
 
             a {
-                color: $paragraph-color;
+                color: $h4-color;
 
                 &:hover {
                     color: $light-green-color;
@@ -3980,8 +3990,11 @@ Blog CSS
     &:hover {
         box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.08);
         
+
         .blog-post-content {
-            background: $white-color;
+            background: $gradient-color;
+
+
         }
     }
 }
@@ -6481,7 +6494,7 @@ Sidebar Widget CSS
                 size: 14px !important;
             };
             padding: 6px 13px;
-            border: 1px dashed #eeeeee;
+            border: 1px dashed #2c1919;
             margin: {
                 top: 8px;
                 right: 8px;
@@ -7196,7 +7209,7 @@ Repair Services CSS
         height: 100%;
         background: $white-color;
         z-index: -1;
-        border: 1px dashed #cdf1d8;
+        border: 1px dashed #0c2e16;
     }
     &::after {
         position: absolute;
@@ -7211,7 +7224,7 @@ Repair Services CSS
         z-index: -1;
         opacity: 0;
         visibility: hidden;
-        border: 1px dashed #cdf1d8;
+        border: 1px dashed #163921;
     }
     h3 {
         font-size: 19px;
@@ -7368,7 +7381,7 @@ Repair Why Choose Us CSS
 .single-repair-box {
     text-align: center;
     background-color: $white-color;
-    border: 1px dashed #cdf1d8;
+    border: 1px dashed #11351c;
     padding: 30px;
     position: relative;
     z-index: 1;

@@ -3,7 +3,7 @@ import Image from "next/image";
 const CitySpark: React.FC = () => {
   return (
     <div className="citySpark_stripe">
-      <h2 className="citySpark_stripe_h2">CitySpark London&apos;s 1st Prize Winner</h2>
+      <h2 className="citySpark_stripe_h2">Award&#8209;Winning Education Centre &#8209; 1st Place Winner</h2>
       <h3 className="citySpark_stripe_h3">
         Reinventing Math Education with Robotics, AI, & VR: First Prize at CitySpark and Best Startup Idea in London Competition
       </h3>
