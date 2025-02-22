@@ -81,5 +81,5 @@ Whether you need an affordable electrician near you, a certified electrician for
 #### Q: Can OW! London Electricians assist with smart home installations in White City?
 **A**: Yes, we provide comprehensive smart home installation services, integrating advanced technology to enhance your home's functionality and efficiency.
 
-For more details on our services, visit our [home automation page](https://www.owresearch.netlify.app/services/home-automation-av-knx-control4) or check our [pricing](https://www.owresearch.netlify.app/pricing).
+For more details on our services, visit our [home automation page](https://www.owresearch.netlify.app/services/home-automation-av-knx-control4) or check our [pricing](https://www.owresearch.netlify.app/courses).
 

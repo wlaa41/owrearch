@@ -195,7 +195,7 @@ const AboutUsContent1 = () => {
                 <div className="faq-item">
                   <h4>What types of services do you provide?</h4>
                   <p>
-                    We provide a wide range of services including emergency repairs, routine maintenance, smart home installations, full rewiring, consumer unit upgrades, and much more. For more details, check our <Link href="/pricing">pricing page</Link>.
+                    We provide a wide range of services including emergency repairs, routine maintenance, smart home installations, full rewiring, consumer unit upgrades, and much more. For more details, check our <Link href="/courses">pricing page</Link>.
                   </p>
                 </div>
                 <div className="faq-item">

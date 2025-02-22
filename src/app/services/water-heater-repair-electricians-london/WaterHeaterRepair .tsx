@@ -146,7 +146,7 @@ const WaterHeaterRepair = () => {
                 </p>
             </div>
             <p className='text-center pt-4'>
-                  Learn more about our <a href="/contact">Contact</a>, <a href="/pricing">Pricing</a>, and <a href="/about/gallery">Reviews</a>.
+                  Learn more about our <a href="/contact">Contact</a>, <a href="/courses">Pricing</a>, and <a href="/about/gallery">Reviews</a>.
                 </p>
                 <div className='section-title'><div className="bar"></div></div>
 

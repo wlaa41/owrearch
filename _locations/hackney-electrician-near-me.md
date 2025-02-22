@@ -106,7 +106,7 @@ For dependable and trustworthy electrical services in Hackney, contact [OW! Lond
 - [Commercial Electrician Contractors London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london)
 - [Home Rewiring Electricians London](https://www.owresearch.netlify.app/services/home-rewiring-electricians-london)
 - [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247)
-- [Pricing](https://www.owresearch.netlify.app/pricing)
+- [Pricing](https://www.owresearch.netlify.app/courses)
 
 ### Useful Links
 - [Contact Us](https://www.owresearch.netlify.app/contact)

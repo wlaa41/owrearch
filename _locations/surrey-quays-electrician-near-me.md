@@ -74,4 +74,4 @@ For all your electrical needs in Surrey Quays, contact OW! London Electricians a
 
 OW! London Electricians and Home Automation Engineers – Your local, trusted electrical service providers in Surrey Quays.
 
-For more information, visit our [pricing page](https://www.owresearch.netlify.app/pricing) or contact us directly through our [contact page](https://www.owresearch.netlify.app/contact). We also offer [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247) available 24/7.
+For more information, visit our [pricing page](https://www.owresearch.netlify.app/courses) or contact us directly through our [contact page](https://www.owresearch.netlify.app/contact). We also offer [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247) available 24/7.

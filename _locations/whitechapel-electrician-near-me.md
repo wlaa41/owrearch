@@ -100,6 +100,6 @@ For trusted, high-quality electrical services in Whitechapel, contact OW! London
 - [Alarm Installation Systems in London](https://www.owresearch.netlify.app/services/alarm-installation-systems-london)
 - [Commercial Electrician Contractors in London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london)
 - [EICR Electrical Inspection in London](https://www.owresearch.netlify.app/services/eicr-electrical-inspection-london)
-- [Pricing](https://www.owresearch.netlify.app/pricing)
+- [Pricing](https://www.owresearch.netlify.app/courses)
 - [Contact Us](https://www.owresearch.netlify.app/contact)
 - [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247)

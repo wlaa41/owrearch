@@ -85,7 +85,7 @@ At OW! London Electricians, we take pride in being a reliable and professional c
 
 #### Q: Do you offer pricing information for your services?
 
-**A**: Yes, we provide transparent and competitive pricing information on our [pricing page](https://www.owresearch.netlify.app/pricing).
+**A**: Yes, we provide transparent and competitive pricing information on our [pricing page](https://www.owresearch.netlify.app/courses).
 
 ### Related Services and Posts
 

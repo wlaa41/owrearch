@@ -70,7 +70,7 @@ Bethnal Green is known for its vibrant community and rich history, and we unders
 * **Guaranteed Quality:** We stand by the quality of our work, offering guarantees for your peace of mind.
 * **Local Expertise:** Being based in London, we are familiar with the specific needs and styles of homes and businesses in Bethnal Green.
 
-For more information about our services, visit our [pricing page](https://www.owresearch.netlify.app/pricing) or [contact us](https://www.owresearch.netlify.app/contact).
+For more information about our services, visit our [pricing page](https://www.owresearch.netlify.app/courses) or [contact us](https://www.owresearch.netlify.app/contact).
 
 ### Frequently Asked Questions
 

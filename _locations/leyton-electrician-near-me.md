@@ -64,6 +64,6 @@ At OW! London Electricians and Home Automation Engineers, we pride ourselves on 
 #### Q: Do you offer free quotes for electrical services in Leyton?
 **A**: Yes, OW! London Electricians and Home Automation Engineers provide free quotes for all electrical services in Leyton. Contact us today to get started.
 
-[Explore our pricing options](https://www.owresearch.netlify.app/pricing) and [get in touch with us](https://www.owresearch.netlify.app/contact) for more information. If you need immediate assistance, our [emergency electricians are available 24/7](https://www.owresearch.netlify.app/emergency-electrician-247).
+[Explore our pricing options](https://www.owresearch.netlify.app/courses) and [get in touch with us](https://www.owresearch.netlify.app/contact) for more information. If you need immediate assistance, our [emergency electricians are available 24/7](https://www.owresearch.netlify.app/emergency-electrician-247).
 
 For more details on our services, check out [our residential electrician services](https://www.owresearch.netlify.app/services/domestic-electrician-services-london) and [commercial electrical contractors](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london).

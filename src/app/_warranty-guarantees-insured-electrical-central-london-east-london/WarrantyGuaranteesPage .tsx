@@ -220,7 +220,7 @@ const WarrantyGuaranteesPage = () => {
                 </AccordionItemHeading>
                 <AccordionItemPanel>
                   <p>
-                    Our pricing for standard electrician services is competitive and transparent. For detailed pricing information, please visit our <Link href="/pricing">pricing page</Link>.
+                    Our pricing for standard electrician services is competitive and transparent. For detailed pricing information, please visit our <Link href="/courses">pricing page</Link>.
                   </p>
                 </AccordionItemPanel>
               </AccordionItem>

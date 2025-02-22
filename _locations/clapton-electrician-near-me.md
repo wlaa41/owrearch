@@ -71,4 +71,4 @@ Contact [OW! London Electricians and Home Automation Engineers](https://www.owre
 #### Q: Are OW! London Electricians available for emergency services in Clapton?
 **A**: Yes, our emergency electricians are available 24/7 to promptly address any urgent electrical issues in Clapton.
 
-For more information about our services, visit our [Pricing](https://www.owresearch.netlify.app/pricing) page or check out our [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247) service.
+For more information about our services, visit our [Pricing](https://www.owresearch.netlify.app/courses) page or check out our [Emergency Electrician 24/7](https://www.owresearch.netlify.app/emergency-electrician-247) service.

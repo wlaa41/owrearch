@@ -86,4 +86,4 @@ This blog post is crafted to attract both search engines and potential clients b
 #### Q: Do you provide emergency electrical services in Stratford?
 **A**: Absolutely! Our emergency electricians are available 24/7 to handle any electrical crisis in Stratford, ensuring you're never left without power.
 
-For more information on our services, visit our [pricing page](https://www.owresearch.netlify.app/pricing) or [contact us](https://www.owresearch.netlify.app/contact) today!
+For more information on our services, visit our [pricing page](https://www.owresearch.netlify.app/courses) or [contact us](https://www.owresearch.netlify.app/contact) today!

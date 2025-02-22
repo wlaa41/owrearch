@@ -83,5 +83,5 @@ For all your electrical needs, look no further than OW! London Electricians and 
 
 **A**: Yes, all our electricians are highly qualified, certified, and licensed.
 
-[Learn more about our pricing](https://www.owresearch.netlify.app/pricing) and [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247).
+[Learn more about our pricing](https://www.owresearch.netlify.app/courses) and [emergency electrician services](https://www.owresearch.netlify.app/emergency-electrician-247).
 

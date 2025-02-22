@@ -36,7 +36,7 @@ const LatestNews = () => {
                 </p>
                 <p>
                   For detailed pricing information, please visit our{" "}
-                  <Link href="/pricing">pricing page</Link>. If you have any questions or wish to book an appointment, don&apos;t hesitate to{" "}
+                  <Link href="/courses">pricing page</Link>. If you have any questions or wish to book an appointment, don&apos;t hesitate to{" "}
                   <Link href="/contact">contact us</Link>.
                 </p>
               </div>

@@ -119,4 +119,4 @@ Contact us today for all your electrical needs in Holloway. Let OW! London Elect
 
 For more information on our services, check out our [commercial electrician contractors in London](https://www.owresearch.netlify.app/services/commercial-electrician-contractors-london) or our [domestic electrician services in London](https://www.owresearch.netlify.app/services/domestic-electrician-services-london).
 
-For pricing details, visit our [pricing page](https://www.owresearch.netlify.app/pricing) and for emergency services, click [here](https://www.owresearch.netlify.app/emergency-electrician-247).
+For pricing details, visit our [pricing page](https://www.owresearch.netlify.app/courses) and for emergency services, click [here](https://www.owresearch.netlify.app/emergency-electrician-247).

@@ -77,5 +77,5 @@ For reliable, professional, and affordable electrical services in West Ham, cont
 
 For those in need of trustworthy and reliable electricians in West Ham, look no further than OW! London Electricians and Home Automation Engineers. Our commitment to quality service, adherence to safety standards, and dedication to customer satisfaction make us the best choice for all your electrical needs.
 
-[Learn more about our pricing](https://www.owresearch.netlify.app/pricing)
+[Learn more about our pricing](https://www.owresearch.netlify.app/courses)
 [Contact us today](https://www.owresearch.netlify.app/contact)

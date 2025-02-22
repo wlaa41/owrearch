@@ -143,7 +143,7 @@ const EmergencyElectrician = () => {
           </p>
           <PricingStyleFour />
           <div className="text-center pt-3" >
-            <a href="/contact">Contact Us</a> | <a href="/pricing">Pricing</a> | <a href="/about/gallery">Reviews</a>
+            <a href="/contact">Contact Us</a> | <a href="/courses">Pricing</a> | <a href="/about/gallery">Reviews</a>
           </div>
         </div>
       </div>

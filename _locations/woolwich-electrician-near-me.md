@@ -90,4 +90,4 @@ Choose OW! London Electricians and Home Automation Engineers for all your electr
 
 **A**: Yes, we provide 24-hour emergency electrical services to address urgent issues such as power outages or faulty sockets, ensuring you are never left in the dark.
 
-For more information about our services, visit our [Pricing](https://www.owresearch.netlify.app/pricing) page or learn more about our [Warranty and Guarantees](https://www.owresearch.netlify.app/warranty-guarantees-insured-electrical-central-london-east-london).
+For more information about our services, visit our [Pricing](https://www.owresearch.netlify.app/courses) page or learn more about our [Warranty and Guarantees](https://www.owresearch.netlify.app/warranty-guarantees-insured-electrical-central-london-east-london).

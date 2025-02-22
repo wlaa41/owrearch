@@ -82,4 +82,4 @@ For all your electrical needs, from emergency repairs to energy efficiency upgra
 #### Q: Are your electricians in Barking qualified to handle industrial electrical services?
 **A**: Yes, our team is experienced and qualified to handle a variety of industrial electrical services, ensuring compliance and safety.
 
-[Explore our pricing](https://www.owresearch.netlify.app/pricing) and [get in touch](https://www.owresearch.netlify.app/contact) for more information.
+[Explore our pricing](https://www.owresearch.netlify.app/courses) and [get in touch](https://www.owresearch.netlify.app/contact) for more information.
