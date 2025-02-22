@@ -101,7 +101,7 @@ img {
 }
 
 a {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   display: inline-block;
   transition: 0.5s;
   text-decoration: none;
@@ -121,7 +121,7 @@ a:hover, a:focus {
 }
 
 p {
-  color: #384273;
+  color: #92a2f7;
   line-height: 1.8;
 }
 p:last-child {
@@ -129,7 +129,7 @@ p:last-child {
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   font-weight: 500;
 }
 
@@ -159,7 +159,7 @@ p:last-child {
 }
 
 .bg-f9f6f6 {
-  background-color: #f9f6f6;
+  background-color: #1e1e1e;
 }
 
 .bg-f9fafb {
@@ -203,7 +203,7 @@ textarea.form-control {
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #ffffff;
-  background: hsl(150, 20%, 2%);
+  background: hsl(180, 24%, 53%);
   transform: translateY(-5px);
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
@@ -215,7 +215,7 @@ textarea.form-control {
 }
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .btn-primary .show > .btn-primary.dropdown-toggle {
   color: #ffffff;
-  background: hsl(150, 20%, 2%);
+  background: hsl(180, 24%, 53%);
   transform: translateY(-5px);
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
@@ -226,7 +226,7 @@ textarea.form-control {
   opacity: 1;
 }
 .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary:disabled:hover, .btn-primary:disabled:focus {
-  background: hsl(150, 20%, 2%);
+  background: hsl(180, 24%, 53%);
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 
@@ -304,7 +304,7 @@ textarea.form-control {
 }
 
 label {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   font-size: 15px;
   font-weight: 500;
   margin-bottom: 10px;
@@ -314,7 +314,7 @@ label {
   height: 45px;
   padding: 10px 15px;
   font-size: 14px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   border: 1px solid #eeeeee;
   border-radius: 0;
   background: #eeeeee;
@@ -599,7 +599,7 @@ Navbar CSS
   margin-right: 10px;
 }
 .ow-nav nav .others-option .btn.btn-light:focus {
-  color: hsl(150, 20%, 2%) !important;
+  color: hsl(180, 24%, 53%) !important;
 }
 .ow-nav nav .others-option .btn.btn-light:hover, .ow-nav nav .others-option .btn.btn-light:focus {
   color: #ffffff;
@@ -1199,7 +1199,7 @@ About CSS
 Why Choose US CSS
 =================================================*/
 .why-choose-us {
-  background: transparent url("/images/banner-bg1.jpg") right top no-repeat;
+  background: transparent url("/images/banner-bg1.webp") right top no-repeat;
   position: relative;
   z-index: 1;
 }
@@ -1660,7 +1660,7 @@ Bigdata Services CSS
   transition: 0.5s;
 }
 .single-services-box-item .learn-more-btn:hover {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   padding-left: 0;
   padding-right: 5px;
 }
@@ -1714,7 +1714,7 @@ Services Details CSS
   display: block;
   padding: 15px 20px;
   text-decoration: none;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   position: relative;
   background-color: #fff;
   font-size: 15px;
@@ -1902,7 +1902,7 @@ Features Details CSS
 }
 .features-details-desc .features-details-list li {
   margin-bottom: 12px;
-  color: #384273;
+  color: #92a2f7;
   position: relative;
   padding-left: 15px;
 }
@@ -1937,7 +1937,7 @@ Features Details CSS
   display: block;
   padding: 15px 20px;
   text-decoration: none;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   position: relative;
   background-color: #fff;
   font-size: 15px;
@@ -2010,7 +2010,7 @@ Team CSS
   position: absolute;
   left: 0;
   top: 50%;
-  background: #f9f6f6;
+  background: #1e1e1e;
   height: 10px;
   width: 100%;
   z-index: -1;
@@ -2120,7 +2120,7 @@ Works CSS
   width: 19px;
 }
 .single-works .icon:hover {
-  background: hsl(150, 20%, 2%);
+  background: hsl(180, 24%, 53%);
   color: #ffffff;
 }
 .single-works .works-content {
@@ -2290,7 +2290,7 @@ Pricing CSS
 
 .pricing-table {
   text-align: center;
-  background: #ffffff;
+  background: #191919;
   box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.06);
   border-radius: 5px;
   padding-bottom: 35px;
@@ -2298,11 +2298,11 @@ Pricing CSS
   margin-bottom: 30px;
 }
 .pricing-table .pricing-header {
-  background: #ffffff;
+  background: #191919;
   position: relative;
   padding: 30px 20px;
   border-radius: 5px 5px 0 0;
-  border-bottom: 1px solid #eeeeee;
+  border-bottom: 1px solid #2e2e2e;
   transition: 0.5s;
   margin-bottom: 30px;
   z-index: 1;
@@ -2356,7 +2356,7 @@ Pricing CSS
   margin-bottom: 0;
 }
 .pricing-table .pricing-features ul li.active {
-  color: #384273;
+  color: #92a2f7;
   text-decoration: none;
 }
 .pricing-table:hover {
@@ -2427,7 +2427,7 @@ Pricing CSS
   list-style-type: none;
 }
 .single-pricing-table .pricing-features ul li {
-  color: #384273;
+  color: #92a2f7;
   margin-bottom: 12px;
 }
 .single-pricing-table .pricing-features ul li:last-child {
@@ -2474,12 +2474,12 @@ Pricing CSS
   font-size: 15px;
 }
 .pricing-tab .react-tabs__tab-list li:hover {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   background: linear-gradient(to left bottom, #fffcff, #fbfaff, #effbff, #e0fdff, #d5fefd);
 }
 .pricing-tab .react-tabs__tab-list li.react-tabs__tab--selected {
   color: #ffffff;
-  background: hsl(150, 20%, 2%);
+  background: hsl(180, 24%, 53%);
 }
 .pricing-tab .react-tabs__tab-list li:nth-child(1) {
   border-radius: 5px 0 0 5px;
@@ -2495,7 +2495,7 @@ Pricing CSS
 }
 
 .pricing-box {
-  background: linear-gradient(to left bottom, #fffcff, #fbfaff, #effbff, #e0fdff, #d5fefd);
+  background: linear-gradient(to bottom, #0b0c2a, #1a0033), linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(26, 0, 51, 0.5)), repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05) 10px, rgba(0, 0, 0, 0.05) 10px, rgba(0, 0, 0, 0.05) 20px);
   text-align: center;
   padding: 30px;
   transition: 0.5s;
@@ -2505,6 +2505,7 @@ Pricing CSS
 .pricing-box .pricing-header h3 {
   margin-bottom: 0;
   font-size: 20px;
+  color: beige;
 }
 .pricing-box .pricing-header p {
   transition: 0.5s;
@@ -2517,6 +2518,7 @@ Pricing CSS
   font-weight: 600;
   margin-bottom: 15px;
   margin-top: 20px;
+  color: #314d6e;
 }
 .pricing-box .price span {
   display: inline-block;
@@ -2564,7 +2566,7 @@ Pricing CSS
 }
 .pricing-box .pricing-features li {
   margin-bottom: 12px;
-  color: #495771;
+  color: #90a4cb;
   position: relative;
   padding-left: 27px;
 }
@@ -2919,21 +2921,21 @@ Feedback CSS
 .single-feedback-box .feedback-desc p {
   margin-bottom: 0;
   position: relative;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .single-feedback-box .feedback-desc p::before {
   content: '"';
   position: relative;
   display: inline-block;
   left: 0;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .single-feedback-box .feedback-desc p::after {
   content: '"';
   position: relative;
   display: inline-block;
   right: 0;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .single-feedback-box .feedback-desc::before {
   content: "";
@@ -2989,7 +2991,7 @@ Feedback CSS
 }
 .single-feedback-box .client-info span {
   display: block;
-  color: #384273;
+  color: #92a2f7;
   margin-top: 6px;
 }
 
@@ -3022,7 +3024,7 @@ Ready To Talk CSS
   box-shadow: 0 5px 20px 0 rgba(198, 121, 227, 0.25);
 }
 .ready-to-talk .btn-primary:hover, .ready-to-talk .btn-primary:focus {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   box-shadow: 0 5px 20px 0 rgba(68, 206, 111, 0.25);
 }
 .ready-to-talk span a {
@@ -3238,7 +3240,7 @@ Discover CSS
   box-shadow: unset !important;
   margin-top: 15px;
   background-color: #ffffff;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .discover-content .btn-primary:hover {
   color: #ffffff;
@@ -3329,7 +3331,7 @@ Industries Serve CSS
   margin-bottom: 30px;
   position: relative;
   overflow: hidden;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   border-radius: 5px;
   background-color: #f4f4fb;
   padding: 20px 15px 20px 50px;
@@ -3359,7 +3361,7 @@ Industries Serve CSS
   content: "";
   z-index: -1;
   transition: 0.5s;
-  background-color: hsl(150, 20%, 2%);
+  background-color: hsl(180, 24%, 53%);
 }
 .single-industries-serve-box .link-btn {
   display: block;
@@ -3443,7 +3445,7 @@ Blog CSS
   color: #4957A6;
 }
 .single-blog-post .blog-post-content .read-more-btn {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .single-blog-post .blog-post-content .read-more-btn svg {
   transition: 0.5s;
@@ -3489,7 +3491,7 @@ Blog CSS
   display: inline-block;
   position: relative;
   margin-right: 16px;
-  color: #384273;
+  color: #92a2f7;
   font-size: 14px;
 }
 .single-blog-post-box .entry-post-content .entry-meta ul li::before {
@@ -3498,13 +3500,13 @@ Blog CSS
   right: -7px;
   top: 50%;
   transform: rotate(14deg) translateY(-50%);
-  background: #384273;
+  background: #92a2f7;
   width: 1px;
   height: 13px;
 }
 .single-blog-post-box .entry-post-content .entry-meta ul li a {
   display: inline-block;
-  color: #384273;
+  color: #92a2f7;
 }
 .single-blog-post-box .entry-post-content .entry-meta ul li a:hover {
   color: #4957A6;
@@ -3562,7 +3564,7 @@ Blog CSS
   right: -20px;
   width: 10px;
   height: 1px;
-  background-color: #384273;
+  background-color: #92a2f7;
 }
 .single-blog-item .post-content .post-meta li:last-child {
   margin-right: 0;
@@ -3612,10 +3614,10 @@ Blog CSS
   display: inline-block;
   margin-right: 20px;
   position: relative;
-  color: #384273;
+  color: #92a2f7;
 }
 .single-blog-post-item .post-content .post-meta li a {
-  color: #384273;
+  color: #92a2f7;
 }
 .single-blog-post-item .post-content .post-meta li a:hover {
   color: #4957A6;
@@ -3626,7 +3628,7 @@ Blog CSS
   right: -10px;
   top: 4px;
   height: 12px;
-  background-color: #384273;
+  background-color: #92a2f7;
   width: 1px;
   transform: rotate(5deg);
 }
@@ -3735,8 +3737,8 @@ Shop CSS
   background-color: #fff;
   display: block;
   width: 100%;
-  color: hsl(150, 20%, 2%);
-  border: 1px solid hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
+  border: 1px solid hsl(180, 24%, 53%);
   padding: 10px 15px;
   text-transform: uppercase;
   font-weight: 500;
@@ -3809,7 +3811,7 @@ Shop CSS
   color: #ffffff;
 }
 .single-products:hover .products-content .add-to-cart-btn, .single-products:focus .products-content .add-to-cart-btn {
-  background-color: hsl(150, 20%, 2%);
+  background-color: hsl(180, 24%, 53%);
   color: #ffffff;
 }
 .single-products:hover .products-image img, .single-products:focus .products-image img {
@@ -3880,7 +3882,7 @@ Shop CSS
 }
 #productsModalCenter .modal-content .products-content .price span {
   text-decoration: line-through;
-  color: #384273;
+  color: #92a2f7;
 }
 #productsModalCenter .modal-content .products-content form .quantity {
   display: inline-block;
@@ -3898,7 +3900,7 @@ Shop CSS
   top: 0;
   background-color: transparent;
   cursor: pointer;
-  color: #384273;
+  color: #92a2f7;
   width: 40px;
   height: 100%;
   line-height: 47px;
@@ -3919,7 +3921,7 @@ Shop CSS
 }
 #productsModalCenter .modal-content .products-content form .quantity .input-counter input {
   height: 47px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   outline: 0;
   display: block;
   border: none;
@@ -3930,10 +3932,10 @@ Shop CSS
   font-weight: 500;
 }
 #productsModalCenter .modal-content .products-content form .quantity .input-counter input::-moz-placeholder {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 #productsModalCenter .modal-content .products-content form .quantity .input-counter input::placeholder {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 #productsModalCenter .modal-content .products-content form button {
   background: #4957A6;
@@ -3979,7 +3981,7 @@ Shop Details CSS
 }
 .products-details .price span {
   text-decoration: line-through;
-  color: #384273;
+  color: #92a2f7;
   margin-right: 5px;
 }
 .products-details .rating {
@@ -4027,7 +4029,7 @@ Shop Details CSS
   top: 0;
   background-color: transparent;
   cursor: pointer;
-  color: #384273;
+  color: #92a2f7;
   width: 40px;
   height: 100%;
   line-height: 47px;
@@ -4048,7 +4050,7 @@ Shop Details CSS
 }
 .products-details form .quantity .input-counter input {
   height: 47px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   outline: 0;
   display: block;
   border: none;
@@ -4059,10 +4061,10 @@ Shop Details CSS
   font-weight: 500;
 }
 .products-details form .quantity .input-counter input::-moz-placeholder {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .products-details form .quantity .input-counter input::placeholder {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .products-details form button {
   background: #4957A6;
@@ -4083,7 +4085,7 @@ Shop Details CSS
 .products-details form .add-to-wishlist-btn {
   margin-left: 5px;
   background: transparent;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   border: 1px solid #eeeeee;
   position: relative;
   top: -2px;
@@ -4238,7 +4240,7 @@ Shop Details CSS
   border: 1px solid #eeeeee;
   border-bottom: none;
   padding: 10px 15px;
-  color: #384273;
+  color: #92a2f7;
 }
 .products-details-tabs .react-tabs__tab-panel .additional-information li:last-child {
   border-bottom: 1px solid #eeeeee;
@@ -4304,7 +4306,7 @@ Cart CSS
 }
 .cart-table table tbody tr td {
   vertical-align: middle;
-  color: #384273;
+  color: #92a2f7;
   padding-left: 0;
   padding-right: 0;
   border-color: #eaedff;
@@ -4318,7 +4320,7 @@ Cart CSS
   width: 80px;
 }
 .cart-table table tbody tr td.product-name a {
-  color: #384273;
+  color: #92a2f7;
   font-weight: 500;
   display: inline-block;
 }
@@ -4349,7 +4351,7 @@ Cart CSS
   top: 0;
   background-color: transparent;
   cursor: pointer;
-  color: #384273;
+  color: #92a2f7;
   width: 40px;
   height: 100%;
   line-height: 47px;
@@ -4369,7 +4371,7 @@ Cart CSS
 }
 .cart-table table tbody tr td.product-quantity .input-counter input {
   height: 45px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   outline: 0;
   display: block;
   border: none;
@@ -4380,10 +4382,10 @@ Cart CSS
   font-weight: 500;
 }
 .cart-table table tbody tr td.product-quantity .input-counter input::-moz-placeholder {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .cart-table table tbody tr td.product-quantity .input-counter input::placeholder {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 
 .cart-buttons {
@@ -4422,7 +4424,7 @@ Cart CSS
 .cart-totals ul li {
   border: 1px solid #eaedff;
   padding: 10px 15px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   overflow: hidden;
 }
 .cart-totals ul li:first-child {
@@ -4433,7 +4435,7 @@ Cart CSS
 }
 .cart-totals ul li span {
   float: right;
-  color: #384273;
+  color: #92a2f7;
 }
 
 /*================================================
@@ -4458,7 +4460,7 @@ Checkout CSS
 .user-actions span a {
   font-weight: 500;
   display: inline-block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .user-actions span a:hover, .user-actions span a:focus {
   color: #4957A6;
@@ -4480,7 +4482,7 @@ Checkout CSS
 }
 .billing-details .form-group label {
   display: block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   margin-bottom: 8px;
   font-size: 14px;
   font-weight: 400;
@@ -4498,7 +4500,7 @@ Checkout CSS
   margin-bottom: 15px;
 }
 .billing-details .form-check .form-check-label {
-  color: #384273;
+  color: #92a2f7;
 }
 .billing-details .form-check label {
   font-size: 14px;
@@ -4533,20 +4535,20 @@ Checkout CSS
 }
 .order-details .order-table table tbody tr td {
   vertical-align: middle;
-  color: #384273;
+  color: #92a2f7;
   border-color: #eaedff;
   font-size: 14px;
   padding: 15px 20px;
 }
 .order-details .order-table table tbody tr td.product-name a {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   display: inline-block;
 }
 .order-details .order-table table tbody tr td.product-name a:hover {
   color: #4957A6;
 }
 .order-details .order-table table tbody tr td.order-subtotal span, .order-details .order-table table tbody tr td.order-shipping span, .order-details .order-table table tbody tr td.total-price span {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   font-weight: 500;
 }
 .order-details .payment-method {
@@ -4564,7 +4566,7 @@ Checkout CSS
   padding-left: 27px;
   cursor: pointer;
   display: block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   position: relative;
   margin-bottom: 8px;
   font-weight: 500;
@@ -4612,7 +4614,7 @@ Page Title CSS
 .page-title-area {
   position: relative;
   z-index: 1;
-  background: transparent url("/images/banner-bg1.jpg") right top no-repeat;
+  background: transparent url("/images/banner-bg1.webp") right top no-repeat;
   padding-top: 190px;
   padding-bottom: 100px;
   text-align: center;
@@ -4651,7 +4653,7 @@ FAQ CSS
   display: block;
   padding: 15px 20px;
   text-decoration: none;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   position: relative;
   background-color: #fff;
   font-size: 15px;
@@ -4751,12 +4753,12 @@ Blog Details CSS
 .blog-details-desc .article-content .entry-meta ul li {
   position: relative;
   display: inline-block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   margin-right: 20px;
 }
 .blog-details-desc .article-content .entry-meta ul li a {
   display: inline-block;
-  color: #384273;
+  color: #92a2f7;
 }
 .blog-details-desc .article-content .entry-meta ul li a:hover {
   color: #4957A6;
@@ -4830,7 +4832,7 @@ Blog Details CSS
   margin-bottom: 15px;
   position: relative;
   padding-left: 25px;
-  color: #384273;
+  color: #92a2f7;
 }
 .blog-details-desc .article-content .features-list li svg {
   color: #4957A6;
@@ -4884,7 +4886,7 @@ Blog Details CSS
 .comments-area .comment-body {
   border-bottom: 1px solid #eeeeee;
   padding-left: 65px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   font-size: 14px;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -4894,7 +4896,7 @@ Blog Details CSS
 }
 .comments-area .comment-body .reply a {
   border: 1px solid #ded9d9;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   display: inline-block;
   padding: 6px 20px;
   border-radius: 30px;
@@ -4929,14 +4931,14 @@ Blog Details CSS
 }
 .comments-area .comment-metadata {
   margin-bottom: 0.8em;
-  color: #384273;
+  color: #92a2f7;
   letter-spacing: 0.01em;
   text-transform: uppercase;
   font-size: 13px;
   font-weight: 400;
 }
 .comments-area .comment-metadata a {
-  color: #384273;
+  color: #92a2f7;
 }
 .comments-area .comment-metadata a:hover {
   color: #4957A6;
@@ -4968,7 +4970,7 @@ Blog Details CSS
 }
 .comments-area .comment-respond label {
   display: block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   margin-bottom: 5px;
   font-size: 14px;
 }
@@ -5016,7 +5018,7 @@ Blog Details CSS
 .comments-area .comment-respond .comment-form-cookies-consent label {
   display: inline-block;
   margin: 0;
-  color: #384273;
+  color: #92a2f7;
   font-weight: normal;
   position: relative;
   top: -2px;
@@ -5121,7 +5123,7 @@ Blog Details CSS
   font-weight: 500;
 }
 .prev-link-wrapper .prev-link-info-wrapper {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   transition: 0.5s;
 }
 .prev-link-wrapper .prev-title {
@@ -5131,7 +5133,7 @@ Blog Details CSS
 }
 .prev-link-wrapper .meta-wrapper {
   display: block;
-  color: #384273;
+  color: #92a2f7;
   text-transform: capitalize;
   margin-top: 5px;
   font-weight: 400;
@@ -5206,7 +5208,7 @@ Blog Details CSS
 }
 .next-link-wrapper .next-link-info-wrapper {
   transition: 0.5s;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .next-link-wrapper .next-title {
   display: inline-block;
@@ -5215,7 +5217,7 @@ Blog Details CSS
 }
 .next-link-wrapper .meta-wrapper {
   display: block;
-  color: #384273;
+  color: #92a2f7;
   text-transform: capitalize;
   margin-top: 5px;
   font-weight: 400;
@@ -5232,7 +5234,7 @@ blockquote, .blockquote {
   margin-top: 20px;
 }
 blockquote p, .blockquote p {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   line-height: 1.6;
   margin-bottom: 0;
   font-style: italic;
@@ -5370,7 +5372,7 @@ Sidebar Widget CSS
 }
 .widget-area .widget_ow_posts_thumb .item .info time {
   display: block;
-  color: #384273;
+  color: #92a2f7;
   text-transform: uppercase;
   margin-top: 3px;
   margin-bottom: 5px;
@@ -5393,7 +5395,7 @@ Sidebar Widget CSS
 .widget-area .widget_recent_entries ul li {
   position: relative;
   margin-bottom: 12px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   padding-left: 14px;
   line-height: 1.5;
   font-weight: 500;
@@ -5413,7 +5415,7 @@ Sidebar Widget CSS
 }
 .widget-area .widget_recent_entries ul li a {
   display: inline-block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .widget-area .widget_recent_entries ul li a:hover {
   color: #4957A6;
@@ -5421,7 +5423,7 @@ Sidebar Widget CSS
 .widget-area .widget_recent_entries ul li .post-date {
   display: block;
   font-size: 13px;
-  color: #384273;
+  color: #92a2f7;
   margin-top: 4px;
 }
 .widget-area .widget_recent_comments ul {
@@ -5432,7 +5434,7 @@ Sidebar Widget CSS
 .widget-area .widget_recent_comments ul li {
   position: relative;
   margin-bottom: 12px;
-  color: #384273;
+  color: #92a2f7;
   padding-left: 14px;
   line-height: 1.5;
   font-weight: 500;
@@ -5452,7 +5454,7 @@ Sidebar Widget CSS
 }
 .widget-area .widget_recent_comments ul li a {
   display: inline-block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .widget-area .widget_recent_comments ul li a:hover {
   color: #4957A6;
@@ -5466,7 +5468,7 @@ Sidebar Widget CSS
   position: relative;
   margin-bottom: 12px;
   padding-left: 14px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   font-weight: 500;
   font-size: 14px;
 }
@@ -5484,7 +5486,7 @@ Sidebar Widget CSS
 }
 .widget-area .widget_archive ul li a {
   display: inline-block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .widget-area .widget_archive ul li a:hover {
   color: #4957A6;
@@ -5497,7 +5499,7 @@ Sidebar Widget CSS
 .widget-area .widget_categories ul li {
   position: relative;
   margin-bottom: 12px;
-  color: #384273;
+  color: #92a2f7;
   padding-left: 14px;
   font-weight: 500;
   font-size: 14px;
@@ -5515,7 +5517,7 @@ Sidebar Widget CSS
   position: absolute;
 }
 .widget-area .widget_categories ul li a {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   display: block;
 }
 .widget-area .widget_categories ul li a:hover {
@@ -5532,7 +5534,7 @@ Sidebar Widget CSS
 .widget-area .widget_meta ul li {
   position: relative;
   margin-bottom: 12px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   padding-left: 14px;
   font-weight: 500;
   font-size: 14px;
@@ -5551,14 +5553,14 @@ Sidebar Widget CSS
 }
 .widget-area .widget_meta ul li a {
   display: inline-block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .widget-area .widget_meta ul li a:hover {
   color: #4957A6;
 }
 .widget-area .tagcloud a {
   display: inline-block;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   font-weight: 500;
   font-size: 14px !important;
   padding: 6px 13px;
@@ -5588,7 +5590,7 @@ Project Details CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: hsl(150, 20%, 2%);
+  background: hsl(180, 24%, 53%);
   opacity: 0;
   visibility: hidden;
   transition: 0.4s;
@@ -5639,7 +5641,7 @@ Project Details CSS
 }
 .project-details-desc .project-details-information .single-info-box ul li a {
   margin-right: 10px;
-  color: #384273;
+  color: #92a2f7;
 }
 .project-details-desc .project-details-information .single-info-box ul li a svg {
   width: 18px;
@@ -5693,7 +5695,7 @@ Contact CSS
   margin-bottom: 0;
 }
 .contact-info-box p a {
-  color: #384273;
+  color: #92a2f7;
 }
 .contact-info-box p a:hover {
   color: #4957A6;
@@ -5870,7 +5872,7 @@ Coming Soon CSS
 .coming-soon-content #timer div span {
   display: block;
   margin-top: -4px;
-  color: #384273;
+  color: #92a2f7;
   font-size: 15px;
 }
 
@@ -6070,7 +6072,7 @@ Repair About CSS
   max-width: 50%;
   width: 100%;
   margin-top: 25px;
-  color: #384273;
+  color: #92a2f7;
   position: relative;
   padding-right: 10px;
   padding-left: 10px;
@@ -6229,7 +6231,7 @@ Repair Services CSS
   background-color: #f9fafb;
   height: 35px;
   line-height: 35px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   border-radius: 50%;
 }
 .single-repair-services a svg {
@@ -6356,7 +6358,7 @@ Repair Why Choose Us CSS
   background-color: #eef0f3;
   height: 40px;
   line-height: 40px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   border-radius: 50%;
 }
 .single-repair-box a svg {
@@ -6660,7 +6662,7 @@ Iot Services CSS
   background-color: #f9fafb;
   height: 35px;
   line-height: 35px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   border-radius: 50%;
 }
 .single-iot-services a svg {
@@ -6793,7 +6795,7 @@ IoT Why Choose Us CSS
   background-color: #eef0f3;
   height: 40px;
   line-height: 40px;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   border-radius: 50%;
 }
 .single-iot-box a svg {
@@ -7300,7 +7302,7 @@ Free Trial CSS
   color: #ffffff;
   border: none;
   outline: 0;
-  background-color: hsl(150, 20%, 2%);
+  background-color: hsl(180, 24%, 53%);
   border-radius: 30px;
   padding-top: 3px;
   padding-left: 20px;
@@ -7435,12 +7437,12 @@ Newsletter CSS
   background-color: #ffffff;
   border-radius: 30px;
   transition: 0.5s;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   font-size: 14px;
   font-weight: 600;
 }
 .newsletter-content .newsletter-form button:hover {
-  background-color: hsl(150, 20%, 2%);
+  background-color: hsl(180, 24%, 53%);
   color: #ffffff;
 }
 .newsletter-content p {
@@ -7574,7 +7576,7 @@ Agency Main Banner CSS
   text-transform: uppercase;
   display: block;
   font-size: 16px;
-  color: #384273;
+  color: #92a2f7;
   margin-bottom: 8px;
 }
 .agency-banner-content h1 {
@@ -8035,7 +8037,7 @@ Agency Portfolio Main Banner CSS
   font-size: 16px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  color: #384273;
+  color: #92a2f7;
   margin-bottom: 10px;
 }
 .portfolio-banner-content h1 {
@@ -8060,7 +8062,7 @@ Agency Portfolio Main Banner CSS
 }
 .agency-portfolio-home-slides .swiper-button-next:after, .agency-portfolio-home-slides .swiper-button-prev:after {
   background-color: #e1e1e1;
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
   width: 50px;
   height: 50px;
   text-align: center;
@@ -8139,7 +8141,7 @@ Our Latest Projects CSS
   font-weight: 600;
 }
 .shorting-menu button:hover, .shorting-menu button.active {
-  color: hsl(150, 20%, 2%);
+  color: hsl(180, 24%, 53%);
 }
 .shorting-menu button:last-child {
   margin-right: 0;
@@ -8180,7 +8182,7 @@ Agency Portfolio About CSS
 Agency Portfolio Partner CSS
 =================================================*/
 .agency-portfolio-partner-area {
-  background-color: hsl(150, 20%, 2%);
+  background-color: hsl(180, 24%, 53%);
 }
 
 .single-agency-portfolio-partner {
@@ -8217,7 +8219,7 @@ Creative Area CSS
   margin-left: auto;
 }
 .creative-inner-area .single-counter {
-  background-color: hsl(150, 20%, 2%);
+  background-color: hsl(180, 24%, 53%);
   padding: 60px;
 }
 .creative-inner-area .single-counter h3 {
@@ -8248,7 +8250,7 @@ Creative Area CSS
   background-color: #4957A6;
 }
 .creative-inner-area .col-lg-6:nth-child(2) .single-counter {
-  background-color: hsl(150, 20%, 2%);
+  background-color: hsl(180, 24%, 53%);
 }
 
 /*================================================
@@ -8290,7 +8292,7 @@ Footer CSS
   margin-bottom: 10px;
 }
 .single-footer-widget ul.list li a {
-  color: #384273;
+  color: #92a2f7;
 }
 .single-footer-widget ul.list li a:hover {
   color: #4957A6;
@@ -8304,7 +8306,7 @@ Footer CSS
 }
 .single-footer-widget ul.footer-contact-info li {
   position: relative;
-  color: #384273;
+  color: #92a2f7;
   margin-bottom: 8px;
   padding-left: 25px;
 }
@@ -8319,7 +8321,7 @@ Footer CSS
   margin-bottom: 0;
 }
 .single-footer-widget ul.footer-contact-info li a {
-  color: #384273;
+  color: #92a2f7;
 }
 .single-footer-widget ul.footer-contact-info li a:hover {
   color: #4957A6;

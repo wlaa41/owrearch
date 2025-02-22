@@ -107,13 +107,14 @@ $h4-color: rgb(91, 91, 91);
 $light-green-color: #4957A6; // Darker shade of the provided blue
 $bk-color: #191919; // Keeping white as is
 $white-color: #ffffff; // Keeping white as is
-$black-color: hsl(150, 20%, 2%); // Dark black
+$black-color: hsl(180, 24%, 53%); // Dark black
+
 $navlink-color: #046ca0; // Darker shade of the provided green
-$paragraph-color: #384273; // Darker shade of the provided olive green
+$paragraph-color: #92a2f7; // Darker shade of the provided olive green
 $purple-color: #004e82; // Darker shade of the provided yellow
 $bg-footer: #0e151c; // Keeping background color as is
 $bg-color: #f7fafd; // Keeping background color as is
-$bg-color2: #f9f6f6; // Keeping secondary background color as is
+$bg-color2: #1e1e1e; // Keeping secondary background color as is
 
 $hosting-main-color: #6b49a6; // Darker shade of the provided blue
 
@@ -1373,7 +1374,7 @@ About CSS
 Why Choose US CSS
 =================================================*/
 .why-choose-us {
-    background: transparent url('/images/banner-bg1.jpg') right top no-repeat;
+    background: transparent url('/images/banner-bg1.webp') right top no-repeat;
     position: relative;
     z-index: 1;
 
@@ -2622,7 +2623,7 @@ Pricing CSS
 }
 .pricing-table {
 	text-align: center;
-	background: $white-color;
+	background: $bk-color;
 	box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.06);
 	border-radius: 5px;
 	padding-bottom: 35px;
@@ -2630,12 +2631,12 @@ Pricing CSS
     margin-bottom: 30px;
 
     .pricing-header {
-        background: $white-color;
+        background: $bk-color;
         position: relative;
         padding: 30px 20px;
         border: {
             radius: 5px 5px 0 0;
-            bottom: 1px solid #eeeeee;
+            bottom: 1px solid #2e2e2e;
         }
         transition: $transition;
         margin-bottom: 30px;
@@ -2715,6 +2716,7 @@ Pricing CSS
             }
             h3 {
                 color: $white-color;
+                
             }
         }
     }
@@ -2880,7 +2882,21 @@ Pricing CSS
     }
 }
 .pricing-box {
-    background: linear-gradient(to left bottom, #fffcff, #fbfaff, #effbff, #e0fdff, #d5fefd);
+    background: 
+    /* Bottom layer: Deep dark blue to dark purple gradient */
+    linear-gradient(to bottom, #0b0c2a, #1a0033),
+    /* Middle layer: Semi-transparent overlay to enhance depth */
+    linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(26, 0, 51, 0.5)),
+    /* Top layer: Subtle diagonal stripes for texture */
+    repeating-linear-gradient(
+      45deg,
+      rgba(255, 255, 255, 0.05),
+      rgba(255, 255, 255, 0.05) 10px,
+      rgba(0, 0, 0, 0.05) 10px,
+      rgba(0, 0, 0, 0.05) 20px
+    );
+  
+  
     text-align: center;
     padding: 30px;
     transition: $transition;
@@ -2893,6 +2909,7 @@ Pricing CSS
             font: {
                 size: 20px;
             }
+            color: beige;
         }
         p {
             transition: $transition;
@@ -2920,6 +2937,7 @@ Pricing CSS
                 weight: 600;
             }
         }
+        color: #314d6e;
     }
     .buy-btn {
         margin-bottom: 30px;
@@ -2967,7 +2985,7 @@ Pricing CSS
         };
         li {
             margin-bottom: 12px;
-            color: #495771;
+            color: #90a4cb;
             position: relative;
             padding-left: 27px;
 
@@ -5359,7 +5377,7 @@ Page Title CSS
 .page-title-area {
     position: relative;
     z-index: 1;
-    background: transparent url('/images/banner-bg1.jpg') right top no-repeat;
+    background: transparent url('/images/banner-bg1.webp') right top no-repeat;
     padding: {
         top: 190px;
         bottom: 100px;

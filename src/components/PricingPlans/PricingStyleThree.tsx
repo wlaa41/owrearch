@@ -73,7 +73,7 @@ const PricingStyleThree = () => {
                   data-aos-once="true"
                 >
                   <div className="pricing-box">
-                    <div className="course-header">
+                    <div className="pricing-header">
                       <h3>Robotic & Vision</h3>
                       <p>Explore OpenCV, CNNs, and real-time object detection techniques.</p>
                     </div>
@@ -114,7 +114,7 @@ const PricingStyleThree = () => {
                     <div className="buy-btn">
                       <Link href="#" className="btn btn-primary">Enroll Now</Link>
                     </div>
-                    <ul className="course-features">
+                    <ul className="pricing-features">
                       <li><Icon.Check /> Interactive simulations of calculus & linear algebra</li>
                       <li><Icon.Check /> Real-time visualization of differential equations</li>
                       <li><Icon.Check /> Hands-on coding with Python & MATLAB</li>
