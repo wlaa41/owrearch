@@ -107,14 +107,14 @@ $h4-color: rgb(91, 91, 91);
 $light-green-color: #4957A6; // Darker shade of the provided blue
 $bk-color: #191919; // Keeping white as is
 $white-color: #ffffff; // Keeping white as is
-$black-color: hsl(180, 24%, 53%); // Dark black
+$black-color: hsl(180, 45%, 84%); // Dark black
 
 $navlink-color: #046ca0; // Darker shade of the provided green
 $paragraph-color: #92a2f7; // Darker shade of the provided olive green
 $purple-color: #004e82; // Darker shade of the provided yellow
 $bg-footer: #0e151c; // Keeping background color as is
 $bg-color: #f7fafd; // Keeping background color as is
-$bg-color2: #1e1e1e; // Keeping secondary background color as is
+$bg-color2: #0a0a0a; // Keeping secondary background color as is
 
 $hosting-main-color: #6b49a6; // Darker shade of the provided blue
 
@@ -2618,6 +2618,7 @@ Fun Facts CSS
 Pricing CSS
 ===========================================*/
 .pricing-area {
+    margin-top: 11px;
     position: relative;
     z-index: 1;
 }
@@ -2631,7 +2632,13 @@ Pricing CSS
     margin-bottom: 30px;
 
     .pricing-header {
-        background: $bk-color;
+        background: radial-gradient(circle at 10% 10%,
+        rgba(74, 74, 74, 0.4),
+        rgba(255, 255, 255, 0)),
+      linear-gradient(149.47deg,
+        rgba(27, 27, 27, 0.8) 5.08%,
+        rgba(21, 21, 21, 0.8) 50.65%,
+        rgba(17, 17, 17, 0.8) 75.66%);
         position: relative;
         padding: 30px 20px;
         border: {
@@ -2862,7 +2869,7 @@ Pricing CSS
             }
             &.react-tabs__tab--selected {
                 color: $white-color;
-                background: $black-color;
+                background: $bg-color2;
             }
             &:nth-child(1) {
                 border-radius: 5px 0 0 5px;
@@ -9791,5 +9798,13 @@ Go Top CSS
         &:last-child {
             background-color: #483e3e;
         }
+    }
+}
+
+
+.card-body{
+    background-color: #000;
+    .card-title{
+        color: $bg-color;
     }
 }

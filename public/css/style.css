@@ -101,7 +101,7 @@ img {
 }
 
 a {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   display: inline-block;
   transition: 0.5s;
   text-decoration: none;
@@ -129,7 +129,7 @@ p:last-child {
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   font-weight: 500;
 }
 
@@ -159,7 +159,7 @@ p:last-child {
 }
 
 .bg-f9f6f6 {
-  background-color: #1e1e1e;
+  background-color: #0a0a0a;
 }
 
 .bg-f9fafb {
@@ -203,7 +203,7 @@ textarea.form-control {
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #ffffff;
-  background: hsl(180, 24%, 53%);
+  background: hsl(180, 45%, 84%);
   transform: translateY(-5px);
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
@@ -215,7 +215,7 @@ textarea.form-control {
 }
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .btn-primary .show > .btn-primary.dropdown-toggle {
   color: #ffffff;
-  background: hsl(180, 24%, 53%);
+  background: hsl(180, 45%, 84%);
   transform: translateY(-5px);
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
@@ -226,7 +226,7 @@ textarea.form-control {
   opacity: 1;
 }
 .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary:disabled:hover, .btn-primary:disabled:focus {
-  background: hsl(180, 24%, 53%);
+  background: hsl(180, 45%, 84%);
   box-shadow: 0 13px 27px 0 rgba(198, 121, 227, 0.25);
 }
 
@@ -304,7 +304,7 @@ textarea.form-control {
 }
 
 label {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   font-size: 15px;
   font-weight: 500;
   margin-bottom: 10px;
@@ -314,7 +314,7 @@ label {
   height: 45px;
   padding: 10px 15px;
   font-size: 14px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   border: 1px solid #eeeeee;
   border-radius: 0;
   background: #eeeeee;
@@ -599,7 +599,7 @@ Navbar CSS
   margin-right: 10px;
 }
 .ow-nav nav .others-option .btn.btn-light:focus {
-  color: hsl(180, 24%, 53%) !important;
+  color: hsl(180, 45%, 84%) !important;
 }
 .ow-nav nav .others-option .btn.btn-light:hover, .ow-nav nav .others-option .btn.btn-light:focus {
   color: #ffffff;
@@ -1660,7 +1660,7 @@ Bigdata Services CSS
   transition: 0.5s;
 }
 .single-services-box-item .learn-more-btn:hover {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   padding-left: 0;
   padding-right: 5px;
 }
@@ -1714,7 +1714,7 @@ Services Details CSS
   display: block;
   padding: 15px 20px;
   text-decoration: none;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   position: relative;
   background-color: #fff;
   font-size: 15px;
@@ -1937,7 +1937,7 @@ Features Details CSS
   display: block;
   padding: 15px 20px;
   text-decoration: none;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   position: relative;
   background-color: #fff;
   font-size: 15px;
@@ -2010,7 +2010,7 @@ Team CSS
   position: absolute;
   left: 0;
   top: 50%;
-  background: #1e1e1e;
+  background: #0a0a0a;
   height: 10px;
   width: 100%;
   z-index: -1;
@@ -2120,7 +2120,7 @@ Works CSS
   width: 19px;
 }
 .single-works .icon:hover {
-  background: hsl(180, 24%, 53%);
+  background: hsl(180, 45%, 84%);
   color: #ffffff;
 }
 .single-works .works-content {
@@ -2284,6 +2284,7 @@ Fun Facts CSS
 Pricing CSS
 ===========================================*/
 .pricing-area {
+  margin-top: 11px;
   position: relative;
   z-index: 1;
 }
@@ -2298,7 +2299,7 @@ Pricing CSS
   margin-bottom: 30px;
 }
 .pricing-table .pricing-header {
-  background: #191919;
+  background: radial-gradient(circle at 10% 10%, rgba(74, 74, 74, 0.4), rgba(255, 255, 255, 0)), linear-gradient(149.47deg, rgba(27, 27, 27, 0.8) 5.08%, rgba(21, 21, 21, 0.8) 50.65%, rgba(17, 17, 17, 0.8) 75.66%);
   position: relative;
   padding: 30px 20px;
   border-radius: 5px 5px 0 0;
@@ -2474,12 +2475,12 @@ Pricing CSS
   font-size: 15px;
 }
 .pricing-tab .react-tabs__tab-list li:hover {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   background: linear-gradient(to left bottom, #fffcff, #fbfaff, #effbff, #e0fdff, #d5fefd);
 }
 .pricing-tab .react-tabs__tab-list li.react-tabs__tab--selected {
   color: #ffffff;
-  background: hsl(180, 24%, 53%);
+  background: #0a0a0a;
 }
 .pricing-tab .react-tabs__tab-list li:nth-child(1) {
   border-radius: 5px 0 0 5px;
@@ -2921,21 +2922,21 @@ Feedback CSS
 .single-feedback-box .feedback-desc p {
   margin-bottom: 0;
   position: relative;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .single-feedback-box .feedback-desc p::before {
   content: '"';
   position: relative;
   display: inline-block;
   left: 0;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .single-feedback-box .feedback-desc p::after {
   content: '"';
   position: relative;
   display: inline-block;
   right: 0;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .single-feedback-box .feedback-desc::before {
   content: "";
@@ -3024,7 +3025,7 @@ Ready To Talk CSS
   box-shadow: 0 5px 20px 0 rgba(198, 121, 227, 0.25);
 }
 .ready-to-talk .btn-primary:hover, .ready-to-talk .btn-primary:focus {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   box-shadow: 0 5px 20px 0 rgba(68, 206, 111, 0.25);
 }
 .ready-to-talk span a {
@@ -3240,7 +3241,7 @@ Discover CSS
   box-shadow: unset !important;
   margin-top: 15px;
   background-color: #ffffff;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .discover-content .btn-primary:hover {
   color: #ffffff;
@@ -3331,7 +3332,7 @@ Industries Serve CSS
   margin-bottom: 30px;
   position: relative;
   overflow: hidden;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   border-radius: 5px;
   background-color: #f4f4fb;
   padding: 20px 15px 20px 50px;
@@ -3361,7 +3362,7 @@ Industries Serve CSS
   content: "";
   z-index: -1;
   transition: 0.5s;
-  background-color: hsl(180, 24%, 53%);
+  background-color: hsl(180, 45%, 84%);
 }
 .single-industries-serve-box .link-btn {
   display: block;
@@ -3445,7 +3446,7 @@ Blog CSS
   color: #4957A6;
 }
 .single-blog-post .blog-post-content .read-more-btn {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .single-blog-post .blog-post-content .read-more-btn svg {
   transition: 0.5s;
@@ -3737,8 +3738,8 @@ Shop CSS
   background-color: #fff;
   display: block;
   width: 100%;
-  color: hsl(180, 24%, 53%);
-  border: 1px solid hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
+  border: 1px solid hsl(180, 45%, 84%);
   padding: 10px 15px;
   text-transform: uppercase;
   font-weight: 500;
@@ -3811,7 +3812,7 @@ Shop CSS
   color: #ffffff;
 }
 .single-products:hover .products-content .add-to-cart-btn, .single-products:focus .products-content .add-to-cart-btn {
-  background-color: hsl(180, 24%, 53%);
+  background-color: hsl(180, 45%, 84%);
   color: #ffffff;
 }
 .single-products:hover .products-image img, .single-products:focus .products-image img {
@@ -3921,7 +3922,7 @@ Shop CSS
 }
 #productsModalCenter .modal-content .products-content form .quantity .input-counter input {
   height: 47px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   outline: 0;
   display: block;
   border: none;
@@ -3932,10 +3933,10 @@ Shop CSS
   font-weight: 500;
 }
 #productsModalCenter .modal-content .products-content form .quantity .input-counter input::-moz-placeholder {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 #productsModalCenter .modal-content .products-content form .quantity .input-counter input::placeholder {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 #productsModalCenter .modal-content .products-content form button {
   background: #4957A6;
@@ -4050,7 +4051,7 @@ Shop Details CSS
 }
 .products-details form .quantity .input-counter input {
   height: 47px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   outline: 0;
   display: block;
   border: none;
@@ -4061,10 +4062,10 @@ Shop Details CSS
   font-weight: 500;
 }
 .products-details form .quantity .input-counter input::-moz-placeholder {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .products-details form .quantity .input-counter input::placeholder {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .products-details form button {
   background: #4957A6;
@@ -4085,7 +4086,7 @@ Shop Details CSS
 .products-details form .add-to-wishlist-btn {
   margin-left: 5px;
   background: transparent;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   border: 1px solid #eeeeee;
   position: relative;
   top: -2px;
@@ -4371,7 +4372,7 @@ Cart CSS
 }
 .cart-table table tbody tr td.product-quantity .input-counter input {
   height: 45px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   outline: 0;
   display: block;
   border: none;
@@ -4382,10 +4383,10 @@ Cart CSS
   font-weight: 500;
 }
 .cart-table table tbody tr td.product-quantity .input-counter input::-moz-placeholder {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .cart-table table tbody tr td.product-quantity .input-counter input::placeholder {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 
 .cart-buttons {
@@ -4424,7 +4425,7 @@ Cart CSS
 .cart-totals ul li {
   border: 1px solid #eaedff;
   padding: 10px 15px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   overflow: hidden;
 }
 .cart-totals ul li:first-child {
@@ -4460,7 +4461,7 @@ Checkout CSS
 .user-actions span a {
   font-weight: 500;
   display: inline-block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .user-actions span a:hover, .user-actions span a:focus {
   color: #4957A6;
@@ -4482,7 +4483,7 @@ Checkout CSS
 }
 .billing-details .form-group label {
   display: block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   margin-bottom: 8px;
   font-size: 14px;
   font-weight: 400;
@@ -4541,14 +4542,14 @@ Checkout CSS
   padding: 15px 20px;
 }
 .order-details .order-table table tbody tr td.product-name a {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   display: inline-block;
 }
 .order-details .order-table table tbody tr td.product-name a:hover {
   color: #4957A6;
 }
 .order-details .order-table table tbody tr td.order-subtotal span, .order-details .order-table table tbody tr td.order-shipping span, .order-details .order-table table tbody tr td.total-price span {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   font-weight: 500;
 }
 .order-details .payment-method {
@@ -4566,7 +4567,7 @@ Checkout CSS
   padding-left: 27px;
   cursor: pointer;
   display: block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   position: relative;
   margin-bottom: 8px;
   font-weight: 500;
@@ -4653,7 +4654,7 @@ FAQ CSS
   display: block;
   padding: 15px 20px;
   text-decoration: none;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   position: relative;
   background-color: #fff;
   font-size: 15px;
@@ -4753,7 +4754,7 @@ Blog Details CSS
 .blog-details-desc .article-content .entry-meta ul li {
   position: relative;
   display: inline-block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   margin-right: 20px;
 }
 .blog-details-desc .article-content .entry-meta ul li a {
@@ -4886,7 +4887,7 @@ Blog Details CSS
 .comments-area .comment-body {
   border-bottom: 1px solid #eeeeee;
   padding-left: 65px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   font-size: 14px;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -4896,7 +4897,7 @@ Blog Details CSS
 }
 .comments-area .comment-body .reply a {
   border: 1px solid #ded9d9;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   display: inline-block;
   padding: 6px 20px;
   border-radius: 30px;
@@ -4970,7 +4971,7 @@ Blog Details CSS
 }
 .comments-area .comment-respond label {
   display: block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   margin-bottom: 5px;
   font-size: 14px;
 }
@@ -5123,7 +5124,7 @@ Blog Details CSS
   font-weight: 500;
 }
 .prev-link-wrapper .prev-link-info-wrapper {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   transition: 0.5s;
 }
 .prev-link-wrapper .prev-title {
@@ -5208,7 +5209,7 @@ Blog Details CSS
 }
 .next-link-wrapper .next-link-info-wrapper {
   transition: 0.5s;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .next-link-wrapper .next-title {
   display: inline-block;
@@ -5234,7 +5235,7 @@ blockquote, .blockquote {
   margin-top: 20px;
 }
 blockquote p, .blockquote p {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   line-height: 1.6;
   margin-bottom: 0;
   font-style: italic;
@@ -5395,7 +5396,7 @@ Sidebar Widget CSS
 .widget-area .widget_recent_entries ul li {
   position: relative;
   margin-bottom: 12px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   padding-left: 14px;
   line-height: 1.5;
   font-weight: 500;
@@ -5415,7 +5416,7 @@ Sidebar Widget CSS
 }
 .widget-area .widget_recent_entries ul li a {
   display: inline-block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .widget-area .widget_recent_entries ul li a:hover {
   color: #4957A6;
@@ -5454,7 +5455,7 @@ Sidebar Widget CSS
 }
 .widget-area .widget_recent_comments ul li a {
   display: inline-block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .widget-area .widget_recent_comments ul li a:hover {
   color: #4957A6;
@@ -5468,7 +5469,7 @@ Sidebar Widget CSS
   position: relative;
   margin-bottom: 12px;
   padding-left: 14px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   font-weight: 500;
   font-size: 14px;
 }
@@ -5486,7 +5487,7 @@ Sidebar Widget CSS
 }
 .widget-area .widget_archive ul li a {
   display: inline-block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .widget-area .widget_archive ul li a:hover {
   color: #4957A6;
@@ -5517,7 +5518,7 @@ Sidebar Widget CSS
   position: absolute;
 }
 .widget-area .widget_categories ul li a {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   display: block;
 }
 .widget-area .widget_categories ul li a:hover {
@@ -5534,7 +5535,7 @@ Sidebar Widget CSS
 .widget-area .widget_meta ul li {
   position: relative;
   margin-bottom: 12px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   padding-left: 14px;
   font-weight: 500;
   font-size: 14px;
@@ -5553,14 +5554,14 @@ Sidebar Widget CSS
 }
 .widget-area .widget_meta ul li a {
   display: inline-block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .widget-area .widget_meta ul li a:hover {
   color: #4957A6;
 }
 .widget-area .tagcloud a {
   display: inline-block;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   font-weight: 500;
   font-size: 14px !important;
   padding: 6px 13px;
@@ -5590,7 +5591,7 @@ Project Details CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: hsl(180, 24%, 53%);
+  background: hsl(180, 45%, 84%);
   opacity: 0;
   visibility: hidden;
   transition: 0.4s;
@@ -6231,7 +6232,7 @@ Repair Services CSS
   background-color: #f9fafb;
   height: 35px;
   line-height: 35px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   border-radius: 50%;
 }
 .single-repair-services a svg {
@@ -6358,7 +6359,7 @@ Repair Why Choose Us CSS
   background-color: #eef0f3;
   height: 40px;
   line-height: 40px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   border-radius: 50%;
 }
 .single-repair-box a svg {
@@ -6662,7 +6663,7 @@ Iot Services CSS
   background-color: #f9fafb;
   height: 35px;
   line-height: 35px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   border-radius: 50%;
 }
 .single-iot-services a svg {
@@ -6795,7 +6796,7 @@ IoT Why Choose Us CSS
   background-color: #eef0f3;
   height: 40px;
   line-height: 40px;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   border-radius: 50%;
 }
 .single-iot-box a svg {
@@ -7302,7 +7303,7 @@ Free Trial CSS
   color: #ffffff;
   border: none;
   outline: 0;
-  background-color: hsl(180, 24%, 53%);
+  background-color: hsl(180, 45%, 84%);
   border-radius: 30px;
   padding-top: 3px;
   padding-left: 20px;
@@ -7437,12 +7438,12 @@ Newsletter CSS
   background-color: #ffffff;
   border-radius: 30px;
   transition: 0.5s;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   font-size: 14px;
   font-weight: 600;
 }
 .newsletter-content .newsletter-form button:hover {
-  background-color: hsl(180, 24%, 53%);
+  background-color: hsl(180, 45%, 84%);
   color: #ffffff;
 }
 .newsletter-content p {
@@ -8062,7 +8063,7 @@ Agency Portfolio Main Banner CSS
 }
 .agency-portfolio-home-slides .swiper-button-next:after, .agency-portfolio-home-slides .swiper-button-prev:after {
   background-color: #e1e1e1;
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
   width: 50px;
   height: 50px;
   text-align: center;
@@ -8141,7 +8142,7 @@ Our Latest Projects CSS
   font-weight: 600;
 }
 .shorting-menu button:hover, .shorting-menu button.active {
-  color: hsl(180, 24%, 53%);
+  color: hsl(180, 45%, 84%);
 }
 .shorting-menu button:last-child {
   margin-right: 0;
@@ -8182,7 +8183,7 @@ Agency Portfolio About CSS
 Agency Portfolio Partner CSS
 =================================================*/
 .agency-portfolio-partner-area {
-  background-color: hsl(180, 24%, 53%);
+  background-color: hsl(180, 45%, 84%);
 }
 
 .single-agency-portfolio-partner {
@@ -8219,7 +8220,7 @@ Creative Area CSS
   margin-left: auto;
 }
 .creative-inner-area .single-counter {
-  background-color: hsl(180, 24%, 53%);
+  background-color: hsl(180, 45%, 84%);
   padding: 60px;
 }
 .creative-inner-area .single-counter h3 {
@@ -8250,7 +8251,7 @@ Creative Area CSS
   background-color: #4957A6;
 }
 .creative-inner-area .col-lg-6:nth-child(2) .single-counter {
-  background-color: hsl(180, 24%, 53%);
+  background-color: hsl(180, 45%, 84%);
 }
 
 /*================================================
@@ -8484,4 +8485,11 @@ Go Top CSS
 }
 .lang-sidebar li:last-child {
   background-color: #483e3e;
+}
+
+.card-body {
+  background-color: #000;
+}
+.card-body .card-title {
+  color: #f7fafd;
 }/*# sourceMappingURL=style.css.map */
