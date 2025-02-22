@@ -52,11 +52,11 @@ export default function Page() {
     <>
       <Navbar />
 
-      {/* <PageBanner pageTitle="Courses" />
+      <PageBanner pageTitle="Courses" />
       <PricingStyleThree/>
 
 
-      <PricingStyleOne /> */}
+      <PricingStyleOne />
 
       {/* <PricingStyleTwo /> */}
 
@@ -66,7 +66,7 @@ export default function Page() {
       </div> */}
       {/* <PricingTable></PricingTable> */}
 
-      {/* <JoinOurTeam/> */}
+      <JoinOurTeam/>
 
       <Footer />
     </>
