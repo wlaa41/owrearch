@@ -38,6 +38,8 @@ const GoTop = dynamic(() => import('@/components/Layout/GoTop'));
 // const ThemeSwitcher = dynamic(() => import('./blog/_components/theme-switcher'));
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://owresearch.netlify.app'),
+
   title: "AI, Robotics & Research | OW ROQAI - Autonomous Systems & Innovation",
   description: "Explore the latest advancements in AI, robotics, and autonomous systems. Research projects, machine learning, DevOps, and simulation technologies.",
   keywords: [
@@ -334,6 +336,8 @@ export default function RootLayout({
         <meta name="revisit-after" content="7 days" />
         <meta name="rating" content="general" />
         <meta property="og:site_name" content="OW Robotics, Quantum and AI - Research & Innovation" />
+        <meta property="og:image" content="https://owresearch.netlify.app/opengraph-image.png"/>
+
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
 
         <script
