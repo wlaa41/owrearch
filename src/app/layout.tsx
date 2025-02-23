@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     siteName: "OW ROQAI - AI & Robotics Research",
     images: [
       {
-        url: "https://owresearch.netlify.app/opengraph-image.jpg",
+        url: "https://owresearch.netlify.app/opengraph-image.png",
         width: 1200,
         height: 630,
         alt: 'OW ROQAI - AI & Robotics Research',

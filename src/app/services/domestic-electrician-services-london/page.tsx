@@ -24,7 +24,7 @@ export const metadata: Metadata = {
       siteName: "OW Electrician & Home Automation Engineers",
       images: [
         {
-          url: "https://www.owresearch.netlify.app/opengraph-image.jpg",          
+          url: "https://www.owresearch.netlify.app/opengraph-image.png",          
         width: 1200,
           height: 630,
           alt: 'OpenGraph Image',
