@@ -1,12 +1,12 @@
 import React from 'react';
-
+import './WhatsAppButton.css'
 interface WhatsAppButtonProps {
   className?: string;
 }
 
 const WhatsAppButton: React.FC<WhatsAppButtonProps> = ({ className }) => {
   const phoneNumber = "+447307565444";
-  const companyName = "OW London, Electrician, Smart Home Engineers";
+  const companyName = "ROQAI OW Research";
 
   return (
     <div className={`whatsapp-container ${className}`} id='whatsappcontainer' itemScope itemType="http://schema.org/Organization">
@@ -20,22 +20,7 @@ const WhatsAppButton: React.FC<WhatsAppButtonProps> = ({ className }) => {
         className="whatsapp-fixed"
         target="_blank"
         rel="noopener noreferrer"
-        style={{
-          width: '50px',
-          height: '50px',
-          borderRadius: '44px',
-          backgroundColor: 'white',
-          position: 'fixed',
-          left: '25px',
-          bottom: '25px',
-          padding: '10px',
-          fontSize: '30px',
-          color: '#33cccc',
-          display: 'flex',
-          justifyContent: 'center',
-          alignItems: 'center',
-          zIndex: 1000,
-        }}
+ 
         aria-label="Contact us on WhatsApp"
         itemProp="sameAs"
       >
