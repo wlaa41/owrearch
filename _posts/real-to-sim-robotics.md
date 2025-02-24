@@ -50,6 +50,9 @@ RialTo is an advanced robotic manipulation system designed to improve the robust
 - **Robustness Against Disturbances:** Handles variations in object positions, visual distractions, and environmental perturbations.
 - **Minimal Human Supervision:** Uses a simple interface for simulation and requires only a small number of demonstrations.
 
+![real-sim-real-robust-robot-manipulation](/images/research-papers/real-sim-real-robust-robot-manipulation.png)
+
+
 ### Mathematical Concepts
 
 #### Reinforcement Learning (RL)
