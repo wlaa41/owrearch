@@ -93,6 +93,21 @@ body {
   margin: 0;
   font-size: 14px;
   min-width: 370px;
+  color: #c3c3c9;
+}
+
+ul li strong {
+  color: #c3c3c9 !important;
+}
+
+.katex-html {
+  background-color: transparent !important;
+  color: white !important;
+}
+
+.katex {
+  background-color: transparent !important;
+  color: white !important;
 }
 
 img {
@@ -1043,16 +1058,16 @@ Main Banner CSS
     -webkit-transform: translate(0px, 0px) rotate(0deg);
   }
   20% {
-    -webkit-transform: translate(73px, -1px) rotate(36deg);
+    -webkit-transform: translate(73px, -1px) rotate(3deg);
   }
   40% {
-    -webkit-transform: translate(141px, 72px) rotate(72deg);
+    -webkit-transform: translate(141px, 72px) rotate(7deg);
   }
   60% {
-    -webkit-transform: translate(83px, 122px) rotate(108deg);
+    -webkit-transform: translate(83px, 122px) rotate(10deg);
   }
   80% {
-    -webkit-transform: translate(-40px, 72px) rotate(144deg);
+    -webkit-transform: translate(-40px, 72px) rotate(14deg);
   }
   100% {
     -webkit-transform: translate(0px, 0px) rotate(0deg);
@@ -2684,7 +2699,7 @@ Feedback CSS
   position: relative;
 }
 .feedback-slides .client-feedback .single-feedback {
-  background: #ffffff;
+  background: radial-gradient(circle at 0% 0%, rgba(44, 25, 172, 0.4), rgba(0, 0, 0, 0)), linear-gradient(149.47deg, rgba(12, 48, 78, 0.6) 5.08%, rgba(32, 52, 112, 0.6) 50.65%, rgba(21, 10, 86, 0.6) 75.66%);
   border-radius: 5px;
   padding-left: 170px;
   padding-right: 40px;

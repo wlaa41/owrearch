@@ -14,7 +14,7 @@ import clientImg5 from "/public/images/client-image/client5.jpg";
 // Shape Images
 import shape1 from "/public/images/shape1.png";
 import shape2 from "/public/images/shape2.svg";
-import shape3 from "/public/images/shape3.svg";
+import shape3 from "/public/images/DRONE-WITH-PACKAGE-ow-robotics.png";
 import shape4 from "/public/images/shape4.svg";
 import shape5 from "/public/images/shape5.png";
 
